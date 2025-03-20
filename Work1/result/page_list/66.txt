@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Животные – герои Великой Отечественной войны</title>
+<meta content="Животные – герои Великой Отечественной войны. Дик, Дина и Джульбарс – собаки-герои войны." name="description">
+
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+
+
+
+<meta content="ru_RU" property="og:locale"/>
+<meta content="AnimalJournal.ru" property="og:site_name"/>
+<meta content="Животные – герои Великой Отечественной войны" property="og:title"/>
+<meta content="Животные – герои Великой Отечественной войны. Дик, Дина и Джульбарс – собаки-герои войны." property="og:description"/>
+<meta content="https://animaljournal.ru/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/jivotnie_geroi_velikoy_otechectvennoy_voyni.jpg" property="og:image"/>
+<meta content="https://animaljournal.ru/article/jivotnie_geroi_voyni" property="og:url"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Животные – герои Великой Отечественной войны" name="twitter:title"/>
+<meta content="Животные – герои Великой Отечественной войны. Дик, Дина и Джульбарс – собаки-герои войны." name="twitter:description"/>
+<meta content="https://animaljournal.ru/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/jivotnie_geroi_velikoy_otechectvennoy_voyni.jpg" name="twitter:image"/>
+
+
+</meta></head>
+<body>
+<div id="head">
+<div id="head_core">
+<a class="logo" href="/"><img alt="Журнал про животных" height="80" src="/image/logo.png" width="550"/></a>
+</div>
+<div id="touch_menu">
+<a href="#" id="touch_link"><span></span>Меню</a><a href="#" id="up"><span></span>Вверх</a>
+</div>
+<div id="menu">
+<a class="link_menu" href="/"><span class="menut_glav"></span>Журнал о животных</a>
+<a class="link_menu" href="/category/interesnoe_o_jivotnih"><span class="menut_interesnoe"></span>Интересное</a>
+<a class="link_menu" href="/category/jivotnie_rekordsmeni"><span class="menut_record"></span>Рекордсмены</a>
+<a class="link_menu" href="/category/vimershie_jivotnie"><span class="menut_vimer"></span>Вымершие</a>
+<a class="link_menu" href="/category/istorii_o_jivotnih"><span class="menut_istorii"></span>Истории</a>
+<a class="link_menu , link_menu_nb" href="/foto"><span class="menut_foto"></span>Фото</a>
+<div class="soc_ico_menu">
+<span>Мы в социальных сетях:</span>
+<a class="soc_tel" href="https://t.me/animal_journal" rel="nofollow" target="_blank"></a>
+<a class="soc_vk" href="https://vk.com/animaljournal_vk" rel="nofollow" target="_blank"></a>
+<a class="soc_ok" href="https://ok.ru/group/58124103581733" rel="nofollow" target="_blank"></a>
+</div>
+</div>
+</div><div id="wrapper">
+<div id="content">
+<h1>Животные – герои Великой Отечественной войны</h1><div class="info_art"><span class="date_art"><span class="date_img"></span>12 Июнь</span><span class="view_art"><span class="view_img"></span>41599</span><a class="metka_cat" href="/category/istorii_o_jivotnih">истории про животных</a><a class="metka_art" href="/tag/geroi">герои</a></div><!-- Yandex.RTB R-A-259759-4 -->
+<div id="yandex_rtb_R-A-259759-4"></div>
+<p>9 мая 1945 года – День Великой Победы, который навеки останется в истории. Это величайшее событие, которое положило конец фашистской Германии. Неописуемое ликование и облегчение испытали люди в этот день, в День Победы! Невозможно оценить мужество всех тех, кто пожертвовал своей жизнью ради будущих поколений… А что же четвероногие герои Великой войны? Мало кому известно, что братья наши меньшие наравне с солдатами верно и преданно несли свою службу. В этой статье мы расскажем о животных, которые стали героями войны.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/jivotnie_geroi_velikoy_otechectvennoy_voyni.jpg">
+<img alt="Животные – герои Великой Отечественной войны" height="519" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/jivotnie_geroi_velikoy_otechectvennoy_voyni.jpg" width="868"/>
+</a>
+<!--stop-->
+<ul id="toc"></ul>
+<p>Каждый знает, что собака – это самый верный и преданный друг человека. Такие качества ценятся в любое время. Именно поэтому незаменимыми помощниками людей в военное время стали собаки. Они, как и солдаты, отважно сражались и совершали подвиги. Собаки самых разных пород по праву признаны животными – героями Великой Отечественной войны, ведь они помогли спасти сотни тысяч человеческих жизней. Давайте вспомним этих маленьких героев большой войны.</p>
+<div id="blockCon_1"></div>
+<h2>Собака Джульбарс – участник Великой Отечественной войны</h2>
+<p>Джульбарс – собака породы немецкая овчарка. Это военная собака минно-розыскной группы. За весь период службы, благодаря отличному чутью пса было разминировано около 7,5 тысяч мин и более 150 снарядов на территории таких стран как: Чехословакия, Австрия, Румыния и Венгрия.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_djulbars_geroy_voyni.jpg">
+<img alt="Собака Джульбарс - герой войны" height="788" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_djulbars_geroy_voyni.jpg" width="1440"/>
+</a>
+<p>Также Джульбарс принимал участие в операции по разминированию дворцов над Дунаем, соборов Вены и замков Праги. Благодаря Джульбарсу были спасены не только сотни тысяч жизней людей, но и сохранены многие уникальные памятники архитектуры. Пес заслуженно стал почетным участником парада на Красной площади в 1945 году. Собака Джульбарс – герой войны.</p>
+<h2>Собака Дина – профессиональный диверсант</h2>
+<p>Овчарка Дина – участник Великой Отечественной войны, первая собака-диверсант. В специальной школе военного собаководства прошла курс обучения истребителя танков. Кроме этого в батальоне собак-миноискателей Дина приобрела вторую специальность – минера, а затем освоила и третью профессию – диверсанта.</p>
+<p>Собака Дина участвовала в «рельсовой войне» в Белоруссии. Успешно осуществила подрыв немецкого эшелона на перегоне Полоцк – Дрисса в августе 1943 года. В результате успешного выполнения боевой задачи было уничтожено 10 вагонов и выведена из строя большая часть железной дороги. Это была первая в боевой практике операция с применением собаки-диверсанта.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_dina_perviy_diversant.jpg">
+<img alt="Дина - первая собака диверсант" height="1142" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_dina_perviy_diversant.jpg" width="1920"/>
+</a>
+<p>Кроме этого собака Дина отличилась во время разминирования города Полоцка. Она обнаружила спрятанную в немецком госпитале мину, которая предназначалась для наших солдат. Вот такая умница и действительно настоящий профессионал своего дела.</p>
+<h2>Собака Дик – умелый миноискатель</h2>
+<div id="blockCon_2"></div>
+<p>Дик – собака породы колли. Этот пес один из самых известных, ведь именно благодаря его чутью был спасен Павловский дворец под Ленинградом. Дик обнаружил мину с часовым механизмом, заложенную в фундаменте здания, причем всего за час до взрыва.</p>
+<p>Также значительной находкой Дика был обнаруженный в подвале одного из сгоревших домов на центральной улице в Луге 2-тонный заряд, установленный как мина замедленного действия. Страшно представить последствия взрыва, если бы не опытный четвероногий миноискателя.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_dik_minoiskatel.jpg">
+<img alt="Дик - собака-миноискатель" height="1289" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_dik_minoiskatel.jpg" width="1920"/>
+</a>
+<p>Колли Дик прибыл в армию в конце лета 1941 года. Его обучили санитарной службе и службе связи. В 1943 году пес в короткий срок освоил минно-розыскную службу. Это и стало его основной деятельностью до конца войны. Дик дожил до старости, оставаясь на службе до конца жизни и был похоронен с воинскими почестями в городе Павловске.</p>
+<h2>Мухтар – собака-санитар</h2>
+<p>В период войны собаки-санитары были важны не менее собак-миноискателей или собак-диверсантов. Такие псы были оснащены специальной сумкой с медикаментами, закрепленной на спине при помощи ремня, чтобы снабдить нуждающихся предметами первой помощи. Хвостатые санитары помогали раненным прийти в сознание, облизывая их лицо.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/muhtar_sobaka_sanitar.jpg">
+<img alt="Мухтар - собака-санитар" height="714" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/muhtar_sobaka_sanitar.jpg" width="1269"/>
+</a>
+<p>Собаки-санитары отыскивали тяжелораненых солдат в труднодоступных местах и приводили к ним помощь. Часто псы просто оттаскивали раненных с линии огня. Сотни тысяч солдат были спасены благодаря этим четвероногим спасателям. Самым известным из них был Мухтар – собака-санитар. Около 400 солдат, включая собственного проводника, храбрый Мухтар спас за годы войны.</p>
+<h2>Джек – собака-разведчик</h2>
+<div id="blockCon_3"></div>
+<p>Собака-разведчик – особая профессия. Эти псы обучены находить засады, скрытые огневые точки, проходы в тыл противника и проводить туда наших бойцов. Среди солдат они пользовались особым уважением, ведь если с группой разведчиков будет такой пес, вылазка в тыл врага становится результативнее.
+Кроме того, эти собаки были отличными помощниками при захвате «языка». Это тактический прием у разведчиков, чтобы взять в плен и доставить командиру человека, от которого планируется получить ценную информацию.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/djek_sobaka_razvedchik.jpg">
+<img alt="Джек - собака-разведчик" height="709" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/djek_sobaka_razvedchik.jpg" width="1200"/>
+</a>
+<p>Собака-разведчик Джек преуспел именно в этой деятельности. Благодаря ему нашими солдатами было захвачено около 20 «языков». Особо отличился пес когда помог нашим бойцам проникнуть в неприступную крепость Глогау, которая являлась вражеским опорным пунктом и очень хорошо охранялась. Умелый и опытный пес отлично справился с поставленной задачей. В результате чего из крепости был захвачен ценный «язык» –  офицер вражеских войск.</p>
+<h2>Рекс – собака-связист</h2>
+<p>Собаки-связисты занимались доставкой различной корреспонденции, от важных донесений до газет и писем. Бывало, что им даже доверяли доставку орденов и медалей в подразделения, которые находились под шквалом огня. Собаки-связисты смело выполняли важные поручения, проходя сквозь разгар боевых действий, каждый раз рискуя своей жизнью.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_svyazist.jpg">
+<img alt="Собака-связист" height="749" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/sobaka_svyazist.jpg" width="1280"/>
+</a>
+<p>Бессчетное количество сообщений и боевых документов было доставлено этими псами за годы войны. Иногда весь успех военной операции зависел от успешно доставленного послания. Кроме этого собаки-связисты помогли протянуть километры телефонного кабеля, что особенно важно, ведь связь была крайне необходима.</p>
+<p>Одним из наиболее известных четвероногих связистов является пес по кличке Рекс. В феврале 1944 года во время боевых действий под Никополем пес трижды переплывал Днепр, чтобы доставить важные документы, так как кабель протянутый через реку оборвался, а немцы уже пошли в атаку.</p>
+<div id="blockCon_4"></div>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/reks_sobaka_svyazist.jpg">
+<img alt="Рекс - собака-связист" height="748" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/reks_sobaka_svyazist.jpg" width="1247"/>
+</a>
+<p>Пес проявил недюжинную отвагу выполняя свое задание. Он бросился в ледяную воду, стремительное течение и порывистый ветер изрядно затрудняли задачу для Рекса, но он преодолел расстояние и доставил донесение. До этого ему еще не приходилось преодолевать столь широкие реки, к тому же при подобных погодных условиях. Собака-связист Рекс за весь период своей службы на фронте доставил более 1,5 тысяч донесений и не раз был ранен, но всегда вновь возвращался в строй.</p>
+<p>Конечно, это далеко не весь список животных-героев Великой Отечественной войны, чьи отважные поступки спасли многие жизни. В годы войны в различных войсках служили сотни тысяч верных четвероногих помощников. В честь памяти о воинственных подвигах братьев наших меньших в нескольких городах России даже установлены памятники.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/pamyatnik_sobake.jpg">
+<img alt="Памятник собакам - участникам войны" height="1080" src="/articles/top/istorii/jivotnie_geroi_velikoy_otechectvennoy_voyni/pamyatnik_sobake.jpg" width="1920"/>
+</a>
+<p>На войне людям помогали не только собаки, но и многие другие животные не менее смело и преданно служили человечеству, но об этом мы расскажем в другой раз.</p><noindex>
+<p>Не забывайте присоединяться к нам в социальных сетях: <a class="link" href="https://t.me/animal_journal" rel="nofollow" target="_blank">Telegram</a>, <a class="link" href="https://vk.com/animaljournal_vk" rel="nofollow" target="_blank">Вконтакте</a>, <a class="link" href="https://ok.ru/group/58124103581733" rel="nofollow" target="_blank">Одноклассники</a>. Узнавайте о публикациях первыми, ничего не пропускайте и всегда будьте в курсе всех новостей!</p>
+</noindex>
+<div id="shara_soc">
+<span class="shara_title">Не забудьте поделиться с друзьями!</span>
+<div class="ya-share2" data-curtain="" data-limit="5" data-services="vkontakte,facebook,odnoklassniki,telegram,twitter,moimir,viber,whatsapp,messenger,skype,lj,blogger" data-shape="round" data-size="l"></div>
+</div>
+<div id="id-C-A-259759-54"></div>
+
+
+
+<div id="vk_comments"></div>
+<!-- Yandex.RTB R-A-259759-76 -->
+<div id="yandex_rtb_R-A-259759-76"></div>
+
+</div>
+<div id="sb_left">
+<ul class="menu_left">
+<li class="title_menu_sb"><a href="/category/dikie_jivotnie">Дикие животные</a></li>
+<li><a href="/category/vidi_malih_i_bolshih_dikih_koshek"><span class="menu_wild_cat"></span>Кошачьи</a></li>
+<li><a href="/category/predstaviteli_semeystva_psovie"><span class="menu_wild_dog"></span>Псовые</a></li>
+<li><a href="/category/predstaviteli_semeystva_medvejii"><span class="menu_bear"></span>Медвежьи</a></li>
+<li><a href="/category/predstaviteli_semeystva_kunih"><span class="menu_kunii"></span>Куньи</a></li>
+<li><a href="/category/predstaviteli_klassa_presmikaushiesya_ili_reptilii"><span class="menu_presmik"></span>Пресмыкающиеся</a></li>
+<li><a href="/category/predstaviteli_otryada_primati"><span class="menu_primati"></span>Приматы</a></li>
+<li><a href="/category/travoyadnie_ili_rastitelnoyadnie_jivotnie"><span class="menu_travoyadnie"></span>Травоядные</a></li>
+<li><a href="/category/predstaviteli_otryada_grizuni"><span class="menu_grizuni"></span>Грызуны</a></li>
+<li><a href="/category/predstaviteli_klassa_ptici"><span class="menu_ptici"></span>Птицы</a></li>
+<li><a href="/category/predstaviteli_klassa_nasekomie"><span class="menu_nasekomie"></span>Насекомые</a></li>
+<li><a href="/category/vodnie_obitateli"><span class="menu_vodnie_obitateli"></span>Водные обитатели</a></li>
+<li><a href="/category/raznie_jivotnie"><span class="menu_prochie"></span>Прочие</a></li>
+</ul>
+<ul class="menu_left">
+<li class="title_menu_sb"><a href="/category/domashnie_jivotnie">Домашние животные</a></li>
+<li><a href="/category/domashnie_koshki"><span class="menu_cat_h"></span>Кошки</a></li>
+<li><a href="/category/porodi_sobak"><span class="menu_dog"></span>Собаки</a></li>
+<li><a href="/category/dekorativnie_ptici"><span class="menu_birds"></span>Птицы</a></li>
+<li><a href="/category/domashnie_grizuni"><span class="menu_rodent"></span>Грызуны</a></li>
+<li><a href="/category/akvariumnie_ribki"><span class="menu_fish"></span>Рыбки</a></li>
+<li><a href="/category/tovari_dlya_jivotnih"><span class="menu_for_pets"></span>Для животных</a></li>
+</ul>
+<div class="dirLeft">
+<div id="yandex_rtb_R-A-259759-1"></div>
+
+</div>
+<div class="left_poisk" id="poisk">
+<form action="/search" method="post">
+<input id="poisk_fraza" maxlength="20" name="zap" placeholder="Поиск..." required="" type="text"/>
+<input id="lupa_poisk" name="lupa_poisk" type="submit" value=""/>
+</form>
+</div>
+<a class="link_rec" href="/article/beliy_medved">
+<img alt="Белый медведь" class="img_recom" src="/articles/wild/medvedi/beliy_medved/beliy_medved_m.jpg"/>
+<span class="title_recom , rec_col_2">Белый медведь</span>
+</a><a class="link_rec" href="/article/zverek_shinshilla">
+<img alt="Шиншилла" class="img_recom" src="/articles/pets/grizuni/shinshilla/shinshilla_m.jpg"/>
+<span class="title_recom , rec_col_5">Шиншилла</span>
+</a><a class="link_rec" href="/article/elasmoteriy_nosorog">
+<img alt="Эласмотерий - древний «единорог»" class="img_recom" src="/articles/top/vimershie/elasmoteriy/elasmoteriy_m.jpg"/>
+<span class="title_recom , rec_col_9">Эласмотерий - древний «единорог»</span>
+</a></div>
+<div id="sb_right">
+<div id="podpiska">
+<div class="soc_ico_r">
+<a class="soc_vk" href="https://vk.com/animaljournal_vk" rel="nofollow" target="_blank"></a>
+<a class="soc_tel" href="https://t.me/animal_journal" rel="nofollow" target="_blank"></a>
+<a class="soc_ok" href="https://ok.ru/group/58124103581733" rel="nofollow" target="_blank"></a>
+</div>
+</div>
+<div id="poisk">
+<form action="/search" method="post">
+<input id="poisk_fraza" maxlength="20" name="zap" placeholder="Поиск..." required="" type="text"/>
+<input id="lupa_poisk" name="lupa_poisk" type="submit" value=""/>
+</form>
+</div>
+
+<div id="vk_groups"></div>
+
+<div id="dirRight">
+
+<ins class="mrg-tag" data-ad-client="ad-1756368" data-ad-slot="1756368" style="display:inline-block;width:240px;height:400px">
+</ins>
+
+</div>
+</div>
+</div>
+<div class="both_2"></div>
+<div id="footer">
+<div id="f_list">
+<a href="/">Мир животных</a>
+<a href="/category/blog">О сайте (блог)</a>
+<a href="/donate">Помощь сайту</a>
+<a href="/feedback">Связь с администрацией</a>
+<a href="/cooperation">Реклама</a>
+<a href="/tag_cloud">Метки</a>
+</div>
+<div id="copyr">
+<img alt="Мир животных" height="88" src="/image/mir_jivotnih.png" width="85"/>
+    	© 2016-2025 «AnimalJournal.ru» — сайт про животных с описанием, картинками и другими интересностями. Копирование материала данного сайта для дальнейшей публикации его в интернете допускается только с указанием активной ссылки на источник.
+    </div>
+<div id="up_scroll">
+<a href="#"><span></span>Вверх</a>
+</div>
+<div id="counters">
+<a href="https://metrika.yandex.ru/stat/?id=41082684&amp;from=informer" rel="nofollow" target="_blank"><img alt="Яндекс.Метрика" class="ym-advanced-informer" data-cid="41082684" data-lang="ru" src="https://informer.yandex.ru/informer/41082684/3_1_FFFFFFFF_FFFFFFFF_0_pageviews" style="width:88px; height:31px; border:0;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)"/></a>
+
+<noscript><div><img alt="" src="https://mc.yandex.ru/watch/41082684" style="position:absolute; left:-9999px;"/></div></noscript>
+
+<span id="openstat1"></span>
+
+<!-- Top100 (Kraken) Counter -->
+
+<noscript>
+<img alt="Топ-100" src="//counter.rambler.ru/top100.cnt?pid=6864008"/>
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+<noscript><div style="position:absolute;left:-10000px;">
+<img alt="Рейтинг@Mail.ru" height="1" src="//top-fwz1.mail.ru/counter?id=2849551;js=na" style="border:0;" width="1"/>
+</div></noscript>
+</div>
+</div>
+
+
+
+
+
+
+</body>
+</html>

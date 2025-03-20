@@ -1,0 +1,212 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Белка и Стрелка – первые собаки в космосе</title>
+<meta content="Белка и Стрелка – первые собаки в космосе. Полет Белки и Стрелки в космос." name="description">
+
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+
+
+
+<meta content="ru_RU" property="og:locale"/>
+<meta content="AnimalJournal.ru" property="og:site_name"/>
+<meta content="Белка и Стрелка – первые собаки в космосе" property="og:title"/>
+<meta content="Белка и Стрелка – первые собаки в космосе. Полет Белки и Стрелки в космос." property="og:description"/>
+<meta content="https://animaljournal.ru/articles/top/istorii/belka_i_strelka/belka_i_strelka.jpg" property="og:image"/>
+<meta content="https://animaljournal.ru/article/belka_i_strelka" property="og:url"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Белка и Стрелка – первые собаки в космосе" name="twitter:title"/>
+<meta content="Белка и Стрелка – первые собаки в космосе. Полет Белки и Стрелки в космос." name="twitter:description"/>
+<meta content="https://animaljournal.ru/articles/top/istorii/belka_i_strelka/belka_i_strelka.jpg" name="twitter:image"/>
+
+
+</meta></head>
+<body>
+<div id="head">
+<div id="head_core">
+<a class="logo" href="/"><img alt="Журнал про животных" height="80" src="/image/logo.png" width="550"/></a>
+</div>
+<div id="touch_menu">
+<a href="#" id="touch_link"><span></span>Меню</a><a href="#" id="up"><span></span>Вверх</a>
+</div>
+<div id="menu">
+<a class="link_menu" href="/"><span class="menut_glav"></span>Журнал о животных</a>
+<a class="link_menu" href="/category/interesnoe_o_jivotnih"><span class="menut_interesnoe"></span>Интересное</a>
+<a class="link_menu" href="/category/jivotnie_rekordsmeni"><span class="menut_record"></span>Рекордсмены</a>
+<a class="link_menu" href="/category/vimershie_jivotnie"><span class="menut_vimer"></span>Вымершие</a>
+<a class="link_menu" href="/category/istorii_o_jivotnih"><span class="menut_istorii"></span>Истории</a>
+<a class="link_menu , link_menu_nb" href="/foto"><span class="menut_foto"></span>Фото</a>
+<div class="soc_ico_menu">
+<span>Мы в социальных сетях:</span>
+<a class="soc_tel" href="https://t.me/animal_journal" rel="nofollow" target="_blank"></a>
+<a class="soc_vk" href="https://vk.com/animaljournal_vk" rel="nofollow" target="_blank"></a>
+<a class="soc_ok" href="https://ok.ru/group/58124103581733" rel="nofollow" target="_blank"></a>
+</div>
+</div>
+</div><div id="wrapper">
+<div id="content">
+<h1>Белка и Стрелка – первые собаки в космосе</h1><div class="info_art"><span class="date_art"><span class="date_img"></span>12 Апрель</span><span class="view_art"><span class="view_img"></span>81440</span><a class="metka_cat" href="/category/istorii_o_jivotnih">истории про животных</a><a class="metka_art" href="/tag/kosmonavtyi">космонавты</a></div><!-- Yandex.RTB R-A-259759-4 -->
+<div id="yandex_rtb_R-A-259759-4"></div>
+<p>Космонавт – профессия необычайно интересная, удивительная и завораживающая, но вместе с тем и очень трудная. Кто из нас не мечтает увидеть таинственное космическое пространство своими глазами? Но оказывается, в космос могут летать не только люди. Белка и Стрелка – это первые собаки, которые побывали в космосе. Ниже Вы найдете историю полета этих собак-космонавтов.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/belka_i_strelka/belka_i_strelka.jpg">
+<img alt="Белка и Стрелка – первые собаки в космосе" height="792" src="/articles/top/istorii/belka_i_strelka/belka_i_strelka.jpg" width="1584"/>
+</a>
+<!--stop-->
+<p>Белка и Стрелка – собаки-космонавты, которые первыми побывали в космосе. 19 августа 1960 года они совершили полет в космос на корабле «Спутник-5». Длительность этого полета составила более 25 часов. За это время корабль 17 раз обошел вокруг Земли и преодолел расстояние 700 тысяч километров. Белка и Стрелка – первые животные, которые совершили полет в космос и благополучно вернулись на Землю.</p>
+<p>Главной целью полета Белки и Стрелки в космос было исследование влияния на организм факторов космического полета. Благодаря данному испытанию удалось узнать о реакции живого организма на перегрузки, длительную невесомость и космическую радиацию. Кроме этого, были получены сведения о работе жизнеобеспечивающих систем и безопасности полета. Этот полет позволил провести очень полезные научные исследования космического пространства.</p>
+<div id="blockCon_1"></div>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/belka_i_strelka/belka_i_strelka_foto.jpg">
+<img alt="Белка и Стрелка – собаки-космонавты, которые первыми побывали в космосе" height="1079" src="/articles/top/istorii/belka_i_strelka/belka_i_strelka_foto.jpg" width="1920"/>
+</a>
+<p>Подготовка собак для полета в космос началась еще в 1957 году. Были отобраны 12 собак. Отбор кандидатов осуществлялся по специальной методике – принимались только самки, весом не более 6 кг, высотой до 35 см и возрастом от 2 до 6 лет. Одним из условий отбора стала внешность животных. Они должны были иметь светлый окрас, чтобы их было лучше видно и выглядеть привлекательно на случай представления перед СМИ.</p>
+<p>Подготовка к полету включала пребывание в специальных кабинах малого объема, где собаки находились в условиях повышенного шума и длительной изоляции. Постепенно собаки привыкали получать пищу из автоматов кормления, носить одежду и датчики. Самое сложное было приучить животных находиться в малом замкнутом пространстве. Хотя полет должен был продлиться всего сутки, собак готовили к пребыванию в космосе на срок до 8 дней.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/belka_i_strelka/belka_i_strelka_polet.jpg">
+<img alt="Полет Белки и Стрелки в космос требовал подготовки" height="1084" src="/articles/top/istorii/belka_i_strelka/belka_i_strelka_polet.jpg" width="1920"/>
+</a>
+<p>Наилучшую приспособленность по результатам тренировок показали две беспородные самки. Белка – самка белого окраса, лидер команды, наиболее активная и общительная. Стрелка – несколько более робкая, но дружелюбная самка, светлого окраса с коричневыми пятнами. Обе собаки на момент полета в космос были возрастом около 2,5 лет.</p>
+<p>Последним этапом подготовки полета Белки и Стрелки в космос стало создание условий, максимально приближенных к реальному полету. Для этого собак поместили в герметичную кабину и надели специальную одежду с датчиками и устройствами. Испытания на вибростенде и центрифуге собаки Белка и Стрелка прошли успешно. За животными круглосуточно велось наблюдение, а все изменения, которые с ними происходили, фиксировались в специальном журнале.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/belka_i_strelka/belka_i_strelka_v_kosmose.jpg">
+<img alt="Белка и Стрелка первые в космосе" height="558" src="/articles/top/istorii/belka_i_strelka/belka_i_strelka_v_kosmose.jpg" width="990"/>
+</a>
+<p>Собаки и другие биообъекты находились в контейнере, который был одним из вариантов, разрабатываемых для будущих полетов человека. В нем имелась кабина со всем необходимым для жизнеобеспечения, а также камеры, радиопередатчики, микрофоны и прочие устройства. Кроме этого, внутри кабины были закреплены контейнеры для других биообъектов. Помимо собак, на борту корабля находились различные семена, растения, насекомые, некоторые виды микробов, грибковые культуры, лабораторные мыши и крысы.</p>
+<div id="blockCon_2"></div>
+<p>19 августа 1960 года в 11:44 на космодроме Байконур был осуществлен успешный запуск космического корабля с площадки № 1. Кабину с собаками поместили в корабль за несколько часов до старта. Во время набора высоты у животных было зафиксировано учащенное дыхание и пульс, но они успокоились после выхода на орбиту. Тщательное наблюдение за состоянием и поведением Белки и Стрелки велось на протяжении всего полета. В космосе Белка и Стрелка чувствовали себя нормально. 20 августа 1960 года в 13:32 была дана команда к посадке корабля.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/belka_i_strelka/belka_i_strelka_pervie.jpg">
+<img alt="Собаки Белка и Стрелка в космосе" height="1080" src="/articles/top/istorii/belka_i_strelka/belka_i_strelka_pervie.jpg" width="1920"/>
+</a>
+<p>Программа полета была успешно выполнена в полном объеме. Эксперимент полета Белки и Стрелки в космос стал неоценимым вкладом в изучение и освоение космического пространства. Проведенные исследования помогли сделать необходимые выводы для будущих полетов человека. Ученые смогли получить очень важные научные данные о влиянии космического полета на живые организмы.</p>
+<p>Свою дальнейшую жизнь собаки Белка и Стрелка вели при Государственном научно-исследовательском и испытательном институте авиационной и космической медицины. Их чучела находятся в Московском музее космонавтики. Обе собаки прожили долгую жизнь, а Стрелка даже родила 6 здоровых щенков.</p>
+<a data-lightbox="roadtrip" href="/articles/top/istorii/belka_i_strelka/sobaki_belka_i_strelka.jpg">
+<img alt="Собаки Белка и Стрелка фото" height="800" src="/articles/top/istorii/belka_i_strelka/sobaki_belka_i_strelka.jpg" width="1400"/>
+</a><noindex>
+<p>Не забывайте присоединяться к нам в социальных сетях: <a class="link" href="https://t.me/animal_journal" rel="nofollow" target="_blank">Telegram</a>, <a class="link" href="https://vk.com/animaljournal_vk" rel="nofollow" target="_blank">Вконтакте</a>, <a class="link" href="https://ok.ru/group/58124103581733" rel="nofollow" target="_blank">Одноклассники</a>. Узнавайте о публикациях первыми, ничего не пропускайте и всегда будьте в курсе всех новостей!</p>
+</noindex>
+<div id="shara_soc">
+<span class="shara_title">Не забудьте поделиться с друзьями!</span>
+<div class="ya-share2" data-curtain="" data-limit="5" data-services="vkontakte,facebook,odnoklassniki,telegram,twitter,moimir,viber,whatsapp,messenger,skype,lj,blogger" data-shape="round" data-size="l"></div>
+</div>
+<div id="id-C-A-259759-54"></div>
+
+
+
+<div id="vk_comments"></div>
+<!-- Yandex.RTB R-A-259759-76 -->
+<div id="yandex_rtb_R-A-259759-76"></div>
+
+</div>
+<div id="sb_left">
+<ul class="menu_left">
+<li class="title_menu_sb"><a href="/category/dikie_jivotnie">Дикие животные</a></li>
+<li><a href="/category/vidi_malih_i_bolshih_dikih_koshek"><span class="menu_wild_cat"></span>Кошачьи</a></li>
+<li><a href="/category/predstaviteli_semeystva_psovie"><span class="menu_wild_dog"></span>Псовые</a></li>
+<li><a href="/category/predstaviteli_semeystva_medvejii"><span class="menu_bear"></span>Медвежьи</a></li>
+<li><a href="/category/predstaviteli_semeystva_kunih"><span class="menu_kunii"></span>Куньи</a></li>
+<li><a href="/category/predstaviteli_klassa_presmikaushiesya_ili_reptilii"><span class="menu_presmik"></span>Пресмыкающиеся</a></li>
+<li><a href="/category/predstaviteli_otryada_primati"><span class="menu_primati"></span>Приматы</a></li>
+<li><a href="/category/travoyadnie_ili_rastitelnoyadnie_jivotnie"><span class="menu_travoyadnie"></span>Травоядные</a></li>
+<li><a href="/category/predstaviteli_otryada_grizuni"><span class="menu_grizuni"></span>Грызуны</a></li>
+<li><a href="/category/predstaviteli_klassa_ptici"><span class="menu_ptici"></span>Птицы</a></li>
+<li><a href="/category/predstaviteli_klassa_nasekomie"><span class="menu_nasekomie"></span>Насекомые</a></li>
+<li><a href="/category/vodnie_obitateli"><span class="menu_vodnie_obitateli"></span>Водные обитатели</a></li>
+<li><a href="/category/raznie_jivotnie"><span class="menu_prochie"></span>Прочие</a></li>
+</ul>
+<ul class="menu_left">
+<li class="title_menu_sb"><a href="/category/domashnie_jivotnie">Домашние животные</a></li>
+<li><a href="/category/domashnie_koshki"><span class="menu_cat_h"></span>Кошки</a></li>
+<li><a href="/category/porodi_sobak"><span class="menu_dog"></span>Собаки</a></li>
+<li><a href="/category/dekorativnie_ptici"><span class="menu_birds"></span>Птицы</a></li>
+<li><a href="/category/domashnie_grizuni"><span class="menu_rodent"></span>Грызуны</a></li>
+<li><a href="/category/akvariumnie_ribki"><span class="menu_fish"></span>Рыбки</a></li>
+<li><a href="/category/tovari_dlya_jivotnih"><span class="menu_for_pets"></span>Для животных</a></li>
+</ul>
+<div class="dirLeft">
+<div id="yandex_rtb_R-A-259759-1"></div>
+
+</div>
+<div class="left_poisk" id="poisk">
+<form action="/search" method="post">
+<input id="poisk_fraza" maxlength="20" name="zap" placeholder="Поиск..." required="" type="text"/>
+<input id="lupa_poisk" name="lupa_poisk" type="submit" value=""/>
+</form>
+</div>
+<a class="link_rec" href="/article/kojistaya_cherepaha">
+<img alt="Кожистая черепаха" class="img_recom" src="/articles/wild/reptilii/kojistaya_cherepaha/kojistaya_cherepaha_m.jpg"/>
+<span class="title_recom , rec_col_3">Кожистая черепаха</span>
+</a><a class="link_rec" href="/article/nemeckiy_bokser">
+<img alt="Немецкий боксер" class="img_recom" src="/articles/pets/dogs/nemeckiy_bokser/bokser_m.jpg"/>
+<span class="title_recom , rec_col_6">Немецкий боксер</span>
+</a><a class="link_rec" href="/article/istoriya_hatiko">
+<img alt="История Хатико" class="img_recom" src="/articles/top/istorii/istoriya_hatiko/istoriya_hatiko_m.jpg"/>
+<span class="title_recom , rec_col_7">История Хатико</span>
+</a></div>
+<div id="sb_right">
+<div id="podpiska">
+<div class="soc_ico_r">
+<a class="soc_vk" href="https://vk.com/animaljournal_vk" rel="nofollow" target="_blank"></a>
+<a class="soc_tel" href="https://t.me/animal_journal" rel="nofollow" target="_blank"></a>
+<a class="soc_ok" href="https://ok.ru/group/58124103581733" rel="nofollow" target="_blank"></a>
+</div>
+</div>
+<div id="poisk">
+<form action="/search" method="post">
+<input id="poisk_fraza" maxlength="20" name="zap" placeholder="Поиск..." required="" type="text"/>
+<input id="lupa_poisk" name="lupa_poisk" type="submit" value=""/>
+</form>
+</div>
+
+<div id="vk_groups"></div>
+
+<div id="dirRight">
+
+<ins class="mrg-tag" data-ad-client="ad-1756368" data-ad-slot="1756368" style="display:inline-block;width:240px;height:400px">
+</ins>
+
+</div>
+</div>
+</div>
+<div class="both_2"></div>
+<div id="footer">
+<div id="f_list">
+<a href="/">Мир животных</a>
+<a href="/category/blog">О сайте (блог)</a>
+<a href="/donate">Помощь сайту</a>
+<a href="/feedback">Связь с администрацией</a>
+<a href="/cooperation">Реклама</a>
+<a href="/tag_cloud">Метки</a>
+</div>
+<div id="copyr">
+<img alt="Мир животных" height="88" src="/image/mir_jivotnih.png" width="85"/>
+    	© 2016-2025 «AnimalJournal.ru» — сайт про животных с описанием, картинками и другими интересностями. Копирование материала данного сайта для дальнейшей публикации его в интернете допускается только с указанием активной ссылки на источник.
+    </div>
+<div id="up_scroll">
+<a href="#"><span></span>Вверх</a>
+</div>
+<div id="counters">
+<a href="https://metrika.yandex.ru/stat/?id=41082684&amp;from=informer" rel="nofollow" target="_blank"><img alt="Яндекс.Метрика" class="ym-advanced-informer" data-cid="41082684" data-lang="ru" src="https://informer.yandex.ru/informer/41082684/3_1_FFFFFFFF_FFFFFFFF_0_pageviews" style="width:88px; height:31px; border:0;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)"/></a>
+
+<noscript><div><img alt="" src="https://mc.yandex.ru/watch/41082684" style="position:absolute; left:-9999px;"/></div></noscript>
+
+<span id="openstat1"></span>
+
+<!-- Top100 (Kraken) Counter -->
+
+<noscript>
+<img alt="Топ-100" src="//counter.rambler.ru/top100.cnt?pid=6864008"/>
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+<noscript><div style="position:absolute;left:-10000px;">
+<img alt="Рейтинг@Mail.ru" height="1" src="//top-fwz1.mail.ru/counter?id=2849551;js=na" style="border:0;" width="1"/>
+</div></noscript>
+</div>
+</div>
+
+
+
+
+
+
+</body>
+</html>
