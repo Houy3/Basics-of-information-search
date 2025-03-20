@@ -9,7 +9,7 @@ ARTICLE_LIST_BY_PAGE_URL = 'https://animaljournal.ru/page/' # Страничка
 ARTICLE_TITLE_CLASS = 'post_title' # HTML класс тега, в котором ссылка на статью
 
 OUTPUT_DIRECTORY = os.path.join(os.path.dirname(__file__), "result") # Выходная папка
-ARTICLE_LIST_DIRECTORY = os.path.join(OUTPUT_DIRECTORY, 'page_list') # Папка со страницами
+ARTICLE_LIST_DIRECTORY = os.path.join(OUTPUT_DIRECTORY, 'article_list') # Папка со страницами
 INDEX_FILE = os.path.join(OUTPUT_DIRECTORY, 'index.txt') # index.txt файл
 
 # подготавливаем все выходные файлы и папки
