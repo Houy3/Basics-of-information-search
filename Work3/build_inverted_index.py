@@ -2,73 +2,72 @@ import os
 import re
 import nltk
 from nltk.corpus import stopwords
-from nltk.tokenize import RegexpTokenizer
 from collections import defaultdict
 import pymorphy2
+from tqdm import tqdm
 
-nltk.download('punkt')
-nltk.download('stopwords')
+from common import read_file_text, contains, clean_html
+
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
 
 morph = pymorphy2.MorphAnalyzer()
 stop_words = set(stopwords.words('russian'))
-tokenizer = RegexpTokenizer(r'\b[а-яё]{2,}\b', flags=re.IGNORECASE)
 
-def preprocess_text(text):
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\s+', ' ', text).strip().lower()
-    return text
+lemmas_path = "../Work2/lemmas.txt"
+tokens_path = "../Work2/tokens.txt"
+output_file = 'inverted_index.txt'
 
-def tokenize_and_filter(text):
-    tokens = tokenizer.tokenize(text)
-    return [t.lower() for t in tokens if t.lower() not in stop_words and not t.isdigit()]
+def extract_file_number(filename: str) -> int:
+    match = re.search(r'\d+', filename)
+    return int(match.group()) if match else 0
 
-def lemmatize(tokens):
-    lemmas = []
-    for token in tokens:
-        parsed = morph.parse(token)
-        lemma = None
-        for p in parsed:
-            if 'ADVB' in p.tag:  # Приоритет для наречий (например, "ясно")
-                lemma = p.normal_form
-                break
-        if not lemma:
-            lemma = parsed[0].normal_form
-        lemmas.append(lemma.lower())
-    return lemmas
-
-def build_inverted_index(folder_path):
+def build_inverted_index(path) -> tuple[defaultdict, dict]:
     index = defaultdict(set)
-    doc_mapping = []
+    doc_mapping = {}
+
+    lemmas = read_file_text(lemmas_path).split("\n")
 
     file_names = sorted(
-        [f for f in os.listdir(folder_path) if f.endswith('.txt')],
-        key=lambda x: int(x.split('.')[0])
+        [f for f in os.listdir(path) if f.endswith('.txt')],
+        key=lambda x: int(''.join(filter(str.isdigit, x.split('.')[0])))
     )
 
-    for doc_id, file_name in enumerate(file_names):
-        with open(os.path.join(folder_path, file_name), 'r', encoding='utf-8') as f:
-            text = f.read()
+    for doc_id, file_name in tqdm(enumerate(file_names), total=len(file_names), desc="Индексация"):
+        file_path = os.path.join(path, file_name)
 
-        processed = preprocess_text(text)
-        tokens = tokenize_and_filter(processed)
-        lemmas = lemmatize(tokens)
+        file_text = clean_html(read_file_text(file_path)).lower()
+        file_tokens = set(file_text.split())
 
-        for lemma in lemmas:
-            index[lemma].add(doc_id)
+        for lemma_info in lemmas:
+            words = lemma_info.split(" ")
+            if not lemma_info:
+                continue
+            lemma = words[0]
+            tokens = words[1:]
 
-        doc_mapping.append(file_name)
+            for token in tokens:
+                if token in file_tokens:
+                    index[lemma].add(doc_id)
+                    break
+
+        doc_mapping[doc_id] = file_name
 
     return index, doc_mapping
 
-def save_index(index, doc_mapping, output_file='inverted_index.txt'):
+def save_index(index: defaultdict, doc_mapping: dict) -> None:
     with open(output_file, 'w', encoding='utf-8') as f:
         for lemma in sorted(index.keys()):
             doc_ids = sorted(index[lemma])
-            files = [doc_mapping[i] for i in doc_ids]
-            f.write(f"{lemma}: {doc_ids} -> {files}\n")
+            files = [doc_mapping[doc_id] for doc_id in doc_ids]
+            files_str = ', '.join(files)
+            f.write(f"{lemma}: {files_str}\n")
 
 if __name__ == "__main__":
-    folder_path = '../Work1/result/article_list/'  # Путь к документам
-    index, doc_mapping = build_inverted_index(folder_path)
-    save_index(index, doc_mapping)
-    print(f"Индекс создан. Документов: {len(doc_mapping)}")
+    folder_path = '../Work1/result/article_list/'
+    try:
+        index, doc_mapping = build_inverted_index(folder_path)
+        save_index(index, doc_mapping)
+        print(f"\nИндекс успешно создан. Обработано документов: {len(doc_mapping)}")
+    except Exception as e:
+        print(f"Ошибка: {str(e)}")
