@@ -1,11 +1,11 @@
-import pymorphy2
+import pymorphy3
 from collections import defaultdict
 from bs4 import BeautifulSoup
 from nltk.tokenize import RegexpTokenizer
 import re
 
 tokenizer = RegexpTokenizer(r'\b[а-яё]{2,}\b', flags=re.IGNORECASE)
-morph = pymorphy2.MorphAnalyzer()
+morph = pymorphy3.MorphAnalyzer()
 
 def lemmatize_tokens(tokens):
     lemmas = defaultdict(list)
