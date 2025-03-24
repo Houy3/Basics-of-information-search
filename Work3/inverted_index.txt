@@ -6,7 +6,7 @@
 абсолютный: 30.txt, 31.txt, 37.txt, 89.txt
 абундизм: 51.txt
 авачинский: 5.txt
-август: 37.txt, 52.txt, 55.txt, 61.txt, 62.txt, 66.txt, 75.txt, 81.txt, 118.txt
+август: 8.txt, 12.txt, 21.txt, 37.txt, 52.txt, 55.txt, 61.txt, 62.txt, 66.txt, 75.txt, 81.txt, 90.txt, 91.txt, 92.txt, 95.txt, 99.txt, 118.txt
 авиационный: 75.txt
 австралиец: 99.txt
 австралийский: 45.txt, 55.txt, 99.txt, 101.txt
@@ -50,6 +50,7 @@
 аквариумист: 83.txt, 104.txt
 аквариумный: 22.txt, 83.txt, 104.txt
 акимушкин: 33.txt
+акит: 24.txt, 26.txt, 33.txt, 44.txt, 55.txt, 73.txt, 79.txt, 80.txt, 81.txt, 120.txt, 122.txt
 аккаунт: 109.txt
 акклиматизация: 4.txt
 акклиматизировать: 6.txt, 24.txt
@@ -63,7 +64,7 @@
 активный: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 актуально: 65.txt
 актуальный: 103.txt
-акула: 5.txt, 8.txt, 31.txt, 37.txt, 58.txt, 101.txt
+акула: 5.txt, 8.txt, 31.txt, 34.txt, 37.txt, 57.txt, 58.txt, 101.txt
 акулий: 58.txt
 алберт: 60.txt
 александра: 60.txt
@@ -78,11 +79,12 @@
 алтай: 26.txt
 альбатрос: 5.txt
 альбинизм: 51.txt
-альбинос: 47.txt, 51.txt, 52.txt, 73.txt
+альбинос: 5.txt, 17.txt, 22.txt, 29.txt, 33.txt, 41.txt, 44.txt, 47.txt, 51.txt, 52.txt, 73.txt
 альбом: 63.txt
 альпинист: 122.txt
 альпы: 87.txt
 альтернативный: 12.txt, 69.txt, 74.txt, 105.txt
+альфа: 16.txt, 39.txt
 алюминиевый: 69.txt
 аляска: 29.txt, 34.txt, 47.txt, 123.txt
 америка: 12.txt, 22.txt, 24.txt, 26.txt, 42.txt, 55.txt, 56.txt, 58.txt, 65.txt, 84.txt, 88.txt, 90.txt, 101.txt, 105.txt, 123.txt, 124.txt
@@ -93,6 +95,7 @@
 амфора: 22.txt
 анализ: 18.txt, 23.txt, 25.txt, 37.txt
 анальный: 28.txt, 31.txt
+английски: 28.txt
 английский: 2.txt, 5.txt, 6.txt, 10.txt, 15.txt, 21.txt, 32.txt, 36.txt, 48.txt, 54.txt, 67.txt, 69.txt, 70.txt, 73.txt, 74.txt, 91.txt, 102.txt, 105.txt, 106.txt, 107.txt, 111.txt, 123.txt
 англичанин: 5.txt
 англия: 41.txt, 49.txt, 105.txt, 107.txt, 108.txt
@@ -101,6 +104,7 @@
 ангольский: 94.txt
 ангорский: 38.txt
 ангрипин: 60.txt
+анджелес: 58.txt
 анды: 84.txt
 аномальный: 51.txt
 антарктида: 98.txt
@@ -113,7 +117,7 @@
 аппарат: 37.txt
 аппетит: 87.txt, 88.txt, 116.txt
 аппетитный: 8.txt
-апрель: 33.txt, 55.txt, 81.txt, 91.txt, 116.txt, 119.txt
+апрель: 24.txt, 25.txt, 33.txt, 49.txt, 50.txt, 55.txt, 67.txt, 74.txt, 75.txt, 76.txt, 77.txt, 79.txt, 81.txt, 91.txt, 93.txt, 100.txt, 101.txt, 102.txt, 116.txt, 117.txt, 119.txt, 121.txt
 аравийский: 28.txt, 32.txt, 71.txt, 76.txt
 аргентина: 84.txt, 93.txt
 ареал: 1.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 16.txt, 18.txt, 21.txt, 25.txt, 26.txt, 27.txt, 29.txt, 34.txt, 37.txt, 41.txt, 42.txt, 43.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 58.txt, 59.txt, 60.txt, 61.txt, 64.txt, 79.txt, 96.txt, 100.txt, 123.txt
@@ -134,6 +138,8 @@
 архипелаг: 57.txt
 архитектура: 78.txt
 аспект: 13.txt, 26.txt, 33.txt, 38.txt
+аспид: 96.txt
+аспидно: 4.txt
 ассортимент: 23.txt, 84.txt
 ассоциация: 21.txt
 астраханский: 91.txt
@@ -173,7 +179,9 @@
 барбарийский: 35.txt, 41.txt, 44.txt
 баренцев: 98.txt
 барибал: 13.txt, 19.txt, 29.txt
-барсук: 6.txt, 24.txt, 28.txt, 97.txt
+барриер: 60.txt
+барро: 48.txt
+барсук: 6.txt, 24.txt, 28.txt, 65.txt, 68.txt, 76.txt, 79.txt, 92.txt, 93.txt, 97.txt, 121.txt
 барсучонок: 97.txt
 бархатистый: 102.txt
 барьер: 94.txt
@@ -193,7 +201,7 @@
 беда: 112.txt
 бедный: 68.txt
 бежать: 15.txt, 17.txt, 32.txt, 34.txt, 42.txt, 44.txt, 45.txt, 65.txt, 67.txt, 103.txt, 123.txt, 124.txt
-бежевый: 16.txt, 55.txt
+бежевый: 3.txt, 16.txt, 55.txt, 60.txt
 безвыходный: 121.txt
 безголосый: 94.txt
 безжалостный: 68.txt
@@ -214,17 +222,17 @@
 белка: 21.txt, 27.txt, 51.txt, 52.txt, 63.txt, 75.txt
 белков: 100.txt
 белковый: 21.txt
-беловатый: 32.txt
+беловатый: 32.txt, 113.txt
 белогрудый: 72.txt
 белок: 10.txt, 12.txt, 14.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 51.txt, 52.txt, 55.txt, 67.txt, 69.txt, 75.txt, 78.txt, 88.txt, 98.txt, 106.txt, 107.txt
 белоплечий: 119.txt
 белоруссия: 24.txt, 27.txt, 90.txt
 белоснежный: 4.txt, 12.txt, 44.txt, 98.txt
-белые: 5.txt, 11.txt, 12.txt, 19.txt, 23.txt, 41.txt, 44.txt, 52.txt, 55.txt, 73.txt, 83.txt, 98.txt, 102.txt, 106.txt, 118.txt, 123.txt
-белый: 4.txt, 5.txt, 6.txt, 9.txt, 12.txt, 14.txt, 16.txt, 19.txt, 20.txt, 21.txt, 24.txt, 26.txt, 27.txt, 29.txt, 34.txt, 37.txt, 41.txt, 42.txt, 44.txt, 45.txt, 46.txt, 47.txt, 49.txt, 52.txt, 55.txt, 59.txt, 60.txt, 61.txt, 64.txt, 65.txt, 68.txt, 72.txt, 73.txt, 75.txt, 76.txt, 79.txt, 80.txt, 86.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 95.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 106.txt, 110.txt, 111.txt, 113.txt, 116.txt, 118.txt, 119.txt, 121.txt, 122.txt, 123.txt
+белые: 5.txt, 11.txt, 12.txt, 19.txt, 23.txt, 41.txt, 44.txt, 47.txt, 52.txt, 55.txt, 73.txt, 83.txt, 98.txt, 102.txt, 106.txt, 118.txt, 123.txt
+белый: 2.txt, 4.txt, 5.txt, 6.txt, 9.txt, 12.txt, 14.txt, 16.txt, 19.txt, 20.txt, 21.txt, 24.txt, 26.txt, 27.txt, 29.txt, 34.txt, 37.txt, 41.txt, 42.txt, 44.txt, 45.txt, 46.txt, 47.txt, 49.txt, 52.txt, 55.txt, 59.txt, 60.txt, 61.txt, 64.txt, 65.txt, 68.txt, 72.txt, 73.txt, 75.txt, 76.txt, 79.txt, 80.txt, 86.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 106.txt, 110.txt, 111.txt, 113.txt, 116.txt, 118.txt, 119.txt, 121.txt, 122.txt, 123.txt
 бельгия: 106.txt
 бельчонок: 27.txt, 52.txt
-беляк: 4.txt
+беляк: 4.txt, 93.txt, 105.txt, 113.txt
 беляков: 4.txt
 бенгальский: 35.txt, 44.txt, 59.txt, 111.txt
 берберийский: 32.txt, 35.txt, 41.txt, 62.txt, 64.txt, 66.txt
@@ -265,6 +273,7 @@
 бесточечный: 90.txt
 бесчешуйчатый: 83.txt
 бесшумно: 96.txt
+бета: 123.txt
 бешенство: 59.txt, 65.txt, 97.txt
 бешеный: 101.txt
 бивень: 101.txt
@@ -272,6 +281,7 @@
 биологический: 110.txt
 биообъект: 75.txt
 бирка: 55.txt, 69.txt
+бирюзовый: 60.txt
 битва: 113.txt
 бить: 33.txt, 52.txt, 59.txt, 96.txt
 биться: 46.txt, 54.txt, 61.txt
@@ -284,7 +294,7 @@
 благосклонный: 49.txt
 благотворительный: 109.txt
 благоустраивать: 65.txt
-бледно: 38.txt
+бледно: 38.txt, 42.txt, 44.txt, 55.txt, 56.txt, 60.txt, 61.txt, 86.txt, 106.txt
 блеск: 6.txt, 55.txt
 блестяще: 26.txt
 блестящий: 14.txt, 72.txt, 74.txt, 87.txt, 97.txt, 106.txt, 117.txt
@@ -295,6 +305,7 @@
 близко: 23.txt, 98.txt, 105.txt
 близлежащий: 62.txt, 67.txt, 116.txt
 близость: 41.txt, 55.txt, 89.txt
+блог: 7.txt, 36.txt, 77.txt, 82.txt, 85.txt
 блокадный: 19.txt
 блокировать: 46.txt, 120.txt
 блюдо: 89.txt
@@ -303,7 +314,7 @@
 бобров: 117.txt
 бобровый: 117.txt
 бобрёнок: 117.txt
-бобёр: 117.txt
+бобёр: 71.txt, 117.txt
 богато: 65.txt, 114.txt
 богатый: 5.txt, 6.txt, 63.txt, 88.txt, 101.txt, 112.txt, 116.txt, 118.txt
 богиня: 90.txt
@@ -324,7 +335,7 @@
 бок: 6.txt, 31.txt, 32.txt, 52.txt, 55.txt, 56.txt, 64.txt, 71.txt, 72.txt, 74.txt, 79.txt, 88.txt, 107.txt, 113.txt, 114.txt, 118.txt, 120.txt
 боков: 31.txt
 боковой: 49.txt
-боксёр: 19.txt, 49.txt, 78.txt, 90.txt
+боксёр: 16.txt, 18.txt, 19.txt, 49.txt, 78.txt, 90.txt
 болевой: 1.txt
 болезненный: 20.txt
 болезнь: 4.txt, 6.txt, 33.txt, 38.txt, 41.txt, 51.txt, 73.txt, 74.txt, 83.txt, 84.txt, 86.txt, 87.txt, 91.txt, 93.txt, 94.txt, 106.txt, 107.txt
@@ -336,8 +347,9 @@
 боль: 21.txt, 91.txt, 96.txt, 105.txt
 больной: 8.txt, 91.txt, 101.txt, 123.txt
 большеголовый: 58.txt
+большезубый: 60.txt
 большеногий: 62.txt
-больший: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 37.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 57.txt, 58.txt, 59.txt, 60.txt, 62.txt, 64.txt, 65.txt, 66.txt, 68.txt, 72.txt, 73.txt, 74.txt, 76.txt, 78.txt, 80.txt, 83.txt, 84.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 106.txt, 107.txt, 108.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
+больший: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 37.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 57.txt, 58.txt, 59.txt, 60.txt, 62.txt, 64.txt, 65.txt, 66.txt, 68.txt, 72.txt, 73.txt, 74.txt, 76.txt, 78.txt, 80.txt, 83.txt, 84.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 106.txt, 107.txt, 108.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 большинство: 2.txt, 4.txt, 5.txt, 9.txt, 10.txt, 13.txt, 14.txt, 16.txt, 17.txt, 20.txt, 21.txt, 23.txt, 28.txt, 29.txt, 35.txt, 37.txt, 41.txt, 42.txt, 46.txt, 47.txt, 48.txt, 51.txt, 52.txt, 54.txt, 55.txt, 58.txt, 60.txt, 61.txt, 62.txt, 84.txt, 87.txt, 88.txt, 90.txt, 92.txt, 96.txt, 101.txt, 102.txt, 106.txt, 115.txt
 большой: 1.txt, 3.txt, 5.txt, 8.txt, 11.txt, 14.txt, 15.txt, 18.txt, 20.txt, 21.txt, 23.txt, 25.txt, 29.txt, 30.txt, 32.txt, 33.txt, 34.txt, 37.txt, 38.txt, 41.txt, 42.txt, 43.txt, 44.txt, 46.txt, 47.txt, 49.txt, 50.txt, 52.txt, 55.txt, 58.txt, 59.txt, 60.txt, 62.txt, 63.txt, 66.txt, 67.txt, 72.txt, 74.txt, 79.txt, 87.txt, 88.txt, 89.txt, 92.txt, 93.txt, 94.txt, 98.txt, 100.txt, 101.txt, 103.txt, 111.txt, 114.txt, 117.txt, 120.txt, 121.txt, 122.txt, 124.txt
 бонобо: 5.txt, 11.txt, 13.txt, 33.txt, 123.txt
@@ -386,17 +398,19 @@
 буква: 5.txt, 55.txt, 56.txt, 72.txt, 89.txt
 буквально: 17.txt, 23.txt, 65.txt, 73.txt, 92.txt
 булленбайсер: 19.txt
+булочный: 26.txt
 бум: 52.txt
 бумажка: 87.txt
 бургузинский: 14.txt
 бурелом: 42.txt, 44.txt, 47.txt
 бурунди: 96.txt
 бурундук: 52.txt
-бурый: 3.txt, 6.txt, 8.txt, 12.txt, 14.txt, 15.txt, 16.txt, 24.txt, 26.txt, 29.txt, 35.txt, 37.txt, 38.txt, 42.txt, 44.txt, 47.txt, 51.txt, 52.txt, 54.txt, 55.txt, 59.txt, 61.txt, 65.txt, 68.txt, 72.txt, 79.txt, 92.txt, 96.txt, 97.txt, 101.txt, 113.txt, 117.txt
+бурый: 3.txt, 6.txt, 8.txt, 12.txt, 14.txt, 15.txt, 16.txt, 24.txt, 26.txt, 29.txt, 35.txt, 37.txt, 38.txt, 42.txt, 43.txt, 44.txt, 47.txt, 51.txt, 52.txt, 54.txt, 55.txt, 59.txt, 60.txt, 61.txt, 64.txt, 65.txt, 68.txt, 72.txt, 79.txt, 92.txt, 96.txt, 97.txt, 99.txt, 101.txt, 113.txt, 117.txt, 119.txt, 123.txt
 бухта: 50.txt, 104.txt
+буэнос: 93.txt
 бывать: 2.txt, 4.txt, 5.txt, 12.txt, 14.txt, 17.txt, 19.txt, 20.txt, 21.txt, 23.txt, 25.txt, 26.txt, 37.txt, 38.txt, 41.txt, 42.txt, 44.txt, 45.txt, 46.txt, 47.txt, 51.txt, 52.txt, 55.txt, 56.txt, 58.txt, 59.txt, 62.txt, 68.txt, 70.txt, 73.txt, 74.txt, 78.txt, 83.txt, 90.txt, 94.txt, 104.txt, 105.txt, 106.txt, 114.txt, 117.txt, 119.txt, 121.txt
 бывший: 109.txt
-бык: 100.txt
+бык: 46.txt, 100.txt, 101.txt
 быков: 19.txt
 быстро: 3.txt, 4.txt, 6.txt, 8.txt, 9.txt, 14.txt, 17.txt, 18.txt, 20.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 32.txt, 33.txt, 34.txt, 38.txt, 39.txt, 42.txt, 43.txt, 45.txt, 48.txt, 50.txt, 52.txt, 53.txt, 54.txt, 55.txt, 59.txt, 64.txt, 65.txt, 68.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 76.txt, 79.txt, 84.txt, 86.txt, 88.txt, 94.txt, 99.txt, 100.txt, 101.txt, 106.txt, 107.txt, 109.txt, 114.txt, 120.txt, 121.txt, 122.txt, 123.txt
 быстродействующий: 96.txt
@@ -420,8 +434,8 @@
 ванесса: 49.txt
 ванна: 39.txt, 84.txt
 ванная: 23.txt
-варакушка: 42.txt, 43.txt, 61.txt
-варан: 57.txt, 58.txt, 60.txt, 62.txt, 71.txt, 77.txt, 82.txt, 99.txt
+варакушка: 42.txt, 43.txt, 55.txt, 61.txt
+варан: 34.txt, 57.txt, 58.txt, 60.txt, 62.txt, 71.txt, 77.txt, 82.txt, 99.txt
 варена: 86.txt
 вариант: 20.txt, 21.txt, 23.txt, 39.txt, 60.txt, 83.txt, 84.txt, 88.txt, 90.txt, 105.txt
 вариативный: 25.txt
@@ -485,7 +499,7 @@
 весиля: 80.txt
 весить: 3.txt, 6.txt, 8.txt, 12.txt, 17.txt, 18.txt, 19.txt, 26.txt, 27.txt, 29.txt, 32.txt, 33.txt, 34.txt, 40.txt, 41.txt, 43.txt, 44.txt, 46.txt, 47.txt, 59.txt, 62.txt, 64.txt, 69.txt, 72.txt, 76.txt, 78.txt, 79.txt, 84.txt, 86.txt, 87.txt, 88.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 98.txt, 101.txt, 106.txt, 111.txt, 114.txt, 117.txt, 120.txt, 122.txt
 веслоногий: 37.txt
-весна: 6.txt, 8.txt, 12.txt, 15.txt, 32.txt, 45.txt, 47.txt, 49.txt, 52.txt, 65.txt, 67.txt, 68.txt, 72.txt, 90.txt, 110.txt, 113.txt, 118.txt, 121.txt, 123.txt
+весна: 6.txt, 8.txt, 12.txt, 15.txt, 32.txt, 45.txt, 47.txt, 49.txt, 52.txt, 65.txt, 67.txt, 68.txt, 72.txt, 87.txt, 90.txt, 110.txt, 113.txt, 118.txt, 121.txt, 123.txt
 вести: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 27.txt, 28.txt, 29.txt, 32.txt, 33.txt, 41.txt, 42.txt, 45.txt, 47.txt, 48.txt, 52.txt, 54.txt, 55.txt, 57.txt, 58.txt, 59.txt, 60.txt, 64.txt, 68.txt, 71.txt, 74.txt, 76.txt, 78.txt, 88.txt, 89.txt, 92.txt, 93.txt, 96.txt, 99.txt, 101.txt, 102.txt, 103.txt, 105.txt, 107.txt, 108.txt, 114.txt, 118.txt, 121.txt, 122.txt, 123.txt
 вестись: 10.txt, 33.txt, 50.txt, 54.txt, 73.txt, 75.txt, 80.txt, 97.txt
 весь: 1.txt, 2.txt, 5.txt, 6.txt, 7.txt, 9.txt, 11.txt, 12.txt, 13.txt, 16.txt, 19.txt, 20.txt, 21.txt, 25.txt, 26.txt, 29.txt, 32.txt, 33.txt, 38.txt, 40.txt, 41.txt, 44.txt, 45.txt, 47.txt, 48.txt, 50.txt, 51.txt, 52.txt, 55.txt, 58.txt, 60.txt, 61.txt, 63.txt, 65.txt, 66.txt, 67.txt, 68.txt, 73.txt, 74.txt, 75.txt, 78.txt, 81.txt, 82.txt, 83.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 93.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 123.txt, 124.txt
@@ -521,6 +535,7 @@
 вздутый: 87.txt
 взлетать: 26.txt, 32.txt
 взлохматить: 106.txt
+взлётный: 32.txt
 взмах: 1.txt, 3.txt, 90.txt
 взобраться: 74.txt, 96.txt
 взросление: 2.txt, 25.txt, 33.txt, 52.txt, 62.txt, 94.txt
@@ -563,6 +578,7 @@
 включать: 12.txt, 18.txt, 23.txt, 26.txt, 33.txt, 46.txt, 47.txt, 52.txt, 61.txt, 73.txt, 74.txt, 75.txt, 76.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 104.txt, 105.txt, 106.txt, 119.txt, 123.txt
 включая: 65.txt, 66.txt, 86.txt, 99.txt, 102.txt
 включить: 106.txt
+вконтакте: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 вкрапление: 3.txt, 8.txt, 15.txt, 24.txt, 28.txt, 55.txt, 60.txt, 61.txt, 62.txt
 вкус: 89.txt, 93.txt, 105.txt, 119.txt
 вкусный: 119.txt
@@ -649,8 +665,8 @@
 вокализация: 33.txt
 вокальный: 5.txt, 45.txt
 вокруг: 2.txt, 3.txt, 6.txt, 19.txt, 23.txt, 26.txt, 37.txt, 38.txt, 55.txt, 67.txt, 75.txt, 83.txt, 90.txt, 91.txt, 95.txt, 99.txt, 116.txt, 119.txt, 120.txt, 121.txt, 123.txt
-волк: 4.txt, 6.txt, 8.txt, 12.txt, 42.txt, 44.txt, 52.txt, 59.txt, 65.txt, 76.txt, 79.txt, 97.txt, 98.txt, 101.txt, 117.txt, 123.txt
-волков: 42.txt, 47.txt, 59.txt, 99.txt, 123.txt
+волк: 4.txt, 6.txt, 8.txt, 12.txt, 14.txt, 24.txt, 29.txt, 32.txt, 38.txt, 42.txt, 43.txt, 44.txt, 52.txt, 54.txt, 59.txt, 65.txt, 71.txt, 72.txt, 73.txt, 76.txt, 78.txt, 79.txt, 97.txt, 98.txt, 99.txt, 101.txt, 113.txt, 116.txt, 117.txt, 118.txt, 123.txt
+волков: 16.txt, 42.txt, 47.txt, 59.txt, 94.txt, 99.txt, 123.txt
 волна: 5.txt
 волнение: 107.txt
 волнистый: 1.txt, 37.txt, 77.txt, 86.txt, 87.txt, 98.txt, 106.txt, 107.txt
@@ -677,10 +693,11 @@
 вопль: 124.txt
 вопрос: 20.txt, 23.txt, 24.txt, 27.txt, 37.txt, 55.txt, 76.txt, 88.txt, 98.txt
 воришка: 121.txt
-воробьинообразный: 43.txt, 56.txt
+воробьинообразный: 43.txt, 56.txt, 61.txt
 воровать: 119.txt
-ворона: 26.txt
+ворона: 26.txt, 51.txt
 воротник: 74.txt
+восемь: 40.txt
 восковица: 3.txt, 106.txt
 воскресение: 55.txt
 воспаление: 83.txt, 86.txt, 87.txt, 106.txt
@@ -703,9 +720,9 @@
 восстанавливаться: 68.txt
 восстановить: 44.txt, 50.txt, 52.txt, 81.txt, 102.txt, 108.txt
 восстановление: 13.txt, 44.txt, 92.txt, 110.txt
-восток: 1.txt, 4.txt, 8.txt, 24.txt, 32.txt, 46.txt, 47.txt, 55.txt
+восток: 1.txt, 4.txt, 8.txt, 14.txt, 24.txt, 32.txt, 44.txt, 46.txt, 47.txt, 55.txt, 57.txt, 60.txt, 94.txt, 96.txt, 99.txt
 восторженный: 90.txt
-восточный: 3.txt, 17.txt, 32.txt, 33.txt, 46.txt, 51.txt, 53.txt, 55.txt, 58.txt, 94.txt, 96.txt, 100.txt, 101.txt
+восточный: 2.txt, 3.txt, 4.txt, 5.txt, 9.txt, 17.txt, 32.txt, 33.txt, 42.txt, 46.txt, 51.txt, 53.txt, 54.txt, 55.txt, 58.txt, 60.txt, 64.txt, 73.txt, 90.txt, 94.txt, 96.txt, 98.txt, 99.txt, 100.txt, 101.txt, 113.txt
 восхищаться: 7.txt, 81.txt
 восход: 55.txt
 восьмой: 12.txt, 81.txt, 116.txt
@@ -747,7 +764,7 @@
 вряд: 80.txt, 112.txt
 всасывать: 15.txt, 89.txt
 всемирный: 50.txt, 71.txt, 90.txt, 116.txt
-всеядный: 11.txt, 13.txt, 15.txt, 22.txt, 39.txt
+всеядный: 11.txt, 13.txt, 15.txt, 22.txt, 24.txt, 29.txt, 39.txt, 43.txt, 47.txt
 вскармливание: 33.txt, 39.txt, 43.txt, 52.txt, 56.txt, 61.txt, 114.txt
 вскармливать: 56.txt, 61.txt, 64.txt, 116.txt
 вскоре: 9.txt, 24.txt, 41.txt, 55.txt, 73.txt, 86.txt, 88.txt, 92.txt, 99.txt, 102.txt, 106.txt, 110.txt
@@ -828,7 +845,7 @@
 выдерживать: 37.txt, 38.txt, 39.txt
 выдолбить: 27.txt
 выдох: 114.txt
-выдра: 18.txt, 63.txt, 71.txt
+выдра: 18.txt, 26.txt, 63.txt, 71.txt
 выдувать: 15.txt
 выедать: 1.txt, 5.txt, 37.txt, 38.txt
 выживаемость: 9.txt, 25.txt
@@ -1004,6 +1021,7 @@
 гватемала: 22.txt
 гвинейский: 105.txt
 ген: 44.txt, 74.txt
+генерал: 49.txt
 генеральный: 86.txt, 106.txt
 генет: 34.txt
 генетика: 2.txt
@@ -1013,8 +1031,9 @@
 геном: 44.txt
 географический: 4.txt, 123.txt
 геометрический: 13.txt
-гепард: 17.txt, 41.txt, 46.txt
+гепард: 16.txt, 17.txt, 41.txt, 46.txt
 герб: 78.txt
+геркулес: 60.txt
 германия: 24.txt, 117.txt
 герметичный: 75.txt, 106.txt
 геродот: 41.txt
@@ -1029,7 +1048,7 @@
 гибридный: 38.txt
 гибридома: 41.txt, 110.txt
 гиганстскай: 59.txt
-гигант: 30.txt, 31.txt, 34.txt, 59.txt, 60.txt, 80.txt, 101.txt, 111.txt, 114.txt
+гигант: 1.txt, 30.txt, 31.txt, 34.txt, 59.txt, 60.txt, 80.txt, 101.txt, 111.txt, 114.txt
 гигантский: 1.txt, 4.txt, 9.txt, 30.txt, 31.txt, 58.txt, 59.txt, 60.txt, 62.txt, 80.txt, 88.txt, 100.txt, 101.txt, 114.txt
 гигиена: 67.txt
 гигиенический: 62.txt, 67.txt, 84.txt
@@ -1039,6 +1058,7 @@
 гиеновидный: 16.txt, 28.txt, 41.txt, 69.txt, 91.txt, 94.txt, 95.txt
 гиеновый: 16.txt
 гилман: 41.txt
+гиль: 62.txt
 гималаи: 47.txt, 72.txt
 гималайский: 15.txt, 29.txt, 44.txt, 47.txt, 59.txt, 68.txt, 72.txt
 гимнастический: 122.txt
@@ -1093,6 +1113,7 @@
 годовой: 38.txt
 гол: 40.txt
 голень: 49.txt
+голиаф: 60.txt
 голова: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 22.txt, 23.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 33.txt, 34.txt, 37.txt, 41.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 54.txt, 55.txt, 58.txt, 60.txt, 62.txt, 73.txt, 79.txt, 83.txt, 86.txt, 87.txt, 88.txt, 90.txt, 92.txt, 94.txt, 95.txt, 96.txt, 99.txt, 102.txt, 105.txt, 106.txt, 107.txt, 108.txt, 110.txt, 113.txt, 114.txt, 116.txt, 117.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt
 головастик: 26.txt
 головной: 31.txt, 89.txt, 91.txt
@@ -1105,8 +1126,8 @@
 голосок: 88.txt
 голубеть: 3.txt
 голубика: 14.txt
-голубоватый: 3.txt, 29.txt, 55.txt, 60.txt, 61.txt
-голубой: 11.txt, 12.txt, 20.txt, 22.txt, 31.txt, 40.txt, 49.txt, 61.txt, 85.txt, 88.txt, 95.txt, 106.txt, 108.txt, 111.txt, 114.txt, 123.txt, 124.txt
+голубоватый: 2.txt, 3.txt, 12.txt, 29.txt, 55.txt, 60.txt, 61.txt, 90.txt
+голубой: 11.txt, 12.txt, 20.txt, 22.txt, 31.txt, 40.txt, 49.txt, 55.txt, 56.txt, 60.txt, 61.txt, 76.txt, 84.txt, 85.txt, 88.txt, 95.txt, 106.txt, 108.txt, 111.txt, 114.txt, 123.txt, 124.txt
 голубь: 55.txt
 голый: 46.txt
 гоминид: 13.txt
@@ -1124,12 +1145,12 @@
 гордый: 53.txt, 78.txt
 гореть: 91.txt
 горизонт: 34.txt, 98.txt
-горилла: 33.txt, 111.txt
-горихвостка: 55.txt
+горилла: 33.txt, 51.txt, 111.txt
+горихвостка: 26.txt, 55.txt
 горка: 71.txt, 117.txt
 горло: 5.txt, 46.txt, 106.txt, 113.txt, 114.txt, 120.txt, 123.txt, 124.txt
 гормон: 20.txt, 25.txt, 41.txt
-горностай: 14.txt, 68.txt, 92.txt, 97.txt, 121.txt
+горностай: 14.txt, 38.txt, 68.txt, 92.txt, 97.txt, 121.txt
 горный: 6.txt, 11.txt, 12.txt, 14.txt, 16.txt, 17.txt, 23.txt, 24.txt, 26.txt, 29.txt, 32.txt, 33.txt, 39.txt, 42.txt, 49.txt, 52.txt, 53.txt, 72.txt, 97.txt, 122.txt, 124.txt
 город: 3.txt, 6.txt, 12.txt, 39.txt, 55.txt, 66.txt, 67.txt, 76.txt, 87.txt, 97.txt, 98.txt
 городской: 1.txt, 3.txt, 24.txt, 25.txt, 26.txt, 52.txt, 55.txt, 65.txt, 88.txt, 113.txt, 121.txt
@@ -1203,17 +1224,8 @@
 грушевидный: 92.txt
 грызть: 4.txt, 21.txt, 38.txt, 52.txt, 73.txt
 грызун: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-грызуныбелкагрызун: 52.txt
-грызуныбобрый: 117.txt
-грызунызаяцбелякзайцевый: 4.txt
-грызунызаяцрусакзайцевый: 6.txt
-грызуныкапибарабольшиеводосвинка: 93.txt
-грызуныкроликзайцевый: 38.txt
-грызунылетягабелка: 27.txt
-грызунысвинка: 105.txt
-грызуныхомяк: 21.txt
-грызунышиншилла: 84.txt
 гряда: 5.txt
+грязно: 22.txt, 96.txt
 грязный: 22.txt
 грязь: 83.txt
 губа: 11.txt, 13.txt, 15.txt, 22.txt, 94.txt, 118.txt
@@ -1273,6 +1285,7 @@
 двухнедельный: 12.txt
 двухцветный: 121.txt
 двухэтажный: 21.txt
+де: 93.txt
 дева: 90.txt
 девать: 22.txt
 девятинедельный: 99.txt
@@ -1285,9 +1298,9 @@
 действие: 5.txt, 66.txt, 88.txt, 91.txt, 106.txt, 114.txt
 действительно: 46.txt, 66.txt, 112.txt
 действовать: 59.txt, 103.txt, 113.txt
-декабрь: 44.txt, 54.txt, 97.txt, 109.txt, 114.txt, 119.txt
+декабрь: 14.txt, 15.txt, 16.txt, 36.txt, 37.txt, 38.txt, 39.txt, 44.txt, 54.txt, 61.txt, 62.txt, 70.txt, 82.txt, 83.txt, 84.txt, 97.txt, 109.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt
 декор: 83.txt, 104.txt
-декоративный: 20.txt, 22.txt, 23.txt, 83.txt, 86.txt, 104.txt, 105.txt
+декоративный: 20.txt, 22.txt, 23.txt, 83.txt, 86.txt, 104.txt, 105.txt, 106.txt
 декорация: 83.txt
 декорирование: 83.txt
 делать: 3.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 17.txt, 19.txt, 20.txt, 21.txt, 22.txt, 24.txt, 27.txt, 29.txt, 32.txt, 33.txt, 37.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 47.txt, 48.txt, 50.txt, 52.txt, 54.txt, 58.txt, 60.txt, 62.txt, 63.txt, 65.txt, 68.txt, 72.txt, 73.txt, 74.txt, 76.txt, 79.txt, 84.txt, 86.txt, 87.txt, 88.txt, 89.txt, 94.txt, 96.txt, 98.txt, 101.txt, 104.txt, 105.txt, 107.txt, 110.txt, 112.txt, 115.txt, 120.txt, 121.txt
@@ -1299,6 +1312,7 @@
 делиться: 11.txt, 13.txt, 44.txt, 94.txt, 114.txt, 119.txt, 123.txt
 дело: 1.txt, 4.txt, 5.txt, 8.txt, 11.txt, 14.txt, 15.txt, 18.txt, 20.txt, 22.txt, 24.txt, 25.txt, 32.txt, 36.txt, 37.txt, 38.txt, 41.txt, 45.txt, 47.txt, 55.txt, 59.txt, 62.txt, 67.txt, 68.txt, 71.txt, 87.txt, 92.txt, 101.txt, 103.txt, 104.txt, 105.txt, 112.txt, 116.txt, 122.txt, 123.txt
 дельфин: 14.txt, 21.txt, 27.txt, 50.txt, 60.txt, 61.txt, 102.txt, 104.txt, 121.txt
+дельфиновый: 5.txt
 демократический: 2.txt, 13.txt, 46.txt, 96.txt
 демонстрация: 33.txt, 116.txt
 демонстрировать: 122.txt, 123.txt
@@ -1347,7 +1361,7 @@
 диморфизм: 3.txt, 4.txt, 6.txt, 12.txt
 дин: 66.txt
 динамический: 49.txt
-динго: 99.txt, 110.txt, 117.txt
+динго: 45.txt, 99.txt, 110.txt, 117.txt
 динорнис: 80.txt
 дисковидный: 104.txt
 дискомфорт: 58.txt
@@ -1359,7 +1373,7 @@
 длина: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 34.txt, 35.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 64.txt, 65.txt, 69.txt, 71.txt, 72.txt, 76.txt, 78.txt, 79.txt, 83.txt, 86.txt, 88.txt, 90.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 110.txt, 111.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 длинноногий: 8.txt
 длиннохвостый: 95.txt
-длинношёрстный: 20.txt, 74.txt, 87.txt, 105.txt, 107.txt
+длинношёрстный: 20.txt, 74.txt, 87.txt, 88.txt, 105.txt, 107.txt
 длинношёрстый: 20.txt, 105.txt
 длинный: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 23.txt, 28.txt, 29.txt, 30.txt, 32.txt, 33.txt, 38.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 48.txt, 49.txt, 54.txt, 55.txt, 56.txt, 58.txt, 60.txt, 62.txt, 65.txt, 67.txt, 71.txt, 73.txt, 74.txt, 78.txt, 79.txt, 80.txt, 84.txt, 87.txt, 88.txt, 89.txt, 92.txt, 93.txt, 94.txt, 95.txt, 97.txt, 98.txt, 99.txt, 100.txt, 102.txt, 106.txt, 107.txt, 108.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 длительность: 75.txt
@@ -1415,7 +1429,7 @@
 долго: 1.txt, 2.txt, 16.txt, 24.txt, 28.txt, 31.txt, 32.txt, 38.txt, 40.txt, 46.txt, 54.txt, 62.txt, 65.txt, 74.txt, 76.txt, 86.txt, 87.txt, 104.txt, 105.txt, 120.txt
 долговечный: 114.txt
 долговременный: 96.txt
-долгожитель: 120.txt
+долгожитель: 37.txt, 120.txt
 долголетие: 20.txt, 37.txt
 долгопят: 50.txt, 54.txt
 долгопятов: 54.txt
@@ -1424,7 +1438,7 @@
 долина: 4.txt, 96.txt, 100.txt
 дольный: 42.txt
 доля: 28.txt, 117.txt
-дом: 11.txt, 20.txt, 21.txt, 23.txt, 52.txt, 54.txt, 57.txt, 63.txt, 66.txt, 67.txt, 69.txt, 73.txt, 74.txt, 76.txt, 81.txt, 84.txt, 88.txt, 93.txt, 97.txt, 99.txt, 105.txt, 106.txt, 117.txt
+дом: 11.txt, 20.txt, 21.txt, 23.txt, 45.txt, 52.txt, 54.txt, 57.txt, 61.txt, 63.txt, 66.txt, 67.txt, 69.txt, 73.txt, 74.txt, 76.txt, 81.txt, 84.txt, 88.txt, 93.txt, 97.txt, 99.txt, 105.txt, 106.txt, 117.txt
 домашний: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 домик: 21.txt, 105.txt, 117.txt
 доминантный: 12.txt, 16.txt, 38.txt, 93.txt, 99.txt
@@ -1476,6 +1490,7 @@
 дотягивать: 5.txt
 дотягиваться: 94.txt
 дотянуть: 37.txt
+дофин: 95.txt
 доходить: 6.txt, 16.txt, 21.txt, 25.txt, 34.txt, 44.txt, 55.txt, 60.txt, 68.txt, 106.txt, 111.txt, 123.txt
 дочь: 5.txt
 дразнить: 122.txt
@@ -1484,9 +1499,9 @@
 драться: 64.txt, 113.txt
 древесный: 11.txt, 21.txt, 94.txt, 105.txt, 117.txt
 древнеегипетский: 32.txt
-древний: 2.txt, 18.txt, 29.txt, 30.txt, 35.txt, 44.txt, 45.txt, 52.txt, 57.txt, 68.txt, 73.txt, 78.txt, 83.txt, 90.txt, 91.txt, 98.txt, 100.txt, 101.txt, 112.txt
+древний: 2.txt, 18.txt, 29.txt, 30.txt, 35.txt, 44.txt, 45.txt, 52.txt, 57.txt, 68.txt, 73.txt, 78.txt, 80.txt, 83.txt, 90.txt, 91.txt, 98.txt, 100.txt, 101.txt, 112.txt
 древность: 32.txt, 58.txt, 90.txt, 100.txt
-древолаз: 101.txt
+древолаз: 24.txt, 29.txt, 59.txt, 72.txt, 101.txt
 дрейфовать: 98.txt
 дренаж: 91.txt
 дрессированный: 50.txt
@@ -1495,6 +1510,7 @@
 дрессура: 107.txt
 дрисс: 66.txt
 дробление: 18.txt
+дровосек: 60.txt
 дрожь: 105.txt
 дрозд: 52.txt
 друг: 2.txt, 5.txt, 8.txt, 11.txt, 13.txt, 14.txt, 17.txt, 19.txt, 23.txt, 26.txt, 33.txt, 39.txt, 41.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 55.txt, 56.txt, 66.txt, 67.txt, 69.txt, 72.txt, 73.txt, 78.txt, 81.txt, 85.txt, 89.txt, 94.txt, 95.txt, 96.txt, 98.txt, 107.txt, 109.txt, 113.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 123.txt
@@ -1545,12 +1561,12 @@
 ежедневно: 26.txt, 45.txt, 81.txt
 ежедневный: 31.txt, 67.txt, 86.txt, 106.txt, 107.txt
 еженедельный: 83.txt, 104.txt
-ежи: 103.txt, 113.txt
+ежи: 91.txt, 103.txt, 113.txt
 ежиха: 113.txt
 ежонок: 113.txt
 ездовой: 12.txt, 101.txt
 еле: 22.txt, 28.txt
-енот: 16.txt, 43.txt, 63.txt
+енот: 8.txt, 16.txt, 24.txt, 43.txt, 63.txt, 114.txt
 енотовидный: 16.txt, 24.txt, 26.txt, 43.txt, 55.txt, 97.txt
 енотовый: 24.txt
 естественно: 14.txt, 107.txt
@@ -1568,6 +1584,7 @@
 жаловаться: 91.txt
 жалостливый: 73.txt, 107.txt
 жалость: 13.txt
+жанейро: 93.txt
 жара: 2.txt, 8.txt, 46.txt, 91.txt, 102.txt, 106.txt
 жареный: 105.txt
 жарить: 84.txt, 86.txt
@@ -1585,7 +1602,7 @@
 железа: 16.txt, 21.txt, 62.txt, 112.txt, 116.txt, 117.txt
 железнодорожник: 81.txt
 железный: 66.txt
-желтоватый: 2.txt, 5.txt, 20.txt, 26.txt, 65.txt, 86.txt, 98.txt
+желтоватый: 2.txt, 5.txt, 20.txt, 26.txt, 65.txt, 79.txt, 86.txt, 93.txt, 98.txt, 119.txt, 121.txt
 желток: 92.txt
 желудок: 37.txt, 48.txt, 58.txt, 62.txt, 120.txt, 122.txt
 женский: 8.txt, 31.txt, 33.txt, 39.txt, 98.txt, 118.txt, 124.txt
@@ -1593,6 +1610,7 @@
 жертва: 2.txt, 5.txt, 9.txt, 11.txt, 16.txt, 17.txt, 18.txt, 22.txt, 25.txt, 37.txt, 41.txt, 42.txt, 44.txt, 54.txt, 55.txt, 57.txt, 62.txt, 72.txt, 79.txt, 92.txt, 96.txt, 98.txt, 102.txt, 114.txt, 118.txt, 120.txt, 121.txt, 123.txt
 жертвовать: 62.txt
 жест: 13.txt
+жесткокрылый: 90.txt
 жестокий: 41.txt, 54.txt, 87.txt, 101.txt, 106.txt, 123.txt
 жестоко: 120.txt
 жестокость: 101.txt
@@ -1603,33 +1621,7 @@
 живот: 6.txt, 23.txt, 28.txt, 39.txt, 54.txt, 73.txt, 91.txt, 95.txt, 102.txt, 113.txt, 118.txt, 120.txt
 животноводство: 38.txt, 59.txt, 91.txt
 животное: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-животныеежнасекомоядный: 113.txt
-животныеенотвсеядныеспячкадреволаз: 24.txt
-животныезебранепарнокопытныеквагга: 110.txt
-животныекаракуртпаукиопасныеядовитый: 91.txt
-животныекоаласумчатый: 45.txt
-животныелевхищникопасныебольший: 35.txt
-животныеленивецнеполнозубый: 48.txt
-животныемоабескилевыеэндемикдревний: 80.txt
-животныеносорогдревниеэласмотерия: 100.txt
-животныесмилодондревниебольший: 18.txt
 животный: 8.txt, 12.txt, 14.txt, 15.txt, 24.txt, 32.txt, 40.txt, 41.txt, 42.txt, 43.txt, 45.txt, 48.txt, 52.txt, 54.txt, 57.txt, 65.txt, 78.txt, 79.txt, 94.txt, 97.txt, 101.txt, 105.txt, 114.txt, 120.txt, 122.txt
-животныхадресник: 69.txt
-животныхгерой: 66.txt
-животныхдельфиныгерой: 50.txt
-животныхдружба: 109.txt
-животныхежфакт: 103.txt
-животныхкоронавирусвыгул: 67.txt
-животныхкосмонавт: 75.txt
-животныхкосмонавтыобезьяна: 10.txt
-животныхкрокодилхищник: 112.txt
-животныхлевхищникопасный: 78.txt
-животныхмедведьспячка: 68.txt
-животныхмеланистальбиносмутация: 51.txt
-животныхмиска: 70.txt
-животныхперелетныептица: 55.txt
-животныххатикоакит: 81.txt
-животныххэллоуин: 63.txt
 живучий: 22.txt
 жидкость: 22.txt, 45.txt, 76.txt, 90.txt
 жизнедеятельность: 8.txt, 41.txt, 44.txt, 72.txt
@@ -1643,7 +1635,7 @@
 жилой: 98.txt, 117.txt
 жильё: 65.txt
 жир: 8.txt, 37.txt, 40.txt, 43.txt, 47.txt, 58.txt, 93.txt, 97.txt, 98.txt, 114.txt
-жираф: 41.txt, 63.txt, 78.txt, 94.txt, 104.txt, 111.txt
+жираф: 41.txt, 51.txt, 63.txt, 78.txt, 93.txt, 94.txt, 104.txt, 111.txt, 120.txt
 жирность: 4.txt, 8.txt
 жирный: 114.txt
 жировик: 117.txt
@@ -1657,10 +1649,10 @@
 жопка: 1.txt
 жужевать: 102.txt
 жук: 1.txt, 60.txt, 90.txt
-жуков: 3.txt, 60.txt
+жуков: 1.txt, 3.txt, 60.txt
 журнал: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 жуткий: 5.txt, 18.txt, 25.txt
-жёлтый: 1.txt, 3.txt, 9.txt, 23.txt, 25.txt, 49.txt, 54.txt, 55.txt, 56.txt, 58.txt, 62.txt, 79.txt, 82.txt, 86.txt, 90.txt, 95.txt, 103.txt, 106.txt, 113.txt, 120.txt, 123.txt
+жёлтый: 1.txt, 3.txt, 9.txt, 23.txt, 25.txt, 42.txt, 49.txt, 53.txt, 54.txt, 55.txt, 56.txt, 58.txt, 61.txt, 62.txt, 78.txt, 79.txt, 82.txt, 86.txt, 90.txt, 95.txt, 102.txt, 103.txt, 106.txt, 113.txt, 120.txt, 123.txt
 жёлудь: 52.txt, 117.txt, 118.txt
 жёлчный: 15.txt, 72.txt
 жёрдочка: 86.txt, 106.txt
@@ -1761,7 +1753,7 @@
 зазубрить: 58.txt
 заимствовать: 61.txt
 заинтересовать: 60.txt
-зайцевыя: 6.txt
+зайцевыя: 4.txt, 6.txt, 38.txt
 зайцеобразный: 4.txt
 зайчиха: 4.txt, 6.txt
 зайчонок: 4.txt, 6.txt, 121.txt
@@ -1837,9 +1829,9 @@
 заняться: 121.txt
 заостенный: 20.txt
 заострить: 8.txt, 14.txt, 42.txt, 53.txt, 76.txt, 90.txt, 104.txt, 108.txt, 114.txt, 117.txt
-запад: 55.txt, 60.txt
+запад: 55.txt, 60.txt, 100.txt, 113.txt
 западноафриканский: 94.txt
-западный: 4.txt, 11.txt, 17.txt, 18.txt, 32.txt, 33.txt, 43.txt, 45.txt, 49.txt, 52.txt, 55.txt, 56.txt, 58.txt, 79.txt, 99.txt, 100.txt, 113.txt, 114.txt
+западный: 4.txt, 5.txt, 11.txt, 17.txt, 18.txt, 32.txt, 33.txt, 43.txt, 45.txt, 49.txt, 52.txt, 55.txt, 56.txt, 58.txt, 79.txt, 84.txt, 99.txt, 100.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt
 запас: 17.txt, 21.txt, 52.txt, 63.txt, 68.txt, 72.txt, 92.txt, 103.txt, 113.txt, 117.txt, 121.txt
 запасать: 123.txt
 запасливый: 52.txt
@@ -1891,7 +1883,7 @@
 зарывать: 52.txt, 120.txt
 зарываться: 1.txt, 83.txt
 зарыть: 52.txt
-зарянка: 55.txt, 56.txt
+зарянка: 43.txt, 55.txt, 56.txt
 засада: 37.txt, 96.txt, 123.txt
 засадный: 17.txt, 18.txt, 25.txt, 44.txt, 62.txt
 засасывать: 37.txt
@@ -1957,14 +1949,15 @@
 защёлкнуть: 120.txt
 заявлять: 3.txt, 118.txt
 заядлый: 17.txt
-заяц: 4.txt, 6.txt, 12.txt, 14.txt, 16.txt, 17.txt, 79.txt, 121.txt
+заяц: 4.txt, 6.txt, 12.txt, 14.txt, 16.txt, 17.txt, 42.txt, 62.txt, 79.txt, 93.txt, 105.txt, 107.txt, 113.txt, 121.txt, 123.txt
 заячий: 4.txt, 38.txt, 65.txt
 звание: 49.txt, 53.txt, 78.txt
 звать: 6.txt, 10.txt, 13.txt, 48.txt
+звездочёт: 83.txt
 звенящий: 3.txt
 звероферма: 12.txt
 зверушка: 105.txt
-зверь: 12.txt, 59.txt, 63.txt, 65.txt, 68.txt, 72.txt, 95.txt, 97.txt, 98.txt, 109.txt, 113.txt, 117.txt, 122.txt, 123.txt
+зверь: 12.txt, 35.txt, 59.txt, 63.txt, 65.txt, 68.txt, 72.txt, 95.txt, 97.txt, 98.txt, 101.txt, 109.txt, 113.txt, 117.txt, 122.txt, 123.txt
 зверёк: 14.txt, 21.txt, 27.txt, 38.txt, 52.txt, 64.txt, 71.txt, 76.txt, 84.txt, 103.txt, 105.txt, 113.txt, 117.txt, 121.txt, 122.txt
 звук: 2.txt, 5.txt, 6.txt, 11.txt, 23.txt, 33.txt, 45.txt, 54.txt, 88.txt, 97.txt, 105.txt, 110.txt, 122.txt
 звуковой: 3.txt, 5.txt, 33.txt, 39.txt, 41.txt, 62.txt, 65.txt
@@ -1978,7 +1971,7 @@
 зеландия: 6.txt, 49.txt, 55.txt, 58.txt, 80.txt, 92.txt, 121.txt
 зеленоватый: 5.txt, 30.txt, 37.txt, 48.txt, 60.txt, 80.txt, 92.txt, 98.txt, 106.txt, 114.txt
 зелень: 6.txt, 38.txt, 86.txt, 106.txt
-зелёный: 5.txt, 9.txt, 20.txt, 23.txt, 25.txt, 30.txt, 49.txt, 55.txt, 67.txt, 106.txt, 108.txt, 116.txt, 118.txt
+зелёный: 5.txt, 9.txt, 20.txt, 23.txt, 25.txt, 30.txt, 40.txt, 49.txt, 55.txt, 67.txt, 104.txt, 106.txt, 108.txt, 116.txt, 118.txt
 землеройка: 123.txt
 земля: 1.txt, 2.txt, 6.txt, 9.txt, 11.txt, 17.txt, 23.txt, 24.txt, 27.txt, 28.txt, 38.txt, 45.txt, 48.txt, 52.txt, 54.txt, 55.txt, 56.txt, 60.txt, 61.txt, 62.txt, 72.txt, 75.txt, 78.txt, 80.txt, 92.txt, 93.txt, 96.txt, 98.txt, 106.txt, 111.txt, 116.txt, 117.txt, 121.txt
 земляника: 29.txt
@@ -2015,6 +2008,7 @@
 значительно: 6.txt, 8.txt, 9.txt, 12.txt, 13.txt, 15.txt, 16.txt, 21.txt, 24.txt, 26.txt, 27.txt, 29.txt, 32.txt, 33.txt, 34.txt, 37.txt, 38.txt, 41.txt, 42.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 51.txt, 52.txt, 55.txt, 59.txt, 60.txt, 62.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 78.txt, 79.txt, 91.txt, 93.txt, 94.txt, 97.txt, 98.txt, 99.txt, 102.txt, 106.txt, 107.txt, 114.txt, 117.txt, 118.txt, 120.txt, 121.txt, 123.txt, 124.txt
 значительный: 4.txt, 8.txt, 15.txt, 26.txt, 29.txt, 34.txt, 38.txt, 44.txt, 55.txt, 58.txt, 59.txt, 66.txt, 67.txt, 68.txt, 76.txt, 78.txt, 92.txt, 97.txt, 106.txt, 117.txt, 120.txt, 121.txt, 122.txt
 зоб: 61.txt, 106.txt
+золотисто: 88.txt
 золотистый: 21.txt, 42.txt, 102.txt
 золотой: 21.txt, 44.txt, 83.txt, 84.txt
 зона: 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 11.txt, 12.txt, 55.txt, 67.txt, 94.txt, 95.txt, 97.txt, 110.txt, 117.txt, 123.txt
@@ -2024,6 +2018,7 @@
 зоомагазин: 83.txt, 84.txt
 зоопарк: 2.txt, 12.txt, 17.txt, 29.txt, 33.txt, 35.txt, 40.txt, 41.txt, 55.txt, 62.txt, 106.txt, 110.txt, 116.txt
 зоркий: 57.txt
+зорянка: 56.txt
 зрачок: 9.txt, 45.txt, 79.txt
 зрелищный: 3.txt, 61.txt, 65.txt, 114.txt
 зрелость: 2.txt, 4.txt, 5.txt, 24.txt, 26.txt, 29.txt, 37.txt, 38.txt, 40.txt, 41.txt, 43.txt, 48.txt, 54.txt, 58.txt, 87.txt, 114.txt
@@ -2174,6 +2169,7 @@
 интернет: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 интерьер: 21.txt
 интонация: 106.txt
+ину: 24.txt, 26.txt, 33.txt, 44.txt, 55.txt, 73.txt, 79.txt, 80.txt, 81.txt, 120.txt, 122.txt
 инфекционный: 65.txt
 инфекция: 107.txt
 информационный: 29.txt
@@ -2181,6 +2177,7 @@
 информировать: 13.txt
 инфразвуковой: 114.txt
 инъекция: 50.txt
+иосиф: 98.txt
 ирак: 28.txt
 иран: 72.txt, 79.txt, 91.txt, 100.txt
 ирландия: 38.txt
@@ -2220,6 +2217,7 @@
 испытывать: 23.txt, 26.txt, 33.txt, 39.txt, 112.txt
 исследование: 18.txt, 33.txt, 34.txt, 37.txt, 55.txt, 58.txt, 73.txt, 75.txt, 79.txt, 80.txt, 89.txt, 92.txt
 исследователь: 80.txt, 104.txt, 112.txt, 114.txt
+исследовательский: 75.txt
 исследовать: 19.txt, 58.txt, 84.txt, 97.txt
 истина: 9.txt, 35.txt, 95.txt
 истинный: 73.txt, 105.txt
@@ -2238,8 +2236,9 @@
 исчезнуть: 21.txt, 62.txt
 исчисляться: 6.txt, 26.txt, 39.txt, 55.txt, 58.txt
 итог: 5.txt, 14.txt, 25.txt, 55.txt, 73.txt
-июль: 62.txt, 94.txt, 121.txt
-июнь: 14.txt, 29.txt, 49.txt, 92.txt
+июль: 9.txt, 22.txt, 46.txt, 62.txt, 64.txt, 72.txt, 93.txt, 94.txt, 121.txt
+июнь: 10.txt, 12.txt, 14.txt, 23.txt, 29.txt, 47.txt, 49.txt, 66.txt, 92.txt, 95.txt, 96.txt, 97.txt, 118.txt
+йорк: 88.txt
 к: 19.txt, 33.txt, 41.txt, 94.txt, 102.txt, 103.txt, 113.txt, 123.txt
 кабан: 52.txt, 59.txt, 72.txt
 кабанов: 73.txt
@@ -2256,7 +2255,7 @@
 кайман: 93.txt
 какаду: 86.txt
 каков: 9.txt, 37.txt
-какой: 23.txt, 36.txt, 50.txt, 55.txt, 58.txt, 59.txt, 60.txt, 73.txt, 76.txt, 78.txt, 86.txt, 87.txt, 88.txt, 90.txt, 100.txt, 112.txt, 123.txt
+какой: 4.txt, 11.txt, 16.txt, 17.txt, 20.txt, 22.txt, 23.txt, 26.txt, 28.txt, 33.txt, 36.txt, 39.txt, 42.txt, 45.txt, 50.txt, 55.txt, 56.txt, 58.txt, 59.txt, 60.txt, 62.txt, 73.txt, 76.txt, 78.txt, 80.txt, 86.txt, 87.txt, 88.txt, 90.txt, 100.txt, 105.txt, 106.txt, 108.txt, 112.txt, 123.txt
 кактус: 40.txt, 95.txt
 калининградский: 25.txt
 калифорнийский: 50.txt
@@ -2269,12 +2268,13 @@
 камень: 14.txt, 22.txt, 29.txt, 83.txt, 84.txt, 119.txt, 121.txt
 камера: 97.txt
 камешек: 4.txt
+камикадзе: 50.txt
 камуфляж: 48.txt
 камчатский: 14.txt, 47.txt
 камыш: 26.txt
 канада: 24.txt, 42.txt, 47.txt, 114.txt
 канадский: 5.txt, 29.txt, 98.txt
-канал: 107.txt, 117.txt
+канал: 77.txt, 107.txt, 117.txt
 канареечный: 106.txt
 канарский: 49.txt, 55.txt
 канат: 86.txt
@@ -2290,7 +2290,7 @@
 капризный: 108.txt
 капский: 41.txt
 капсула: 69.txt
-капуцин: 119.txt
+капуцин: 10.txt, 119.txt
 капюшон: 9.txt
 карабин: 70.txt
 карабкаться: 45.txt
@@ -2327,21 +2327,23 @@
 каша: 74.txt, 107.txt
 кашалот: 5.txt
 кашель: 105.txt
-каштановый: 11.txt
+каштановый: 11.txt, 117.txt
 квагга: 8.txt, 45.txt, 77.txt, 80.txt, 110.txt
 квадратный: 12.txt, 17.txt, 19.txt, 37.txt, 41.txt, 42.txt, 44.txt, 45.txt
+квазулу: 96.txt
 квалифицировать: 2.txt
 квартира: 20.txt, 23.txt, 73.txt, 84.txt
 кг: 5.txt, 8.txt, 12.txt, 14.txt, 18.txt, 19.txt, 24.txt, 29.txt, 30.txt, 31.txt, 33.txt, 37.txt, 38.txt, 41.txt, 44.txt, 46.txt, 47.txt, 59.txt, 62.txt, 87.txt, 88.txt, 94.txt, 95.txt, 97.txt, 98.txt, 102.txt, 111.txt, 122.txt, 123.txt, 124.txt
 кедр: 52.txt
 кедровый: 14.txt
 кейвить: 105.txt
+кейп: 11.txt
 кенгуру: 99.txt, 111.txt
 кения: 46.txt, 96.txt, 116.txt
 керамический: 21.txt
 кермодский: 29.txt
 кивать: 2.txt
-киви: 92.txt, 116.txt, 118.txt
+киви: 80.txt, 92.txt, 116.txt, 118.txt, 121.txt
 килокалория: 8.txt
 километр: 66.txt, 72.txt, 123.txt
 кинза: 105.txt
@@ -2355,7 +2357,7 @@
 кислородный: 83.txt
 кисточка: 32.txt, 41.txt, 52.txt, 59.txt, 78.txt, 88.txt, 94.txt, 110.txt
 кисть: 97.txt
-кит: 2.txt, 5.txt, 29.txt, 37.txt, 111.txt, 114.txt
+кит: 2.txt, 5.txt, 29.txt, 37.txt, 101.txt, 111.txt, 114.txt
 китай: 8.txt, 42.txt, 43.txt, 44.txt, 55.txt, 64.txt, 67.txt, 83.txt, 122.txt
 китайский: 9.txt, 44.txt, 99.txt
 китобойный: 5.txt
@@ -2367,7 +2369,7 @@
 кладбище: 81.txt
 кладка: 2.txt, 3.txt, 9.txt, 12.txt, 22.txt, 23.txt, 26.txt, 34.txt, 40.txt, 60.txt, 61.txt, 62.txt, 65.txt, 86.txt, 91.txt, 116.txt, 121.txt
 клапан: 71.txt
-класс: 40.txt, 87.txt, 101.txt, 115.txt, 120.txt
+класс: 2.txt, 3.txt, 26.txt, 40.txt, 56.txt, 61.txt, 87.txt, 92.txt, 101.txt, 115.txt, 116.txt, 120.txt
 классификация: 19.txt, 33.txt
 классифицировать: 5.txt, 58.txt, 60.txt
 классический: 30.txt, 44.txt, 69.txt, 83.txt
@@ -2391,10 +2393,10 @@
 книга: 2.txt, 5.txt, 17.txt, 19.txt, 27.txt, 28.txt, 29.txt, 31.txt, 32.txt, 33.txt, 34.txt, 40.txt, 41.txt, 42.txt, 44.txt, 47.txt, 49.txt, 52.txt, 62.txt, 71.txt, 74.txt, 79.txt, 96.txt, 97.txt, 98.txt, 116.txt, 122.txt
 книжка: 98.txt, 113.txt
 коала: 14.txt, 45.txt, 63.txt
-коалиция: 11.txt
+коалиция: 11.txt, 41.txt
 коатить: 63.txt
 кобель: 19.txt
-кобра: 7.txt, 9.txt, 28.txt
+кобра: 7.txt, 9.txt, 28.txt, 101.txt
 коварный: 59.txt
 коготок: 105.txt
 коготь: 15.txt, 17.txt, 19.txt, 20.txt, 23.txt, 28.txt, 29.txt, 32.txt, 34.txt, 41.txt, 42.txt, 44.txt, 47.txt, 48.txt, 74.txt, 87.txt, 88.txt, 98.txt, 102.txt, 108.txt, 113.txt, 122.txt, 124.txt
@@ -2409,6 +2411,7 @@
 козёл: 22.txt, 88.txt, 99.txt, 100.txt, 108.txt, 109.txt, 111.txt
 кой: 62.txt, 67.txt, 73.txt, 84.txt
 койот: 28.txt
+кокер: 6.txt, 10.txt, 15.txt, 21.txt, 32.txt, 36.txt, 48.txt, 54.txt, 67.txt, 69.txt, 70.txt, 73.txt, 91.txt, 102.txt, 105.txt, 106.txt, 107.txt, 111.txt, 123.txt
 кокон: 1.txt, 90.txt, 91.txt
 колбаска: 20.txt
 колгуев: 4.txt
@@ -2424,6 +2427,7 @@
 колли: 66.txt
 колодец: 46.txt
 колония: 80.txt, 84.txt, 90.txt, 116.txt
+колорадо: 48.txt
 колоссальный: 17.txt, 34.txt, 38.txt, 58.txt, 62.txt
 колоть: 113.txt
 колумбийский: 48.txt
@@ -2436,6 +2440,7 @@
 команда: 19.txt, 75.txt, 87.txt, 107.txt
 командир: 66.txt
 командорский: 5.txt
+комар: 60.txt
 комбинирование: 21.txt
 комбинированный: 79.txt
 комментировать: 86.txt
@@ -2502,8 +2507,8 @@
 корея: 31.txt, 90.txt, 109.txt, 114.txt, 123.txt
 корзина: 74.txt
 корица: 29.txt
-коричневатый: 6.txt, 24.txt, 26.txt, 38.txt, 45.txt, 55.txt, 58.txt, 60.txt
-коричневый: 1.txt, 2.txt, 3.txt, 21.txt, 25.txt, 26.txt, 29.txt, 33.txt, 39.txt, 41.txt, 42.txt, 44.txt, 45.txt, 48.txt, 56.txt, 60.txt, 71.txt, 75.txt, 80.txt, 92.txt, 105.txt, 107.txt, 110.txt, 115.txt
+коричневатый: 6.txt, 24.txt, 26.txt, 38.txt, 45.txt, 49.txt, 55.txt, 58.txt, 60.txt, 105.txt, 124.txt
+коричневый: 1.txt, 2.txt, 3.txt, 17.txt, 21.txt, 25.txt, 26.txt, 29.txt, 32.txt, 33.txt, 39.txt, 41.txt, 42.txt, 44.txt, 45.txt, 46.txt, 48.txt, 49.txt, 53.txt, 56.txt, 60.txt, 64.txt, 71.txt, 73.txt, 75.txt, 79.txt, 80.txt, 86.txt, 87.txt, 92.txt, 93.txt, 95.txt, 96.txt, 102.txt, 105.txt, 107.txt, 110.txt, 113.txt, 115.txt, 117.txt, 118.txt, 120.txt, 123.txt
 коричный: 52.txt, 54.txt
 корка: 117.txt
 корм: 19.txt, 21.txt, 22.txt, 23.txt, 52.txt, 56.txt, 73.txt, 74.txt, 76.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 114.txt, 117.txt, 119.txt, 121.txt
@@ -2530,39 +2535,31 @@
 короче: 5.txt, 12.txt, 31.txt, 38.txt, 52.txt
 корректировать: 27.txt
 коряга: 121.txt
-косатка: 5.txt, 35.txt, 57.txt, 58.txt, 81.txt, 114.txt
+косатка: 5.txt, 35.txt, 51.txt, 57.txt, 58.txt, 81.txt, 114.txt
 космический: 10.txt, 75.txt
 космодром: 75.txt
 космонавт: 10.txt, 75.txt
 космос: 10.txt, 13.txt, 20.txt, 35.txt, 70.txt, 75.txt, 79.txt, 84.txt, 105.txt
 косолапый: 59.txt, 72.txt
+коста: 114.txt
 костистый: 58.txt
 костный: 30.txt, 31.txt, 34.txt, 58.txt, 89.txt, 94.txt
 косточка: 69.txt, 107.txt
 кость: 4.txt, 18.txt, 23.txt, 52.txt, 58.txt, 87.txt, 114.txt, 120.txt, 122.txt
+костюм: 27.txt
 косяк: 5.txt
-кот: 20.txt, 24.txt, 32.txt, 74.txt, 76.txt, 79.txt, 88.txt, 102.txt
+кот: 17.txt, 20.txt, 24.txt, 32.txt, 45.txt, 74.txt, 76.txt, 79.txt, 88.txt, 102.txt
 котик: 11.txt, 50.txt
 который: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 котёнок: 17.txt, 20.txt, 32.txt, 74.txt, 79.txt, 88.txt, 102.txt, 108.txt, 124.txt
-кофейный: 55.txt
+кофейный: 12.txt, 55.txt
 кочевать: 5.txt, 8.txt, 13.txt, 16.txt, 17.txt, 41.txt, 42.txt, 55.txt, 78.txt, 98.txt, 110.txt, 116.txt, 123.txt
 кочевой: 3.txt, 13.txt
 кочёвка: 12.txt
 кош: 88.txt
 кошачий: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 кошка: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-кошкигепардхищникбыстрый: 17.txt
-кошкикаракалрысьхищник: 32.txt
-кошкикороткошёрстный: 108.txt
-кошкилевхищникбольшиеопасный: 41.txt
-кошкиманулхищник: 79.txt
-кошкиманчкин: 74.txt
-кошкимейнкундлинношерстный: 88.txt
-кошкиориенталнеобычный: 20.txt
-кошкиоцелотхищник: 102.txt
-кошкитигрхищникопасныебольший: 44.txt
-кошкихищникпумаопасныекугуар: 124.txt
+краб: 34.txt
 крабовый: 58.txt
 краевой: 49.txt
 край: 3.txt, 14.txt, 49.txt, 54.txt, 55.txt, 56.txt, 58.txt, 60.txt, 67.txt, 72.txt, 91.txt, 114.txt, 115.txt, 116.txt, 118.txt
@@ -2576,12 +2573,12 @@
 красивый: 3.txt, 14.txt, 20.txt, 26.txt, 31.txt, 35.txt, 46.txt, 49.txt, 52.txt, 55.txt, 60.txt, 61.txt, 71.txt, 76.txt, 77.txt, 84.txt, 86.txt, 87.txt, 88.txt, 96.txt, 102.txt, 104.txt, 108.txt, 115.txt, 117.txt, 118.txt
 краситель: 88.txt
 краска: 21.txt
-красноватый: 6.txt, 23.txt, 26.txt, 29.txt, 33.txt, 39.txt, 46.txt, 49.txt, 60.txt, 62.txt, 79.txt
+красноватый: 6.txt, 23.txt, 26.txt, 29.txt, 32.txt, 33.txt, 39.txt, 46.txt, 49.txt, 60.txt, 62.txt, 79.txt, 115.txt
 краснодарский: 3.txt, 12.txt, 24.txt, 91.txt, 116.txt
 краснолицый: 23.txt
 краснохвостый: 11.txt
 красноярский: 14.txt
-красный: 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 21.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 31.txt, 32.txt, 33.txt, 34.txt, 37.txt, 39.txt, 40.txt, 41.txt, 42.txt, 44.txt, 45.txt, 47.txt, 49.txt, 52.txt, 54.txt, 55.txt, 59.txt, 62.txt, 63.txt, 66.txt, 71.txt, 72.txt, 79.txt, 83.txt, 84.txt, 89.txt, 90.txt, 91.txt, 92.txt, 97.txt, 98.txt, 104.txt, 116.txt, 117.txt, 122.txt
+красный: 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 21.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 31.txt, 32.txt, 33.txt, 34.txt, 37.txt, 39.txt, 40.txt, 41.txt, 42.txt, 44.txt, 45.txt, 47.txt, 49.txt, 52.txt, 54.txt, 55.txt, 59.txt, 62.txt, 63.txt, 66.txt, 71.txt, 72.txt, 79.txt, 83.txt, 84.txt, 86.txt, 89.txt, 90.txt, 91.txt, 92.txt, 97.txt, 98.txt, 104.txt, 116.txt, 117.txt, 118.txt, 122.txt
 красота: 61.txt, 89.txt, 102.txt
 красочный: 51.txt
 краткосрочный: 12.txt
@@ -2612,10 +2609,10 @@
 кровососущий: 4.txt
 кровь: 53.txt, 62.txt, 94.txt, 101.txt, 114.txt
 кровяной: 62.txt, 94.txt
-крокодил: 2.txt, 28.txt, 44.txt, 46.txt, 62.txt, 91.txt, 101.txt, 112.txt, 115.txt, 120.txt
+крокодил: 2.txt, 28.txt, 44.txt, 46.txt, 62.txt, 71.txt, 78.txt, 91.txt, 101.txt, 112.txt, 115.txt, 120.txt
 крокодиловый: 93.txt, 112.txt
 крокодильчик: 120.txt
-кролик: 28.txt, 31.txt, 36.txt, 38.txt, 45.txt, 99.txt, 102.txt, 105.txt
+кролик: 21.txt, 28.txt, 31.txt, 36.txt, 38.txt, 45.txt, 99.txt, 102.txt, 105.txt, 121.txt
 кроличий: 38.txt
 крольчиха: 38.txt
 крольчонок: 38.txt
@@ -2652,11 +2649,11 @@
 крякать: 26.txt, 55.txt
 кряква: 26.txt, 32.txt, 55.txt, 79.txt, 94.txt, 112.txt
 кстати: 79.txt, 99.txt
-кто: 5.txt, 8.txt, 14.txt, 17.txt, 23.txt, 40.txt, 44.txt, 47.txt, 58.txt, 66.txt, 73.txt, 76.txt, 82.txt, 84.txt, 96.txt, 112.txt
+кто: 5.txt, 8.txt, 14.txt, 17.txt, 20.txt, 23.txt, 40.txt, 44.txt, 47.txt, 58.txt, 66.txt, 68.txt, 73.txt, 76.txt, 82.txt, 84.txt, 96.txt, 112.txt
 кубинский: 10.txt
 кубомедуза: 101.txt
 кугуар: 124.txt
-куда: 35.txt, 46.txt, 122.txt
+куда: 16.txt, 28.txt, 32.txt, 35.txt, 41.txt, 46.txt, 122.txt
 кузбасс: 117.txt
 кузнечик: 21.txt, 25.txt
 куколка: 49.txt, 90.txt
@@ -2667,14 +2664,9 @@
 куликов: 71.txt
 культура: 4.txt, 40.txt, 90.txt, 92.txt
 культурный: 6.txt
+кун: 12.txt, 20.txt, 46.txt, 88.txt, 113.txt
 куний: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-куница: 27.txt
-куньихбарсукхищник: 97.txt
-куньихвыдрахищникпорешня: 71.txt
-куньихгорностайхищникмаленький: 121.txt
-куньихмедоедхищникопасный: 28.txt
-куньихросомахаопасныехищник: 42.txt
-куньихсобольхищниккуница: 14.txt
+куница: 14.txt, 27.txt
 купальня: 106.txt
 купание: 73.txt, 84.txt, 86.txt, 87.txt, 105.txt, 106.txt, 107.txt
 купать: 20.txt, 73.txt, 74.txt, 88.txt, 105.txt, 107.txt
@@ -2703,6 +2695,7 @@
 кучка: 53.txt
 кушать: 6.txt, 24.txt
 кэшбэк: 69.txt, 70.txt
+ла: 93.txt
 лабиринт: 12.txt
 лаборатория: 50.txt
 лабораторный: 75.txt
@@ -2723,7 +2716,7 @@
 лампа: 83.txt, 106.txt
 лампас: 49.txt
 ландшафт: 76.txt, 117.txt, 123.txt
-лани: 118.txt
+лани: 47.txt, 118.txt
 лань: 43.txt, 103.txt, 118.txt, 124.txt
 лапа: 3.txt, 6.txt, 8.txt, 11.txt, 12.txt, 13.txt, 14.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 32.txt, 33.txt, 34.txt, 38.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 47.txt, 48.txt, 52.txt, 55.txt, 60.txt, 62.txt, 65.txt, 67.txt, 68.txt, 71.txt, 73.txt, 74.txt, 79.txt, 80.txt, 87.txt, 88.txt, 95.txt, 98.txt, 102.txt, 106.txt, 107.txt, 108.txt, 113.txt, 117.txt, 119.txt, 120.txt, 122.txt, 123.txt, 124.txt
 лапик: 10.txt
@@ -2741,7 +2734,7 @@
 лающий: 93.txt
 лаять: 76.txt, 87.txt
 лебедь: 55.txt
-лев: 18.txt, 28.txt, 31.txt, 35.txt, 41.txt, 44.txt, 46.txt, 50.txt, 62.txt, 63.txt, 64.txt, 66.txt, 75.txt, 78.txt, 81.txt, 97.txt, 101.txt, 122.txt, 124.txt
+лев: 16.txt, 17.txt, 18.txt, 28.txt, 31.txt, 32.txt, 35.txt, 36.txt, 41.txt, 44.txt, 46.txt, 50.txt, 62.txt, 63.txt, 64.txt, 66.txt, 75.txt, 78.txt, 81.txt, 97.txt, 101.txt, 122.txt, 124.txt
 легенда: 81.txt, 88.txt, 96.txt, 100.txt, 112.txt
 легендарный: 73.txt
 легко: 1.txt, 3.txt, 8.txt, 11.txt, 16.txt, 18.txt, 20.txt, 21.txt, 23.txt, 24.txt, 26.txt, 29.txt, 32.txt, 38.txt, 39.txt, 40.txt, 42.txt, 43.txt, 44.txt, 47.txt, 50.txt, 55.txt, 58.txt, 59.txt, 61.txt, 62.txt, 64.txt, 68.txt, 69.txt, 70.txt, 72.txt, 74.txt, 87.txt, 88.txt, 93.txt, 98.txt, 101.txt, 105.txt, 106.txt, 107.txt, 114.txt, 117.txt, 118.txt, 119.txt, 121.txt, 122.txt
@@ -2758,6 +2751,7 @@
 ленинград: 19.txt
 леонидович: 50.txt
 леопард: 16.txt, 28.txt, 32.txt, 41.txt, 78.txt, 101.txt, 102.txt
+леопон: 41.txt
 лепить: 39.txt
 лес: 6.txt, 8.txt, 9.txt, 14.txt, 15.txt, 18.txt, 23.txt, 24.txt, 27.txt, 29.txt, 33.txt, 34.txt, 39.txt, 41.txt, 44.txt, 45.txt, 46.txt, 47.txt, 52.txt, 54.txt, 55.txt, 56.txt, 57.txt, 60.txt, 61.txt, 64.txt, 65.txt, 72.txt, 80.txt, 92.txt, 95.txt, 101.txt, 102.txt, 113.txt, 115.txt, 118.txt, 119.txt, 121.txt, 122.txt, 123.txt
 лесистый: 1.txt, 24.txt, 28.txt, 55.txt
@@ -2774,10 +2768,10 @@
 летний: 4.txt, 5.txt, 6.txt, 12.txt, 14.txt, 28.txt, 29.txt, 33.txt, 37.txt, 38.txt, 39.txt, 41.txt, 42.txt, 43.txt, 44.txt, 47.txt, 49.txt, 58.txt, 65.txt, 71.txt, 72.txt, 101.txt, 117.txt, 120.txt, 123.txt
 лето: 4.txt, 12.txt, 38.txt, 43.txt, 49.txt, 52.txt, 55.txt, 62.txt, 65.txt, 66.txt, 68.txt, 71.txt, 72.txt, 79.txt, 86.txt, 91.txt, 96.txt, 98.txt, 105.txt, 106.txt, 113.txt, 114.txt, 117.txt, 118.txt, 121.txt, 123.txt
 летучий: 67.txt, 68.txt, 96.txt
-летяга: 27.txt, 83.txt, 109.txt
+летяга: 21.txt, 27.txt, 83.txt, 109.txt
 лещина: 4.txt, 6.txt
 лживый: 112.txt
-либо: 16.txt, 46.txt, 49.txt, 71.txt, 101.txt, 104.txt, 120.txt, 123.txt
+либо: 4.txt, 16.txt, 18.txt, 20.txt, 22.txt, 23.txt, 29.txt, 33.txt, 45.txt, 46.txt, 49.txt, 50.txt, 56.txt, 58.txt, 62.txt, 71.txt, 86.txt, 88.txt, 101.txt, 104.txt, 105.txt, 106.txt, 108.txt, 111.txt, 113.txt, 120.txt, 123.txt
 лигра: 41.txt, 44.txt
 лигров: 44.txt
 лидер: 37.txt, 75.txt, 93.txt, 101.txt, 123.txt
@@ -2791,21 +2785,23 @@
 линька: 4.txt, 6.txt, 12.txt, 14.txt, 23.txt, 25.txt, 65.txt, 73.txt, 106.txt, 107.txt, 121.txt
 линять: 4.txt, 27.txt, 38.txt, 106.txt, 121.txt
 липа: 72.txt
-лис: 12.txt, 26.txt, 38.txt, 59.txt, 65.txt, 73.txt, 76.txt
+лис: 12.txt, 26.txt, 38.txt, 43.txt, 59.txt, 65.txt, 73.txt, 76.txt
 лиса: 4.txt, 12.txt, 52.txt, 59.txt, 65.txt, 76.txt
 лисий: 42.txt, 65.txt
-лисица: 2.txt, 12.txt, 32.txt, 59.txt, 63.txt, 64.txt, 65.txt, 79.txt, 97.txt, 113.txt, 118.txt
+лисица: 2.txt, 4.txt, 6.txt, 12.txt, 14.txt, 24.txt, 32.txt, 51.txt, 59.txt, 63.txt, 64.txt, 65.txt, 76.txt, 79.txt, 97.txt, 113.txt, 118.txt, 121.txt, 123.txt
 лисичка: 76.txt
 лист: 6.txt, 9.txt, 11.txt, 13.txt, 45.txt, 46.txt, 48.txt, 49.txt, 52.txt, 57.txt, 60.txt, 83.txt, 84.txt, 86.txt, 90.txt, 92.txt, 95.txt, 104.txt, 105.txt, 106.txt, 113.txt, 115.txt, 118.txt, 119.txt, 122.txt
 листва: 14.txt, 25.txt, 54.txt, 57.txt, 94.txt
 лиственный: 14.txt, 27.txt, 52.txt, 56.txt, 72.txt, 117.txt
 листик: 118.txt
+листовидка: 57.txt
 листовка: 29.txt
 листолаз: 101.txt
 листотёл: 25.txt, 28.txt, 57.txt, 60.txt, 74.txt, 90.txt
 лисёнок: 65.txt, 76.txt
 литературный: 76.txt
 литр: 2.txt, 94.txt, 104.txt, 114.txt
+литтл: 60.txt
 лить: 112.txt
 литьё: 33.txt
 лихорадка: 55.txt, 93.txt, 103.txt, 113.txt
@@ -2841,11 +2837,12 @@
 лопатообразный: 118.txt
 лопоухий: 20.txt
 лордоз: 74.txt
+лос: 58.txt
 лосиный: 8.txt
 лосиха: 8.txt
 лосось: 47.txt
 лососёвый: 23.txt
-лось: 8.txt, 17.txt, 40.txt, 47.txt, 59.txt, 60.txt
+лось: 4.txt, 8.txt, 17.txt, 40.txt, 44.txt, 47.txt, 59.txt, 60.txt, 101.txt, 123.txt, 124.txt
 лосёнок: 8.txt
 лоток: 20.txt, 21.txt, 76.txt, 88.txt, 105.txt
 лошадиный: 114.txt
@@ -2853,12 +2850,15 @@
 луг: 4.txt, 6.txt, 121.txt
 луга: 66.txt
 лужа: 107.txt
+луис: 62.txt
 лук: 86.txt, 106.txt
 лука: 28.txt
 луковица: 43.txt, 84.txt
+луна: 31.txt
 лунный: 72.txt
 лунь: 26.txt
 луч: 23.txt, 84.txt, 87.txt
+лучепёрый: 31.txt
 лысуха: 55.txt
 лысый: 28.txt
 львица: 41.txt, 44.txt, 78.txt
@@ -2874,7 +2874,7 @@
 любой: 1.txt, 12.txt, 14.txt, 17.txt, 20.txt, 22.txt, 25.txt, 30.txt, 31.txt, 33.txt, 37.txt, 38.txt, 40.txt, 44.txt, 46.txt, 47.txt, 48.txt, 50.txt, 59.txt, 62.txt, 65.txt, 66.txt, 67.txt, 69.txt, 70.txt, 72.txt, 73.txt, 76.txt, 79.txt, 80.txt, 84.txt, 87.txt, 89.txt, 90.txt, 94.txt, 99.txt, 101.txt, 102.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 113.txt, 120.txt, 123.txt, 124.txt
 любопытный: 19.txt, 22.txt, 24.txt, 47.txt, 73.txt, 74.txt, 77.txt, 84.txt, 88.txt, 98.txt, 107.txt, 108.txt
 любопытство: 1.txt, 58.txt, 63.txt, 88.txt, 90.txt
-людоед: 37.txt, 59.txt, 101.txt
+людоед: 37.txt, 41.txt, 59.txt, 101.txt
 лютневый: 34.txt
 люцерновый: 90.txt
 лягаться: 8.txt
@@ -2889,7 +2889,7 @@
 магнитный: 45.txt
 мадагаскар: 95.txt
 мадагаскарский: 23.txt, 95.txt
-май: 1.txt, 10.txt, 15.txt, 42.txt, 49.txt, 55.txt, 61.txt, 66.txt, 81.txt, 116.txt, 120.txt
+май: 1.txt, 10.txt, 12.txt, 15.txt, 42.txt, 48.txt, 49.txt, 55.txt, 61.txt, 66.txt, 73.txt, 81.txt, 93.txt, 98.txt, 99.txt, 116.txt, 117.txt, 118.txt, 120.txt, 121.txt
 майский: 1.txt, 97.txt, 103.txt, 113.txt
 макака: 1.txt, 10.txt, 39.txt, 44.txt, 52.txt, 67.txt
 максимально: 1.txt, 31.txt, 34.txt, 48.txt, 52.txt, 58.txt, 75.txt
@@ -2900,6 +2900,7 @@
 малайский: 44.txt, 57.txt, 64.txt
 маленький: 1.txt, 4.txt, 5.txt, 11.txt, 15.txt, 18.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 37.txt, 38.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 58.txt, 60.txt, 61.txt, 62.txt, 64.txt, 65.txt, 66.txt, 68.txt, 71.txt, 72.txt, 74.txt, 76.txt, 78.txt, 79.txt, 90.txt, 92.txt, 93.txt, 96.txt, 98.txt, 102.txt, 103.txt, 105.txt, 107.txt, 108.txt, 111.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt
 малина: 106.txt
+малиновка: 55.txt
 малиновый: 60.txt
 мало: 5.txt, 8.txt, 18.txt, 20.txt, 22.txt, 23.txt, 28.txt, 31.txt, 34.txt, 37.txt, 45.txt, 53.txt, 55.txt, 60.txt, 62.txt, 66.txt, 70.txt, 76.txt, 89.txt, 92.txt, 121.txt, 122.txt, 124.txt
 малоглазать: 58.txt
@@ -2918,7 +2919,7 @@
 малютка: 71.txt, 101.txt
 малёк: 22.txt, 31.txt, 83.txt, 89.txt, 104.txt
 мама: 68.txt
-мамба: 28.txt, 65.txt, 96.txt, 101.txt
+мамба: 7.txt, 28.txt, 65.txt, 96.txt, 101.txt
 мангровый: 44.txt
 маневрировать: 120.txt
 манер: 73.txt
@@ -2936,7 +2937,7 @@
 маори: 80.txt
 мария: 88.txt
 марка: 92.txt
-март: 12.txt, 27.txt, 55.txt, 81.txt, 98.txt, 121.txt, 122.txt
+март: 1.txt, 12.txt, 26.txt, 27.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 65.txt, 71.txt, 76.txt, 78.txt, 79.txt, 81.txt, 97.txt, 98.txt, 99.txt, 103.txt, 104.txt, 105.txt, 106.txt, 121.txt, 122.txt
 мартышковый: 39.txt
 маршрут: 4.txt, 55.txt, 117.txt
 масайский: 94.txt
@@ -2972,15 +2973,9 @@
 медаль: 66.txt
 медальон: 69.txt
 медведица: 29.txt, 47.txt, 68.txt, 72.txt, 98.txt
-медведь: 3.txt, 4.txt, 6.txt, 8.txt, 13.txt, 15.txt, 19.txt, 29.txt, 30.txt, 35.txt, 36.txt, 38.txt, 42.txt, 44.txt, 47.txt, 51.txt, 54.txt, 56.txt, 59.txt, 61.txt, 63.txt, 68.txt, 72.txt, 73.txt, 85.txt, 86.txt, 91.txt, 98.txt, 101.txt, 111.txt, 121.txt, 122.txt
+медведь: 3.txt, 4.txt, 6.txt, 8.txt, 12.txt, 13.txt, 14.txt, 15.txt, 19.txt, 24.txt, 29.txt, 30.txt, 35.txt, 36.txt, 37.txt, 38.txt, 42.txt, 44.txt, 45.txt, 47.txt, 51.txt, 54.txt, 56.txt, 59.txt, 61.txt, 63.txt, 68.txt, 71.txt, 72.txt, 73.txt, 85.txt, 86.txt, 91.txt, 98.txt, 101.txt, 111.txt, 121.txt, 122.txt
 медвежий: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 медвежонок: 15.txt, 29.txt, 44.txt, 47.txt, 68.txt, 72.txt, 98.txt, 122.txt
-медвежьигубачнасекомоядный: 15.txt
-медвежьимедведьбарибалвсеядныедреволаз: 29.txt
-медвежьимедведьхищниквсеядный: 47.txt
-медвежьипандаредкий: 122.txt
-медвежьихищникбольшиеопасный: 98.txt
-медвежьихищникдреволаз: 72.txt
 медицинский: 59.txt, 62.txt, 67.txt, 91.txt
 медленно: 1.txt, 2.txt, 9.txt, 37.txt, 55.txt, 60.txt, 72.txt, 83.txt, 87.txt, 92.txt, 102.txt, 104.txt, 114.txt
 медленный: 9.txt, 33.txt, 37.txt, 45.txt, 48.txt, 58.txt, 80.txt, 98.txt, 114.txt, 120.txt
@@ -2994,15 +2989,18 @@
 меж: 121.txt
 международный: 3.txt, 11.txt, 12.txt, 21.txt, 37.txt, 41.txt, 44.txt, 48.txt, 55.txt, 62.txt, 92.txt, 95.txt, 97.txt, 102.txt, 112.txt, 116.txt, 117.txt
 межкомнатный: 23.txt
+мейн: 12.txt, 20.txt, 46.txt, 88.txt, 113.txt
+мейнкун: 88.txt
 мексика: 29.txt, 115.txt
 мексиканский: 37.txt, 38.txt
 меланезия: 60.txt
 меланизм: 51.txt
 меланин: 51.txt
+меланист: 51.txt
 меланистовый: 51.txt
-меланистый: 5.txt, 17.txt, 51.txt, 52.txt, 73.txt
+меланистый: 5.txt, 17.txt, 32.txt, 38.txt, 44.txt, 51.txt, 52.txt, 73.txt
 меленький: 61.txt
-мелкий: 3.txt, 4.txt, 11.txt, 12.txt, 13.txt, 15.txt, 16.txt, 18.txt, 19.txt, 26.txt, 29.txt, 32.txt, 34.txt, 39.txt, 42.txt, 44.txt, 45.txt, 48.txt, 49.txt, 52.txt, 54.txt, 55.txt, 56.txt, 58.txt, 60.txt, 61.txt, 62.txt, 65.txt, 69.txt, 71.txt, 74.txt, 76.txt, 83.txt, 86.txt, 92.txt, 93.txt, 94.txt, 96.txt, 98.txt, 99.txt, 102.txt, 103.txt, 104.txt, 105.txt, 111.txt, 113.txt, 114.txt, 116.txt, 119.txt, 121.txt, 122.txt, 123.txt
+мелкий: 3.txt, 4.txt, 11.txt, 12.txt, 13.txt, 15.txt, 16.txt, 18.txt, 19.txt, 24.txt, 26.txt, 29.txt, 32.txt, 34.txt, 39.txt, 42.txt, 44.txt, 45.txt, 48.txt, 49.txt, 52.txt, 54.txt, 55.txt, 56.txt, 58.txt, 60.txt, 61.txt, 62.txt, 65.txt, 69.txt, 71.txt, 74.txt, 76.txt, 83.txt, 86.txt, 92.txt, 93.txt, 94.txt, 96.txt, 98.txt, 99.txt, 102.txt, 103.txt, 104.txt, 105.txt, 111.txt, 113.txt, 114.txt, 116.txt, 119.txt, 121.txt, 122.txt, 123.txt
 мелководье: 2.txt, 26.txt, 116.txt
 меловой: 30.txt
 мелодичный: 61.txt
@@ -3010,8 +3008,7 @@
 мем: 32.txt
 менее: 3.txt, 9.txt, 13.txt, 14.txt, 17.txt, 19.txt, 22.txt, 38.txt, 39.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 47.txt, 49.txt, 55.txt, 57.txt, 62.txt, 66.txt, 72.txt, 73.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 91.txt, 96.txt, 97.txt, 104.txt, 105.txt, 106.txt, 117.txt, 118.txt, 120.txt
 менопауза: 5.txt
-меню: 63.txt, 65.txt
-менювверх: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
+меню: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 менять: 4.txt, 6.txt, 12.txt, 13.txt, 17.txt, 27.txt, 41.txt, 43.txt, 65.txt, 84.txt, 88.txt, 89.txt, 92.txt, 101.txt, 105.txt, 118.txt, 121.txt, 122.txt
 меняться: 3.txt, 4.txt, 5.txt, 9.txt, 12.txt, 16.txt, 60.txt, 71.txt, 86.txt, 96.txt, 119.txt, 123.txt, 124.txt
 мера: 2.txt, 16.txt, 21.txt, 33.txt, 44.txt, 59.txt, 67.txt, 73.txt, 94.txt, 98.txt, 105.txt, 117.txt
@@ -3059,6 +3056,7 @@
 мимика: 11.txt, 13.txt
 мимикрировать: 57.txt
 мина: 50.txt, 66.txt
+минас: 93.txt
 миндалевидный: 20.txt, 108.txt
 минерал: 4.txt, 74.txt
 минеральный: 4.txt, 21.txt, 23.txt, 86.txt, 106.txt
@@ -3066,6 +3064,7 @@
 минимальный: 86.txt, 104.txt, 106.txt, 117.txt
 минимум: 5.txt, 74.txt, 102.txt, 104.txt
 минировать: 50.txt
+минный: 66.txt
 миноискатель: 66.txt
 минус: 20.txt, 69.txt
 минута: 8.txt, 71.txt, 91.txt, 101.txt, 106.txt, 114.txt, 117.txt, 120.txt
@@ -3116,10 +3115,11 @@
 молодняк: 28.txt, 34.txt, 38.txt, 40.txt, 52.txt, 72.txt, 92.txt, 94.txt, 98.txt, 117.txt, 118.txt, 121.txt
 молодой: 2.txt, 4.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 16.txt, 17.txt, 18.txt, 21.txt, 26.txt, 27.txt, 29.txt, 32.txt, 38.txt, 40.txt, 41.txt, 42.txt, 43.txt, 46.txt, 47.txt, 50.txt, 52.txt, 55.txt, 58.txt, 62.txt, 65.txt, 76.txt, 79.txt, 86.txt, 90.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 99.txt, 106.txt, 113.txt, 114.txt, 117.txt, 118.txt, 119.txt, 120.txt, 122.txt
 молоко: 4.txt, 8.txt, 12.txt, 24.txt, 41.txt, 43.txt, 45.txt, 48.txt, 52.txt, 65.txt, 76.txt, 79.txt, 93.txt, 94.txt, 97.txt, 98.txt, 102.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 121.txt, 122.txt, 124.txt
+молотов: 58.txt
 молотоголов: 58.txt
 молотоголовый: 58.txt
 молотообразный: 58.txt
-молотый: 58.txt
+молотый: 5.txt, 31.txt, 34.txt, 37.txt, 57.txt, 58.txt
 молочко: 116.txt
 молочный: 12.txt, 47.txt, 88.txt, 105.txt, 107.txt, 113.txt, 114.txt
 молчаливый: 2.txt, 122.txt
@@ -3132,6 +3132,7 @@
 монета: 76.txt
 моногамный: 12.txt, 43.txt, 53.txt, 65.txt, 89.txt, 92.txt, 97.txt, 104.txt, 114.txt, 116.txt
 монотонный: 73.txt, 87.txt
+монстр: 37.txt
 морда: 14.txt, 15.txt, 16.txt, 17.txt, 19.txt, 20.txt, 23.txt, 24.txt, 28.txt, 29.txt, 38.txt, 42.txt, 43.txt, 50.txt, 53.txt, 65.txt, 79.txt, 87.txt, 88.txt, 93.txt, 95.txt, 97.txt, 99.txt, 102.txt, 113.txt, 114.txt, 123.txt, 124.txt
 мордашка: 76.txt
 мордочка: 14.txt, 32.txt, 53.txt, 64.txt, 76.txt, 119.txt
@@ -3160,7 +3161,7 @@
 мудрый: 123.txt
 мужество: 66.txt
 мужской: 11.txt, 31.txt, 33.txt, 44.txt, 47.txt, 62.txt, 123.txt, 124.txt
-музей: 18.txt, 75.txt, 81.txt, 110.txt
+музей: 18.txt, 75.txt, 81.txt, 100.txt, 110.txt
 музейный: 110.txt
 музыка: 47.txt
 музыкальный: 105.txt
@@ -3168,17 +3169,18 @@
 мультфильм: 59.txt, 103.txt
 мульчирование: 38.txt
 мумифицировать: 80.txt
-муравей: 15.txt
+муравей: 11.txt, 15.txt
 мурлыкать: 119.txt
 мурманский: 42.txt
 мускулатура: 33.txt, 48.txt, 107.txt
 мускулистый: 11.txt, 18.txt, 19.txt, 44.txt, 73.txt, 87.txt, 88.txt, 102.txt, 118.txt, 120.txt, 123.txt, 124.txt
 мускусный: 16.txt
 мусор: 24.txt, 97.txt
-мутация: 21.txt, 44.txt, 58.txt
+мутация: 21.txt, 44.txt, 51.txt, 58.txt
 мутить: 22.txt
 мутный: 50.txt
 муха: 60.txt
+мухоловковый: 56.txt, 61.txt
 мухтар: 66.txt
 мучить: 105.txt
 мучной: 21.txt, 61.txt
@@ -3194,13 +3196,13 @@
 мышечный: 48.txt, 62.txt, 88.txt
 мышиный: 4.txt, 64.txt
 мышца: 11.txt, 20.txt, 62.txt, 87.txt
-мышь: 42.txt, 55.txt, 67.txt, 75.txt, 96.txt, 103.txt, 113.txt
+мышь: 42.txt, 55.txt, 67.txt, 75.txt, 96.txt, 103.txt, 113.txt, 121.txt
 мюзикл: 109.txt
 мягкий: 2.txt, 14.txt, 18.txt, 21.txt, 22.txt, 27.txt, 33.txt, 52.txt, 54.txt, 62.txt, 73.txt, 76.txt, 86.txt, 87.txt, 88.txt, 92.txt, 97.txt, 105.txt, 106.txt, 107.txt, 108.txt, 113.txt, 117.txt, 121.txt
 мягко: 4.txt, 87.txt
 мягкость: 12.txt
 мясистый: 8.txt
-мясо: 4.txt, 5.txt, 6.txt, 13.txt, 15.txt, 17.txt, 18.txt, 33.txt, 37.txt, 38.txt, 46.txt, 58.txt, 62.txt, 73.txt, 74.txt, 87.txt, 88.txt, 93.txt, 99.txt, 105.txt, 107.txt, 123.txt, 124.txt
+мясо: 4.txt, 5.txt, 6.txt, 13.txt, 15.txt, 17.txt, 18.txt, 33.txt, 37.txt, 38.txt, 41.txt, 46.txt, 58.txt, 62.txt, 73.txt, 74.txt, 87.txt, 88.txt, 93.txt, 99.txt, 105.txt, 107.txt, 123.txt, 124.txt
 мяуканье: 20.txt
 мёд: 13.txt, 29.txt, 72.txt
 мёрзнуть: 98.txt
@@ -3329,7 +3331,7 @@
 наряду: 44.txt
 наряжаться: 63.txt
 насекомое: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-насекомоядный: 103.txt, 113.txt, 115.txt
+насекомоядный: 15.txt, 103.txt, 113.txt, 115.txt
 население: 12.txt, 41.txt, 55.txt, 110.txt, 120.txt
 населить: 6.txt, 38.txt, 41.txt, 62.txt, 98.txt
 населять: 2.txt, 3.txt, 16.txt, 17.txt, 18.txt, 23.txt, 25.txt, 26.txt, 32.txt, 42.txt, 44.txt, 45.txt, 46.txt, 49.txt, 53.txt, 55.txt, 59.txt, 64.txt, 71.txt, 80.txt, 84.txt, 86.txt, 92.txt, 98.txt, 100.txt, 101.txt, 110.txt, 114.txt, 119.txt, 120.txt, 123.txt, 124.txt
@@ -3376,6 +3378,7 @@
 наука: 80.txt, 81.txt
 научить: 20.txt, 23.txt, 86.txt, 87.txt, 106.txt
 научиться: 13.txt, 23.txt, 29.txt, 39.txt, 102.txt, 124.txt
+научно: 50.txt, 75.txt
 научный: 3.txt, 18.txt, 30.txt, 50.txt, 58.txt, 62.txt, 73.txt, 75.txt
 находить: 1.txt, 9.txt, 15.txt, 16.txt, 18.txt, 25.txt, 28.txt, 29.txt, 37.txt, 48.txt, 50.txt, 52.txt, 55.txt, 58.txt, 66.txt, 67.txt, 90.txt, 92.txt, 102.txt, 103.txt, 116.txt, 118.txt
 находиться: 2.txt, 3.txt, 9.txt, 11.txt, 13.txt, 14.txt, 16.txt, 18.txt, 20.txt, 21.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 31.txt, 34.txt, 37.txt, 39.txt, 41.txt, 42.txt, 44.txt, 45.txt, 46.txt, 47.txt, 49.txt, 58.txt, 59.txt, 65.txt, 66.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 74.txt, 75.txt, 78.txt, 79.txt, 84.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 92.txt, 94.txt, 95.txt, 96.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 105.txt, 106.txt, 110.txt, 112.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 122.txt, 123.txt
@@ -3436,7 +3439,7 @@
 нежели: 5.txt, 18.txt, 48.txt, 65.txt, 78.txt, 84.txt, 101.txt, 114.txt, 117.txt, 121.txt
 нежизненный: 1.txt
 нежирный: 73.txt, 74.txt, 86.txt, 87.txt, 88.txt
-нежно: 23.txt
+нежно: 23.txt, 116.txt
 нежность: 74.txt
 нежный: 8.txt, 71.txt, 83.txt, 84.txt, 115.txt, 118.txt
 незабываемый: 56.txt
@@ -3502,7 +3505,7 @@
 необычайно: 20.txt, 49.txt, 75.txt, 94.txt
 необычайный: 55.txt, 61.txt
 необычно: 13.txt, 17.txt, 20.txt, 54.txt, 89.txt, 94.txt, 104.txt, 116.txt, 117.txt, 119.txt
-необычный: 2.txt, 8.txt, 20.txt, 23.txt, 25.txt, 31.txt, 40.txt, 45.txt, 48.txt, 57.txt, 58.txt, 60.txt, 62.txt, 72.txt, 73.txt, 74.txt, 76.txt, 79.txt, 83.txt, 84.txt, 88.txt, 89.txt, 90.txt, 92.txt, 93.txt, 95.txt, 96.txt, 97.txt, 100.txt, 102.txt, 103.txt, 108.txt, 109.txt, 110.txt, 112.txt, 116.txt, 122.txt
+необычный: 2.txt, 8.txt, 20.txt, 23.txt, 25.txt, 31.txt, 40.txt, 45.txt, 48.txt, 54.txt, 57.txt, 58.txt, 60.txt, 62.txt, 72.txt, 73.txt, 74.txt, 76.txt, 79.txt, 83.txt, 84.txt, 88.txt, 89.txt, 90.txt, 92.txt, 93.txt, 95.txt, 96.txt, 97.txt, 100.txt, 102.txt, 103.txt, 108.txt, 109.txt, 110.txt, 112.txt, 116.txt, 122.txt
 необязательно: 88.txt
 неоднократно: 37.txt
 неоднократный: 98.txt
@@ -3518,6 +3521,7 @@
 неотъемлемый: 38.txt, 59.txt, 69.txt
 неоценимый: 3.txt, 75.txt
 непал: 3.txt, 9.txt, 79.txt
+непарнокопытный: 110.txt
 непарный: 103.txt, 113.txt
 неплохо: 11.txt, 19.txt, 22.txt, 93.txt
 неплохой: 48.txt, 97.txt
@@ -3531,6 +3535,7 @@
 неподходящий: 23.txt
 неподчинение: 107.txt
 непокрытый: 116.txt
+неполнозубый: 48.txt
 неполноценный: 84.txt
 неполовой: 62.txt
 непоправимый: 62.txt
@@ -3641,6 +3646,7 @@
 нил: 55.txt
 нильский: 34.txt, 46.txt, 62.txt, 78.txt, 101.txt, 112.txt, 115.txt, 120.txt
 нимфа: 86.txt
+нимфалида: 49.txt, 115.txt
 ниппельный: 21.txt
 нисходящий: 27.txt, 52.txt
 нить: 104.txt
@@ -3668,14 +3674,15 @@
 носитель: 69.txt, 74.txt
 носить: 9.txt, 11.txt, 23.txt, 28.txt, 29.txt, 30.txt, 39.txt, 48.txt, 50.txt, 67.txt, 75.txt, 78.txt, 95.txt, 96.txt, 103.txt, 113.txt, 116.txt, 118.txt, 119.txt
 носкость: 71.txt
+носо: 53.txt
 носовой: 53.txt, 106.txt
-носорог: 63.txt, 100.txt, 101.txt, 111.txt
+носорог: 1.txt, 60.txt, 63.txt, 100.txt, 101.txt, 111.txt
 ночевать: 28.txt, 33.txt, 81.txt
 ночлег: 28.txt, 33.txt
 ночной: 6.txt, 12.txt, 15.txt, 21.txt, 24.txt, 27.txt, 28.txt, 29.txt, 34.txt, 38.txt, 41.txt, 45.txt, 46.txt, 48.txt, 54.txt, 55.txt, 60.txt, 61.txt, 62.txt, 64.txt, 65.txt, 71.txt, 76.txt, 84.txt, 92.txt, 93.txt, 97.txt, 99.txt, 102.txt, 103.txt, 105.txt, 113.txt
 ночь: 6.txt, 11.txt, 28.txt, 33.txt, 76.txt, 92.txt, 113.txt, 121.txt, 123.txt
 ночью: 9.txt, 39.txt, 64.txt, 92.txt, 96.txt, 106.txt, 117.txt, 119.txt
-ноябрь: 72.txt, 81.txt, 109.txt
+ноябрь: 17.txt, 18.txt, 40.txt, 41.txt, 68.txt, 72.txt, 81.txt, 85.txt, 86.txt, 109.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 нрав: 15.txt, 28.txt, 36.txt, 49.txt, 108.txt
 нравиться: 22.txt, 55.txt, 107.txt
 нубийский: 94.txt
@@ -3688,6 +3695,7 @@
 нынешний: 19.txt
 ныряние: 26.txt
 нырять: 12.txt, 26.txt, 65.txt, 98.txt, 114.txt, 117.txt, 120.txt, 121.txt
+нью: 29.txt, 46.txt, 88.txt
 ньюфаундленд: 98.txt
 нюанс: 1.txt, 22.txt
 нюх: 37.txt, 62.txt, 107.txt
@@ -3705,7 +3713,7 @@
 обездвиживать: 58.txt
 обездвижить: 1.txt
 обезопасить: 55.txt, 88.txt, 99.txt
-обезьяна: 10.txt, 11.txt, 13.txt, 20.txt, 33.txt, 35.txt, 39.txt, 70.txt, 79.txt, 84.txt, 105.txt, 119.txt
+обезьяна: 10.txt, 11.txt, 13.txt, 20.txt, 33.txt, 35.txt, 39.txt, 44.txt, 70.txt, 79.txt, 84.txt, 105.txt, 119.txt
 обезьянка: 119.txt
 оберегать: 21.txt, 72.txt, 79.txt, 120.txt
 обернуться: 121.txt
@@ -3723,12 +3731,6 @@
 обильный: 4.txt, 29.txt, 62.txt, 76.txt, 104.txt
 обитаемый: 117.txt
 обитание: 1.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 18.txt, 21.txt, 24.txt, 25.txt, 26.txt, 27.txt, 29.txt, 32.txt, 37.txt, 38.txt, 39.txt, 41.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 60.txt, 61.txt, 62.txt, 64.txt, 71.txt, 72.txt, 79.txt, 91.txt, 97.txt, 98.txt, 99.txt, 100.txt, 102.txt, 114.txt, 115.txt, 118.txt, 122.txt, 124.txt
-обитателиакулабольшиедолгожитель: 37.txt
-обитателиакулаопасныебольший: 58.txt
-обитателикитыбольшиеполосатика: 114.txt
-обитателиконекигловыеуязвить: 89.txt
-обитателикосаткаопасныебольшиедельфиновый: 5.txt
-обитателирыбабольшиенеобычныелучепёрый: 31.txt
 обитатель: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 обитать: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 37.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 64.txt, 65.txt, 68.txt, 71.txt, 72.txt, 76.txt, 79.txt, 80.txt, 84.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 104.txt, 106.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 121.txt, 122.txt, 123.txt, 124.txt
 обкладывать: 61.txt
@@ -3786,6 +3788,7 @@
 обработка: 37.txt, 38.txt, 71.txt, 88.txt
 образ: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 15.txt, 16.txt, 17.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 26.txt, 28.txt, 29.txt, 31.txt, 32.txt, 33.txt, 38.txt, 39.txt, 42.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 57.txt, 60.txt, 62.txt, 64.txt, 67.txt, 68.txt, 71.txt, 73.txt, 74.txt, 76.txt, 78.txt, 79.txt, 81.txt, 84.txt, 87.txt, 88.txt, 89.txt, 90.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 99.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 110.txt, 112.txt, 114.txt, 117.txt, 118.txt, 119.txt, 121.txt, 122.txt, 123.txt
 образец: 81.txt
+образный: 46.txt
 образование: 68.txt, 88.txt, 96.txt
 образовать: 1.txt, 2.txt, 11.txt, 12.txt, 13.txt, 15.txt, 16.txt, 31.txt, 34.txt, 39.txt, 43.txt, 46.txt, 49.txt, 72.txt, 79.txt, 88.txt, 90.txt, 92.txt, 94.txt, 97.txt, 99.txt, 102.txt, 104.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 119.txt, 123.txt
 образоваться: 39.txt, 40.txt, 46.txt, 83.txt, 88.txt, 96.txt, 99.txt, 116.txt
@@ -3850,12 +3853,13 @@
 объяснение: 109.txt
 объяснить: 51.txt, 105.txt
 объём: 41.txt, 70.txt, 83.txt, 104.txt, 105.txt, 114.txt, 117.txt
-обыкновенный: 2.txt, 3.txt, 4.txt, 10.txt, 11.txt, 12.txt, 13.txt, 22.txt, 24.txt, 25.txt, 27.txt, 31.txt, 35.txt, 44.txt, 47.txt, 49.txt, 51.txt, 52.txt, 53.txt, 55.txt, 56.txt, 58.txt, 59.txt, 63.txt, 65.txt, 71.txt, 76.txt, 83.txt, 92.txt, 97.txt, 98.txt, 101.txt, 102.txt, 103.txt, 106.txt, 109.txt, 111.txt, 113.txt, 116.txt, 117.txt, 119.txt, 123.txt
+обыкновенный: 2.txt, 3.txt, 4.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 22.txt, 24.txt, 25.txt, 27.txt, 31.txt, 35.txt, 44.txt, 47.txt, 49.txt, 51.txt, 52.txt, 53.txt, 55.txt, 56.txt, 58.txt, 59.txt, 63.txt, 65.txt, 71.txt, 76.txt, 83.txt, 92.txt, 97.txt, 98.txt, 101.txt, 102.txt, 103.txt, 106.txt, 109.txt, 111.txt, 113.txt, 116.txt, 117.txt, 119.txt, 123.txt
 обычно: 2.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 26.txt, 27.txt, 28.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 53.txt, 58.txt, 59.txt, 60.txt, 62.txt, 64.txt, 65.txt, 68.txt, 71.txt, 72.txt, 73.txt, 76.txt, 78.txt, 79.txt, 83.txt, 84.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 111.txt, 113.txt, 114.txt, 117.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt
 обычный: 26.txt, 31.txt, 35.txt, 37.txt, 43.txt, 51.txt, 55.txt, 59.txt, 60.txt, 61.txt, 65.txt, 68.txt, 72.txt, 74.txt, 76.txt, 79.txt, 84.txt, 88.txt, 92.txt, 96.txt, 97.txt, 99.txt, 101.txt, 103.txt, 106.txt, 113.txt, 114.txt, 122.txt, 123.txt
 обязательно: 5.txt, 6.txt, 16.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 28.txt, 38.txt, 47.txt, 61.txt, 64.txt, 65.txt, 67.txt, 73.txt, 74.txt, 76.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 91.txt, 105.txt, 106.txt, 107.txt
 обязательный: 19.txt, 20.txt, 84.txt, 86.txt, 88.txt, 104.txt, 105.txt
 обязать: 102.txt, 116.txt
+обязьян: 11.txt
 овальный: 5.txt, 9.txt, 22.txt, 27.txt, 83.txt, 88.txt, 90.txt
 овечий: 99.txt
 овощ: 21.txt, 39.txt, 74.txt, 76.txt, 84.txt, 86.txt, 105.txt, 106.txt
@@ -3898,6 +3902,7 @@
 однако: 1.txt, 5.txt, 19.txt, 21.txt, 23.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 32.txt, 34.txt, 38.txt, 39.txt, 41.txt, 44.txt, 45.txt, 47.txt, 56.txt, 58.txt, 62.txt, 64.txt, 73.txt, 79.txt, 81.txt, 83.txt, 87.txt, 88.txt, 96.txt, 98.txt, 99.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 108.txt, 110.txt, 116.txt, 117.txt, 118.txt, 121.txt, 123.txt, 124.txt
 одновременно: 2.txt, 12.txt, 17.txt, 25.txt, 26.txt
 однозначно: 45.txt
+одноклассник: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 однолюб: 104.txt
 однообразный: 84.txt
 однородный: 18.txt, 37.txt
@@ -3952,7 +3957,7 @@
 окружение: 117.txt
 окружить: 74.txt
 оксид: 37.txt
-октябрь: 13.txt, 32.txt, 41.txt, 43.txt, 48.txt, 98.txt, 113.txt
+октябрь: 13.txt, 19.txt, 32.txt, 41.txt, 42.txt, 43.txt, 44.txt, 48.txt, 63.txt, 71.txt, 87.txt, 93.txt, 98.txt, 113.txt
 октябрьский: 50.txt
 окунать: 39.txt
 окупиться: 73.txt
@@ -3960,9 +3965,9 @@
 оледенение: 71.txt
 оледенеть: 98.txt
 олений: 4.txt, 118.txt
-олень: 8.txt, 19.txt, 44.txt, 62.txt, 64.txt, 78.txt, 118.txt
-оленька: 20.txt, 34.txt, 64.txt
-оливковый: 26.txt, 55.txt, 56.txt, 60.txt, 101.txt
+олень: 8.txt, 19.txt, 44.txt, 62.txt, 64.txt, 72.txt, 73.txt, 78.txt, 118.txt, 123.txt, 124.txt
+оленька: 20.txt, 34.txt, 53.txt, 64.txt
+оливковый: 26.txt, 55.txt, 56.txt, 60.txt, 96.txt, 101.txt, 104.txt
 олицетворение: 78.txt, 87.txt
 олицетворять: 65.txt
 ольха: 117.txt
@@ -3971,13 +3976,14 @@
 ондатра: 14.txt
 онежский: 6.txt
 они: 11.txt, 14.txt, 20.txt, 24.txt, 25.txt, 31.txt, 33.txt, 41.txt, 60.txt, 62.txt, 65.txt, 72.txt, 75.txt, 94.txt, 98.txt, 107.txt
+онлайн: 109.txt
 оно: 1.txt, 4.txt, 6.txt, 15.txt, 16.txt, 21.txt, 23.txt, 29.txt, 37.txt, 45.txt, 50.txt, 56.txt, 57.txt, 62.txt, 65.txt, 73.txt, 80.txt, 84.txt, 105.txt, 110.txt, 115.txt, 117.txt, 118.txt
 ооо: 22.txt, 23.txt, 69.txt, 70.txt
 оотёк: 25.txt
 опасаться: 15.txt
 опаска: 118.txt
 опасность: 6.txt, 12.txt, 13.txt, 14.txt, 15.txt, 21.txt, 25.txt, 26.txt, 29.txt, 31.txt, 33.txt, 38.txt, 40.txt, 41.txt, 42.txt, 43.txt, 45.txt, 46.txt, 47.txt, 48.txt, 52.txt, 53.txt, 55.txt, 58.txt, 59.txt, 60.txt, 65.txt, 68.txt, 76.txt, 79.txt, 83.txt, 84.txt, 88.txt, 90.txt, 91.txt, 95.txt, 96.txt, 97.txt, 101.txt, 103.txt, 109.txt, 113.txt, 116.txt, 117.txt, 118.txt, 120.txt, 121.txt
-опасный: 1.txt, 2.txt, 5.txt, 8.txt, 11.txt, 16.txt, 17.txt, 23.txt, 25.txt, 28.txt, 33.txt, 34.txt, 37.txt, 38.txt, 41.txt, 42.txt, 44.txt, 46.txt, 47.txt, 58.txt, 59.txt, 62.txt, 75.txt, 78.txt, 88.txt, 90.txt, 91.txt, 92.txt, 94.txt, 96.txt, 97.txt, 98.txt, 101.txt, 103.txt, 104.txt, 113.txt, 119.txt, 120.txt, 121.txt, 123.txt
+опасный: 1.txt, 2.txt, 5.txt, 8.txt, 9.txt, 11.txt, 16.txt, 17.txt, 23.txt, 25.txt, 28.txt, 33.txt, 34.txt, 35.txt, 37.txt, 38.txt, 41.txt, 42.txt, 44.txt, 46.txt, 47.txt, 58.txt, 59.txt, 62.txt, 75.txt, 78.txt, 88.txt, 90.txt, 91.txt, 92.txt, 94.txt, 96.txt, 97.txt, 98.txt, 101.txt, 103.txt, 104.txt, 113.txt, 119.txt, 120.txt, 121.txt, 123.txt, 124.txt
 опасть: 49.txt, 60.txt, 90.txt, 92.txt
 опека: 96.txt
 операционный: 10.txt
@@ -4021,7 +4027,7 @@
 опытный: 13.txt, 17.txt, 23.txt, 42.txt, 59.txt, 66.txt, 104.txt, 117.txt, 119.txt, 120.txt
 оранд: 83.txt
 оранжеватый: 26.txt, 56.txt, 61.txt, 62.txt
-оранжевый: 23.txt, 49.txt, 56.txt, 58.txt, 59.txt, 60.txt, 61.txt, 90.txt, 91.txt
+оранжевый: 1.txt, 22.txt, 23.txt, 44.txt, 49.txt, 55.txt, 56.txt, 58.txt, 59.txt, 60.txt, 61.txt, 86.txt, 90.txt, 91.txt
 оранжерея: 20.txt
 орать: 3.txt
 орбита: 10.txt
@@ -4041,7 +4047,7 @@
 ориентироваться: 21.txt, 96.txt, 114.txt, 123.txt
 ориноко: 93.txt, 104.txt
 оринокский: 93.txt
-орлан: 14.txt
+орлан: 14.txt, 26.txt
 орнитолог: 23.txt
 орудие: 11.txt, 13.txt
 орудовать: 33.txt
@@ -4061,7 +4067,7 @@
 освоиться: 86.txt, 106.txt
 оседлый: 2.txt, 3.txt, 6.txt, 14.txt, 17.txt, 26.txt, 38.txt, 42.txt, 52.txt, 55.txt, 72.txt, 79.txt, 90.txt, 118.txt
 осенний: 4.txt, 26.txt, 55.txt, 56.txt, 61.txt
-осень: 4.txt, 6.txt, 8.txt, 12.txt, 24.txt, 29.txt, 43.txt, 45.txt, 52.txt, 55.txt, 65.txt, 68.txt, 72.txt, 97.txt, 117.txt, 118.txt, 121.txt
+осень: 4.txt, 6.txt, 8.txt, 12.txt, 24.txt, 29.txt, 43.txt, 45.txt, 52.txt, 55.txt, 65.txt, 68.txt, 72.txt, 87.txt, 97.txt, 117.txt, 118.txt, 121.txt
 осесть: 114.txt
 осилить: 102.txt
 осина: 4.txt, 117.txt
@@ -4244,7 +4250,7 @@
 отрывание: 5.txt
 отрывать: 2.txt, 42.txt, 62.txt, 120.txt
 отрыгивать: 2.txt, 9.txt, 62.txt
-отряд: 1.txt, 2.txt, 3.txt, 4.txt, 6.txt, 12.txt, 23.txt, 26.txt, 27.txt, 33.txt, 39.txt, 40.txt, 45.txt, 49.txt, 52.txt, 55.txt, 56.txt, 57.txt, 60.txt, 61.txt, 89.txt, 93.txt, 94.txt, 95.txt, 104.txt, 111.txt, 113.txt, 114.txt, 116.txt, 117.txt, 119.txt
+отряд: 1.txt, 2.txt, 3.txt, 4.txt, 6.txt, 11.txt, 12.txt, 13.txt, 23.txt, 26.txt, 27.txt, 33.txt, 38.txt, 39.txt, 40.txt, 45.txt, 49.txt, 52.txt, 54.txt, 55.txt, 56.txt, 57.txt, 60.txt, 61.txt, 89.txt, 93.txt, 94.txt, 95.txt, 104.txt, 111.txt, 113.txt, 114.txt, 116.txt, 117.txt, 119.txt
 отряхивать: 39.txt
 отсаживать: 22.txt
 отселять: 104.txt
@@ -4297,7 +4303,7 @@
 охранять: 9.txt, 26.txt, 28.txt, 32.txt, 41.txt, 42.txt, 50.txt, 53.txt, 62.txt, 78.txt, 93.txt, 97.txt, 99.txt, 102.txt, 113.txt, 123.txt
 охраняться: 9.txt, 65.txt, 78.txt
 охристый: 1.txt, 6.txt, 9.txt, 26.txt
-оцелот: 73.txt, 102.txt, 108.txt
+оцелот: 73.txt, 93.txt, 102.txt, 108.txt
 оценивать: 11.txt, 25.txt, 42.txt
 оцениваться: 12.txt, 16.txt, 29.txt, 37.txt, 38.txt, 41.txt, 58.txt, 71.txt
 оценить: 5.txt, 42.txt, 58.txt, 66.txt, 79.txt, 109.txt
@@ -4348,7 +4354,8 @@
 памятный: 63.txt
 память: 66.txt
 панама: 22.txt, 93.txt
-панда: 63.txt, 68.txt, 122.txt
+панамо: 58.txt
+панда: 59.txt, 63.txt, 68.txt, 72.txt, 98.txt, 122.txt
 пандемия: 67.txt
 пансионат: 65.txt
 пантера: 44.txt, 51.txt, 59.txt, 63.txt, 78.txt
@@ -4365,7 +4372,7 @@
 парить: 2.txt, 5.txt, 27.txt, 55.txt
 парк: 62.txt, 109.txt
 парка: 46.txt, 52.txt, 56.txt, 99.txt, 109.txt, 113.txt
-парнокопытный: 53.txt, 64.txt, 118.txt
+парнокопытный: 53.txt, 64.txt, 94.txt, 118.txt
 партеногенез: 57.txt
 партия: 25.txt
 партнёр: 48.txt, 104.txt, 114.txt, 116.txt
@@ -4388,12 +4395,13 @@
 певческий: 86.txt
 певчий: 55.txt, 56.txt, 61.txt
 пегий: 38.txt
+пеликанообразный: 2.txt
 пельвикахромис: 22.txt
 пение: 23.txt, 56.txt, 61.txt, 86.txt
 пенить: 33.txt
 пень: 1.txt
 пенёк: 117.txt
-пепельный: 3.txt, 27.txt, 28.txt, 29.txt
+пепельный: 3.txt, 12.txt, 27.txt, 28.txt, 29.txt
 первенство: 41.txt, 95.txt, 123.txt
 первичный: 84.txt
 первобытный: 100.txt
@@ -4463,6 +4471,7 @@
 переплетаться: 2.txt
 переплывать: 8.txt, 48.txt, 52.txt, 62.txt, 66.txt
 перепонка: 26.txt, 27.txt, 71.txt, 98.txt, 117.txt
+перепончатокрылый: 1.txt
 переправлять: 106.txt
 переправляться: 120.txt
 перепрыгивать: 44.txt, 46.txt, 118.txt
@@ -4498,13 +4507,15 @@
 персидский: 41.txt, 79.txt
 персонаж: 65.txt, 98.txt
 перспектива: 12.txt
-песец: 12.txt, 65.txt
+песец: 4.txt, 12.txt, 65.txt
 песня: 55.txt, 56.txt, 86.txt
 песо: 9.txt
 песок: 34.txt, 76.txt, 83.txt, 84.txt
-песочный: 12.txt, 84.txt
+песочный: 12.txt, 84.txt, 102.txt
+пестун: 47.txt
 песчаный: 4.txt, 32.txt, 40.txt, 76.txt, 120.txt
 петер: 79.txt
+петербург: 55.txt
 петь: 55.txt, 56.txt, 61.txt, 86.txt, 119.txt
 печальный: 59.txt, 92.txt, 94.txt
 печение: 84.txt
@@ -4553,7 +4564,7 @@
 плавучий: 117.txt
 плакать: 10.txt, 26.txt, 49.txt, 50.txt, 103.txt, 112.txt
 планер: 27.txt
-планета: 30.txt, 31.txt, 59.txt, 78.txt, 80.txt, 91.txt, 100.txt, 114.txt, 120.txt
+планета: 30.txt, 31.txt, 41.txt, 59.txt, 60.txt, 78.txt, 80.txt, 91.txt, 100.txt, 114.txt, 120.txt
 планировать: 27.txt, 44.txt, 73.txt
 планироваться: 66.txt, 109.txt
 планктон: 26.txt
@@ -4810,6 +4821,7 @@
 поилка: 61.txt, 84.txt, 86.txt, 105.txt, 106.txt
 поимка: 11.txt, 29.txt, 123.txt
 поиск: 2.txt, 3.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 13.txt, 14.txt, 16.txt, 22.txt, 28.txt, 34.txt, 38.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 50.txt, 52.txt, 55.txt, 60.txt, 62.txt, 64.txt, 65.txt, 68.txt, 72.txt, 83.txt, 90.txt, 91.txt, 93.txt, 94.txt, 95.txt, 96.txt, 106.txt, 110.txt, 113.txt, 114.txt, 119.txt, 120.txt, 121.txt, 124.txt
+поисковый: 19.txt
 поистине: 72.txt, 86.txt, 107.txt, 116.txt
 поймать: 6.txt, 9.txt, 11.txt, 23.txt, 24.txt, 27.txt, 58.txt, 71.txt
 пойти: 24.txt, 72.txt, 81.txt
@@ -4860,6 +4872,7 @@
 полицейский: 19.txt
 полиэтиленовый: 106.txt
 полка: 20.txt
+полковник: 49.txt
 полметра: 101.txt, 121.txt
 полмиллиона: 13.txt, 84.txt
 полнолуние: 54.txt
@@ -4875,13 +4888,16 @@
 положительно: 21.txt
 положительный: 16.txt, 20.txt, 21.txt, 82.txt, 91.txt
 положить: 45.txt, 66.txt, 88.txt
+полорогий: 46.txt, 53.txt
 полоса: 3.txt, 5.txt, 6.txt, 9.txt, 22.txt, 24.txt, 31.txt, 32.txt, 38.txt, 42.txt, 43.txt, 44.txt, 51.txt, 52.txt, 55.txt, 79.txt, 102.txt, 104.txt, 110.txt, 114.txt, 120.txt, 123.txt
+полосатик: 114.txt
 полосатый: 9.txt, 44.txt, 102.txt, 110.txt, 115.txt
 полоскание: 24.txt
 полоскать: 24.txt
+полоскун: 8.txt, 24.txt, 114.txt
 полость: 45.txt, 53.txt, 117.txt
 полоцк: 66.txt
-полтора: 122.txt
+полтора: 16.txt, 122.txt
 полуводный: 71.txt, 93.txt, 117.txt
 полугодовалый: 33.txt, 39.txt, 41.txt, 53.txt
 полузасушливый: 45.txt, 96.txt
@@ -4908,7 +4924,7 @@
 полюс: 98.txt
 поляна: 118.txt
 полярный: 12.txt, 37.txt, 47.txt, 59.txt, 98.txt, 101.txt, 111.txt
-полёвка: 12.txt, 14.txt, 43.txt, 65.txt, 71.txt, 113.txt
+полёвка: 12.txt, 14.txt, 43.txt, 55.txt, 65.txt, 71.txt, 113.txt, 121.txt
 полёт: 1.txt, 2.txt, 3.txt, 10.txt, 25.txt, 26.txt, 27.txt, 32.txt, 55.txt, 75.txt, 106.txt, 116.txt
 поместить: 69.txt, 75.txt, 91.txt, 105.txt, 110.txt
 помесь: 41.txt, 44.txt
@@ -4971,6 +4987,7 @@
 поразительный: 49.txt
 пораниться: 23.txt
 порвать: 22.txt
+порешня: 71.txt
 порода: 16.txt, 18.txt, 19.txt, 20.txt, 38.txt, 64.txt, 66.txt, 69.txt, 70.txt, 72.txt, 73.txt, 74.txt, 81.txt, 87.txt, 88.txt, 99.txt, 105.txt, 107.txt, 108.txt, 117.txt
 породный: 20.txt
 порой: 2.txt, 121.txt
@@ -4982,6 +4999,7 @@
 порывистый: 66.txt
 посадить: 4.txt, 38.txt, 83.txt, 104.txt, 107.txt, 108.txt
 посадка: 27.txt, 75.txt
+посадочный: 32.txt
 посвятить: 109.txt
 посвящать: 122.txt
 посевная: 38.txt, 47.txt
@@ -5062,7 +5080,7 @@
 похолодание: 52.txt
 похоронный: 66.txt
 почва: 2.txt, 8.txt, 38.txt, 40.txt, 83.txt, 97.txt
-почему: 1.txt, 10.txt, 15.txt, 18.txt, 24.txt, 26.txt, 35.txt, 45.txt, 48.txt, 49.txt, 50.txt, 55.txt, 62.txt, 68.txt, 78.txt, 81.txt, 90.txt, 97.txt, 98.txt, 103.txt, 105.txt, 112.txt, 114.txt, 116.txt, 122.txt
+почему: 1.txt, 10.txt, 15.txt, 18.txt, 24.txt, 26.txt, 35.txt, 41.txt, 45.txt, 48.txt, 49.txt, 50.txt, 55.txt, 62.txt, 68.txt, 78.txt, 81.txt, 90.txt, 97.txt, 98.txt, 103.txt, 105.txt, 112.txt, 114.txt, 116.txt, 122.txt
 почернеть: 22.txt
 почесть: 66.txt
 почитать: 19.txt, 36.txt, 96.txt
@@ -5156,7 +5174,7 @@
 предъявлять: 107.txt
 преемник: 123.txt
 прежде: 2.txt, 3.txt, 12.txt, 15.txt, 32.txt, 33.txt, 46.txt, 49.txt, 65.txt, 67.txt, 72.txt, 73.txt, 87.txt, 94.txt, 117.txt, 119.txt
-прежний: 38.txt, 44.txt, 114.txt, 116.txt
+прежний: 38.txt, 44.txt, 72.txt, 95.txt, 102.txt, 105.txt, 114.txt, 116.txt, 118.txt, 124.txt
 президент: 44.txt, 73.txt
 преимущественно: 1.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 22.txt, 26.txt, 27.txt, 28.txt, 41.txt, 48.txt, 49.txt, 52.txt, 53.txt, 54.txt, 55.txt, 61.txt, 62.txt, 68.txt, 71.txt, 72.txt, 74.txt, 80.txt, 89.txt, 94.txt, 95.txt, 96.txt, 97.txt, 99.txt, 104.txt, 106.txt, 114.txt, 118.txt, 121.txt, 122.txt, 123.txt, 124.txt
 преимущество: 14.txt, 72.txt, 84.txt, 94.txt, 108.txt, 123.txt
@@ -5165,7 +5183,7 @@
 прекращать: 8.txt, 99.txt, 123.txt
 прекращаться: 65.txt
 прекращение: 37.txt
-премиум: 74.txt, 87.txt
+премиум: 73.txt, 74.txt, 87.txt
 преобладание: 26.txt
 преобладать: 12.txt, 18.txt, 21.txt, 25.txt, 52.txt, 60.txt, 99.txt, 114.txt
 преобразователь: 97.txt
@@ -5272,13 +5290,6 @@
 прилов: 31.txt, 37.txt
 прилёт: 55.txt
 примат: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-приматыбонобообезьянашимпанзе: 13.txt
-приматыгориллаобезьяна: 33.txt
-приматыдолгопятнеобычный: 54.txt
-приматылемурэндемик: 95.txt
-приматымакакобезьяна: 39.txt
-приматыобезьяныкапуцинцепкохвостый: 119.txt
-приматышимпанзеобязьяна: 11.txt
 применение: 11.txt, 66.txt, 71.txt
 применять: 3.txt, 5.txt, 33.txt, 73.txt, 91.txt, 94.txt, 96.txt, 101.txt, 107.txt, 123.txt
 применяться: 68.txt, 97.txt
@@ -5594,26 +5605,9 @@
 психологический: 107.txt
 псковский: 42.txt
 псовый: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-псовыхгиеновидный: 16.txt
-псовыхенотовидный: 43.txt
-псовыхпесецхищник: 12.txt
-псовыхфенекхищник: 76.txt
-псовыххищникволкопасный: 123.txt
-псовыххищникдинго: 99.txt
-псовыххищниклисица: 65.txt
 птенец: 2.txt, 3.txt, 23.txt, 24.txt, 26.txt, 56.txt, 61.txt, 65.txt, 86.txt, 92.txt, 103.txt, 106.txt, 113.txt, 116.txt
 птица: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 птицекрылка: 60.txt
-птицываракушкаворобьинообразныесоловьимухоловковый: 61.txt
-птицызарянкаворобьинообразныемухоловковыеперелетный: 56.txt
-птицыкивиэндемикбескилевый: 92.txt
-птицыкитоглавредкиепеликанообразный: 2.txt
-птицыкореллакакадупопугать: 86.txt
-птицыкряквауткаперелетный: 26.txt
-птицыпопугай: 106.txt
-птицыпопугайнеразлучник: 23.txt
-птицыпустельгасоколообразныехищник: 3.txt
-птицыфламинго: 116.txt
 птичий: 27.txt, 42.txt, 55.txt, 71.txt, 80.txt, 92.txt, 98.txt, 103.txt, 116.txt, 119.txt
 птичка: 3.txt, 23.txt, 55.txt, 56.txt, 61.txt, 86.txt, 88.txt
 публикация: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
@@ -5622,9 +5616,10 @@
 пузо: 17.txt
 пузырь: 15.txt, 72.txt, 89.txt
 пульс: 114.txt
-пума: 16.txt, 18.txt, 42.txt, 47.txt, 76.txt, 102.txt, 124.txt
+пума: 8.txt, 16.txt, 17.txt, 18.txt, 29.txt, 32.txt, 42.txt, 47.txt, 76.txt, 78.txt, 101.txt, 102.txt, 124.txt
 пункт: 41.txt, 66.txt
 пупочный: 87.txt
+пурпурный: 116.txt
 пуск: 10.txt
 пускать: 67.txt, 114.txt, 117.txt
 пустельга: 3.txt, 22.txt, 55.txt
@@ -5771,7 +5766,7 @@
 разнообразный: 3.txt, 11.txt, 12.txt, 24.txt, 37.txt, 39.txt, 44.txt, 47.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 56.txt, 70.txt, 74.txt, 84.txt, 88.txt, 106.txt, 107.txt, 119.txt
 разнополый: 21.txt
 разноцветный: 116.txt
-разный: 5.txt, 6.txt, 8.txt, 11.txt, 13.txt, 16.txt, 20.txt, 22.txt, 23.txt, 26.txt, 27.txt, 29.txt, 33.txt, 37.txt, 38.txt, 39.txt, 44.txt, 47.txt, 48.txt, 51.txt, 52.txt, 55.txt, 60.txt, 62.txt, 66.txt, 68.txt, 74.txt, 77.txt, 78.txt, 82.txt, 83.txt, 85.txt, 87.txt, 88.txt, 90.txt, 92.txt, 94.txt, 97.txt, 98.txt, 104.txt, 105.txt, 106.txt, 109.txt, 112.txt, 113.txt, 114.txt, 116.txt, 117.txt, 120.txt, 122.txt, 123.txt
+разный: 5.txt, 6.txt, 8.txt, 11.txt, 13.txt, 16.txt, 20.txt, 22.txt, 23.txt, 24.txt, 26.txt, 27.txt, 29.txt, 33.txt, 37.txt, 38.txt, 39.txt, 41.txt, 44.txt, 45.txt, 47.txt, 48.txt, 51.txt, 52.txt, 55.txt, 60.txt, 62.txt, 66.txt, 68.txt, 74.txt, 77.txt, 78.txt, 82.txt, 83.txt, 85.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 94.txt, 97.txt, 98.txt, 104.txt, 105.txt, 106.txt, 109.txt, 112.txt, 113.txt, 114.txt, 116.txt, 117.txt, 120.txt, 122.txt, 123.txt
 разобрать: 20.txt
 разобраться: 3.txt, 48.txt
 разом: 5.txt
@@ -5874,13 +5869,7 @@
 растечься: 69.txt
 расти: 4.txt, 14.txt, 26.txt, 41.txt, 44.txt, 46.txt, 47.txt, 64.txt, 67.txt, 73.txt, 76.txt, 79.txt, 80.txt, 84.txt, 88.txt, 94.txt, 98.txt, 102.txt, 105.txt, 113.txt, 115.txt, 117.txt, 118.txt, 121.txt, 123.txt
 растительность: 2.txt, 8.txt, 15.txt, 18.txt, 25.txt, 26.txt, 33.txt, 38.txt, 46.txt, 52.txt, 53.txt, 55.txt, 64.txt, 117.txt, 123.txt
-растительноядныеантилопакудубыкиполорогий: 46.txt
-растительноядныебольшиеопасныеться: 8.txt
-растительноядныедикдикполорогиемаленькиеантилоп: 53.txt
-растительноядныеоленекканчильмаленький: 64.txt
-растительноядныеоленьпарнокопытныелань: 118.txt
-растительноядныепарнокопытныежирафбольший: 94.txt
-растительноядный: 4.txt, 90.txt, 117.txt
+растительноядный: 4.txt, 8.txt, 46.txt, 53.txt, 64.txt, 90.txt, 94.txt, 117.txt, 118.txt
 растительный: 4.txt, 6.txt, 11.txt, 13.txt, 14.txt, 16.txt, 22.txt, 23.txt, 24.txt, 26.txt, 27.txt, 29.txt, 38.txt, 39.txt, 43.txt, 45.txt, 60.txt, 68.txt, 72.txt, 80.txt, 94.txt, 117.txt, 119.txt, 123.txt
 растить: 76.txt
 растопырить: 123.txt
@@ -5942,6 +5931,7 @@
 резкий: 12.txt, 16.txt, 17.txt, 18.txt, 22.txt, 38.txt, 42.txt, 52.txt, 55.txt, 58.txt, 79.txt, 86.txt, 87.txt, 90.txt, 95.txt, 105.txt, 106.txt, 107.txt, 116.txt
 резко: 2.txt, 6.txt, 9.txt, 27.txt, 38.txt, 49.txt, 94.txt, 104.txt
 результат: 2.txt, 10.txt, 38.txt, 66.txt, 71.txt, 74.txt, 75.txt, 83.txt, 86.txt, 88.txt, 104.txt, 117.txt, 123.txt
+резус: 10.txt
 реинтегрировать: 44.txt
 река: 6.txt, 11.txt, 13.txt, 24.txt, 26.txt, 33.txt, 38.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 55.txt, 61.txt, 66.txt, 71.txt, 93.txt, 94.txt, 97.txt, 100.txt, 101.txt, 102.txt, 104.txt, 116.txt, 117.txt, 120.txt
 реклама: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
@@ -5951,11 +5941,6 @@
 рекорд: 10.txt, 28.txt, 31.txt, 34.txt, 96.txt, 111.txt
 рекордный: 29.txt, 37.txt, 44.txt
 рекордсмен: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-рекордсменыбольшиенасекомыенеобычный: 60.txt
-рекордсменыбольшиечерепаха: 30.txt
-рекордсменыбольший: 111.txt
-рекордсменыопасныероссия: 59.txt
-рекордсменыопасный: 101.txt
 рекс: 66.txt
 религиозный: 25.txt
 реликтовый: 38.txt
@@ -5965,13 +5950,7 @@
 ремонтировать: 117.txt
 репродуктивный: 5.txt, 11.txt, 12.txt, 25.txt, 33.txt, 58.txt, 119.txt
 репродукция: 51.txt
-рептилииаспидыопасныезмеиядовитый: 96.txt
-рептилиикобраопасный: 9.txt
-рептилиикрокодилхищникопасный: 120.txt
-рептилиихищникваранопасныеэндемик: 62.txt
-рептилиичерепахабольший: 34.txt
-рептилиичерепахаэндемикбольший: 40.txt
-рептилия: 34.txt, 40.txt, 76.txt, 103.txt, 112.txt, 113.txt, 120.txt
+рептилия: 9.txt, 34.txt, 40.txt, 62.txt, 76.txt, 96.txt, 103.txt, 112.txt, 113.txt, 120.txt
 республика: 2.txt, 13.txt, 33.txt, 42.txt, 46.txt, 71.txt, 96.txt
 ресторан: 89.txt
 ресурс: 32.txt, 122.txt
@@ -5987,9 +5966,11 @@
 решение: 50.txt, 84.txt, 90.txt, 109.txt
 решить: 34.txt, 48.txt, 72.txt, 84.txt, 104.txt, 105.txt, 106.txt, 109.txt
 решиться: 105.txt, 124.txt
-ржавый: 38.txt
+ржавый: 38.txt, 44.txt, 55.txt
+рик: 114.txt
 римляна: 38.txt
 римлянин: 35.txt, 44.txt
+рио: 93.txt
 риск: 12.txt, 45.txt, 67.txt, 73.txt, 87.txt, 98.txt, 106.txt, 117.txt, 120.txt
 рисковать: 66.txt, 78.txt, 121.txt
 рисовать: 48.txt, 112.txt
@@ -6023,9 +6004,10 @@
 рождаться: 4.txt, 6.txt, 8.txt, 12.txt, 14.txt, 15.txt, 21.txt, 24.txt, 27.txt, 28.txt, 29.txt, 32.txt, 33.txt, 37.txt, 38.txt, 39.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 51.txt, 52.txt, 53.txt, 54.txt, 62.txt, 65.txt, 71.txt, 72.txt, 76.txt, 79.txt, 84.txt, 89.txt, 92.txt, 93.txt, 94.txt, 95.txt, 97.txt, 98.txt, 102.txt, 105.txt, 113.txt, 114.txt, 117.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 рождение: 4.txt, 9.txt, 13.txt, 16.txt, 29.txt, 41.txt, 48.txt, 64.txt, 69.txt, 93.txt, 94.txt, 95.txt, 105.txt, 113.txt, 114.txt, 122.txt, 123.txt, 124.txt
 рожок: 53.txt, 94.txt
-розоватый: 116.txt, 119.txt
+розоватый: 95.txt, 116.txt, 119.txt
 розовощёкий: 23.txt, 86.txt
-розовый: 10.txt, 13.txt, 23.txt, 26.txt, 39.txt, 55.txt, 66.txt, 84.txt, 108.txt, 116.txt, 122.txt
+розовый: 10.txt, 13.txt, 23.txt, 26.txt, 39.txt, 55.txt, 66.txt, 84.txt, 106.txt, 108.txt, 113.txt, 116.txt, 122.txt
+розыскной: 66.txt
 рой: 14.txt
 роковой: 81.txt
 роль: 5.txt, 11.txt, 12.txt, 14.txt, 17.txt, 38.txt, 39.txt, 41.txt, 50.txt, 64.txt, 99.txt, 101.txt, 106.txt, 114.txt, 115.txt, 121.txt, 123.txt
@@ -6033,9 +6015,10 @@
 ромбообразный: 58.txt
 роса: 40.txt
 роскошный: 12.txt, 78.txt, 87.txt
-росомаха: 4.txt, 14.txt, 42.txt, 53.txt
+росомаха: 4.txt, 12.txt, 14.txt, 28.txt, 42.txt, 53.txt
 российский: 19.txt, 38.txt, 49.txt, 79.txt, 83.txt, 114.txt
-россия: 3.txt, 5.txt, 6.txt, 19.txt, 24.txt, 25.txt, 26.txt, 27.txt, 38.txt, 42.txt, 43.txt, 44.txt, 46.txt, 49.txt, 50.txt, 55.txt, 56.txt, 59.txt, 66.txt, 69.txt, 70.txt, 71.txt, 73.txt, 74.txt, 75.txt, 79.txt, 88.txt, 90.txt, 91.txt, 97.txt, 98.txt, 104.txt, 106.txt, 108.txt, 110.txt, 116.txt, 117.txt, 123.txt
+россия: 3.txt, 5.txt, 6.txt, 8.txt, 19.txt, 24.txt, 25.txt, 26.txt, 27.txt, 38.txt, 42.txt, 43.txt, 44.txt, 46.txt, 47.txt, 49.txt, 50.txt, 55.txt, 56.txt, 59.txt, 66.txt, 69.txt, 70.txt, 71.txt, 73.txt, 74.txt, 75.txt, 79.txt, 88.txt, 90.txt, 91.txt, 97.txt, 98.txt, 101.txt, 104.txt, 106.txt, 108.txt, 110.txt, 116.txt, 117.txt, 123.txt
+россомах: 8.txt
 россыпь: 79.txt
 рост: 2.txt, 4.txt, 9.txt, 11.txt, 13.txt, 16.txt, 29.txt, 33.txt, 34.txt, 39.txt, 40.txt, 41.txt, 43.txt, 44.txt, 46.txt, 48.txt, 55.txt, 59.txt, 62.txt, 65.txt, 74.txt, 87.txt, 88.txt, 94.txt, 107.txt, 111.txt, 114.txt, 122.txt
 ростовский: 8.txt, 71.txt
@@ -6050,7 +6033,7 @@
 руль: 17.txt, 117.txt
 румыния: 66.txt
 рунет: 32.txt
-русак: 6.txt
+русак: 4.txt, 6.txt, 62.txt, 107.txt
 русский: 3.txt, 5.txt, 31.txt, 32.txt, 40.txt, 49.txt, 85.txt, 95.txt, 108.txt, 112.txt, 114.txt, 124.txt
 русый: 21.txt
 руффиньяк: 100.txt
@@ -6062,15 +6045,12 @@
 рыбак: 58.txt, 120.txt
 рыбий: 31.txt, 117.txt
 рыбка: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-рыбкискалярияцихловый: 104.txt
-рыбкителескопзвездочёт: 83.txt
-рыбкицихлазомацихловыецихлида: 22.txt
 рыбный: 58.txt
 рыболовный: 37.txt, 58.txt, 114.txt
 рывок: 17.txt, 22.txt, 25.txt, 44.txt, 58.txt, 62.txt
-рыжеватый: 4.txt, 11.txt, 14.txt, 27.txt, 32.txt, 33.txt, 41.txt, 79.txt, 124.txt
+рыжеватый: 4.txt, 11.txt, 14.txt, 27.txt, 32.txt, 33.txt, 41.txt, 79.txt, 115.txt, 121.txt, 124.txt
 рыжеть: 12.txt, 59.txt, 65.txt
-рыжий: 16.txt, 17.txt, 20.txt, 24.txt, 52.txt, 55.txt, 60.txt, 61.txt, 64.txt, 65.txt, 73.txt, 76.txt, 87.txt, 99.txt, 111.txt, 123.txt
+рыжий: 16.txt, 17.txt, 20.txt, 24.txt, 52.txt, 55.txt, 60.txt, 61.txt, 64.txt, 65.txt, 73.txt, 76.txt, 87.txt, 93.txt, 99.txt, 111.txt, 123.txt
 рыло: 101.txt
 рыльце: 89.txt
 рысить: 26.txt, 29.txt
@@ -6087,6 +6067,7 @@
 ряска: 26.txt
 рёв: 41.txt
 саблезубый: 18.txt
+сабля: 18.txt
 саванна: 11.txt, 17.txt, 18.txt, 41.txt, 53.txt, 78.txt, 94.txt, 96.txt, 101.txt
 саванный: 111.txt
 сагиттальный: 11.txt, 33.txt
@@ -6111,11 +6092,14 @@
 самочки: 6.txt
 самочувствие: 19.txt
 самый: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 53.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
+сан: 93.txt
 санитар: 66.txt
 санитарный: 66.txt, 86.txt, 106.txt
+санкт: 55.txt
 саратовский: 71.txt
 сардина: 58.txt
 сарыч: 55.txt
+сафари: 109.txt
 сахалин: 47.txt
 сахалинский: 52.txt
 сахар: 8.txt
@@ -6146,7 +6130,7 @@
 сверчок: 21.txt
 свет: 2.txt, 4.txt, 5.txt, 8.txt, 13.txt, 17.txt, 34.txt, 46.txt, 51.txt, 54.txt, 64.txt, 65.txt, 67.txt, 72.txt, 76.txt, 79.txt, 84.txt, 86.txt, 89.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 102.txt, 104.txt, 110.txt, 114.txt, 115.txt, 116.txt, 118.txt, 122.txt, 123.txt
 светиться: 37.txt, 115.txt
-светло: 8.txt
+светло: 2.txt, 3.txt, 8.txt, 12.txt, 17.txt, 22.txt, 23.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 33.txt, 38.txt, 47.txt, 52.txt, 54.txt, 55.txt, 56.txt, 58.txt, 60.txt, 61.txt, 76.txt, 79.txt, 84.txt, 96.txt, 106.txt, 117.txt, 118.txt, 120.txt
 светлый: 4.txt, 5.txt, 6.txt, 9.txt, 12.txt, 14.txt, 20.txt, 23.txt, 27.txt, 29.txt, 31.txt, 33.txt, 34.txt, 38.txt, 40.txt, 41.txt, 42.txt, 47.txt, 49.txt, 51.txt, 53.txt, 55.txt, 60.txt, 61.txt, 62.txt, 72.txt, 75.txt, 76.txt, 86.txt, 93.txt, 94.txt, 96.txt, 97.txt, 102.txt, 105.txt, 106.txt, 113.txt, 114.txt, 117.txt, 123.txt, 124.txt
 световой: 12.txt, 24.txt, 55.txt
 светонакопительный: 69.txt
@@ -6155,7 +6139,7 @@
 свидетельство: 100.txt
 свидетельствовать: 31.txt, 33.txt, 37.txt, 73.txt, 100.txt, 110.txt
 свинина: 88.txt
-свинка: 9.txt, 35.txt, 50.txt, 63.txt, 65.txt, 75.txt, 87.txt, 105.txt, 116.txt, 119.txt
+свинка: 9.txt, 35.txt, 50.txt, 63.txt, 65.txt, 75.txt, 84.txt, 87.txt, 93.txt, 105.txt, 116.txt, 119.txt
 свинохвостый: 10.txt
 свинья: 40.txt, 102.txt
 свирепо: 59.txt
@@ -6207,11 +6191,13 @@
 севастополь: 50.txt
 север: 4.txt, 12.txt, 26.txt, 47.txt, 49.txt, 55.txt, 59.txt, 65.txt, 73.txt, 76.txt, 97.txt, 98.txt, 114.txt
 северный: 1.txt, 4.txt, 6.txt, 8.txt, 11.txt, 12.txt, 13.txt, 17.txt, 21.txt, 24.txt, 25.txt, 26.txt, 27.txt, 29.txt, 31.txt, 32.txt, 37.txt, 42.txt, 44.txt, 46.txt, 47.txt, 49.txt, 55.txt, 56.txt, 58.txt, 59.txt, 61.txt, 65.txt, 71.txt, 76.txt, 80.txt, 84.txt, 88.txt, 90.txt, 91.txt, 92.txt, 94.txt, 98.txt, 100.txt, 101.txt, 102.txt, 111.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 121.txt, 123.txt, 124.txt
+северо: 4.txt, 5.txt, 14.txt, 32.txt, 42.txt, 44.txt, 55.txt, 56.txt, 57.txt, 60.txt, 73.txt, 79.txt, 84.txt, 96.txt, 113.txt, 114.txt, 116.txt, 117.txt
 североевропейский: 52.txt
 сегодня: 32.txt, 73.txt, 76.txt, 78.txt, 79.txt, 84.txt, 85.txt, 88.txt, 89.txt, 92.txt, 93.txt, 94.txt, 105.txt, 107.txt, 118.txt
 сегодняшний: 78.txt, 80.txt, 102.txt, 114.txt, 122.txt
 сеголетка: 38.txt, 43.txt, 47.txt
 седловидный: 40.txt
+седоватый: 47.txt
 сезон: 2.txt, 4.txt, 5.txt, 6.txt, 12.txt, 15.txt, 29.txt, 34.txt, 38.txt, 40.txt, 43.txt, 46.txt, 52.txt, 53.txt, 55.txt, 72.txt, 79.txt, 86.txt, 91.txt, 93.txt, 94.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 115.txt, 116.txt, 117.txt, 118.txt, 120.txt, 122.txt
 сезонность: 3.txt
 сезонный: 2.txt, 4.txt, 6.txt, 8.txt, 12.txt, 28.txt, 47.txt, 55.txt, 68.txt, 87.txt, 98.txt, 110.txt
@@ -6233,30 +6219,34 @@
 сельскохозяйственный: 6.txt, 9.txt, 38.txt, 91.txt, 93.txt
 сельхозугодье: 4.txt
 семейный: 5.txt, 33.txt, 38.txt, 41.txt, 53.txt, 63.txt, 74.txt, 76.txt, 97.txt, 117.txt, 123.txt
-семейство: 1.txt, 3.txt, 5.txt, 6.txt, 8.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 18.txt, 21.txt, 22.txt, 24.txt, 26.txt, 27.txt, 28.txt, 29.txt, 31.txt, 39.txt, 40.txt, 41.txt, 43.txt, 44.txt, 45.txt, 47.txt, 48.txt, 49.txt, 52.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 65.txt, 68.txt, 71.txt, 72.txt, 76.txt, 78.txt, 79.txt, 86.txt, 89.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 105.txt, 111.txt, 113.txt, 115.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
+семейство: 1.txt, 3.txt, 5.txt, 6.txt, 8.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 18.txt, 21.txt, 22.txt, 24.txt, 26.txt, 27.txt, 28.txt, 29.txt, 31.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 47.txt, 48.txt, 49.txt, 52.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 65.txt, 68.txt, 71.txt, 72.txt, 76.txt, 78.txt, 79.txt, 86.txt, 89.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 105.txt, 111.txt, 113.txt, 115.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 семиточечный: 90.txt
 семь: 81.txt, 119.txt, 123.txt
 семья: 12.txt, 21.txt, 53.txt, 67.txt, 73.txt, 74.txt, 76.txt, 87.txt, 88.txt, 97.txt, 107.txt, 117.txt
 семя: 6.txt, 21.txt, 23.txt, 52.txt, 55.txt, 84.txt, 86.txt, 106.txt, 119.txt
 сено: 4.txt, 84.txt, 93.txt, 105.txt
-сентябрь: 4.txt, 10.txt, 44.txt, 55.txt, 118.txt, 120.txt
+сента: 62.txt
+сентябрь: 4.txt, 10.txt, 20.txt, 44.txt, 45.txt, 55.txt, 69.txt, 88.txt, 89.txt, 118.txt, 120.txt
 сервал: 41.txt
 серверный: 55.txt
 сервис: 70.txt
+сердечно: 9.txt
 сердечный: 40.txt, 81.txt
 сердитый: 79.txt
 сердце: 74.txt, 81.txt, 94.txt, 101.txt, 114.txt
 сердцебиение: 48.txt, 120.txt
-серебристый: 27.txt, 31.txt, 33.txt, 71.txt, 97.txt, 104.txt, 108.txt
+серебристый: 27.txt, 29.txt, 31.txt, 33.txt, 71.txt, 97.txt, 104.txt, 108.txt
 серебряный: 69.txt
 середина: 8.txt, 12.txt, 13.txt, 24.txt, 29.txt, 45.txt, 52.txt, 55.txt, 60.txt, 61.txt, 65.txt, 68.txt, 72.txt, 90.txt, 96.txt, 97.txt, 117.txt, 118.txt
 серия: 9.txt, 96.txt, 114.txt
-сероватый: 23.txt, 72.txt
+серо: 22.txt, 23.txt, 43.txt, 46.txt, 53.txt, 55.txt, 58.txt, 61.txt, 84.txt, 101.txt, 108.txt, 123.txt
+серовато: 26.txt, 96.txt, 104.txt, 106.txt, 123.txt
+сероватый: 2.txt, 23.txt, 72.txt, 105.txt
 сероголовый: 23.txt
 серохвостый: 52.txt
 серп: 3.txt
 серповидный: 3.txt, 58.txt
-серый: 2.txt, 5.txt, 6.txt, 8.txt, 13.txt, 15.txt, 16.txt, 24.txt, 25.txt, 26.txt, 31.txt, 33.txt, 37.txt, 39.txt, 40.txt, 45.txt, 48.txt, 49.txt, 51.txt, 52.txt, 55.txt, 56.txt, 58.txt, 79.txt, 92.txt, 95.txt, 97.txt, 101.txt, 102.txt, 114.txt, 120.txt, 123.txt
+серый: 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 12.txt, 13.txt, 15.txt, 16.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 29.txt, 31.txt, 33.txt, 37.txt, 38.txt, 39.txt, 40.txt, 44.txt, 45.txt, 48.txt, 49.txt, 51.txt, 52.txt, 55.txt, 56.txt, 58.txt, 60.txt, 78.txt, 79.txt, 84.txt, 86.txt, 90.txt, 92.txt, 95.txt, 97.txt, 101.txt, 102.txt, 114.txt, 116.txt, 118.txt, 120.txt, 123.txt, 124.txt
 серьёзный: 13.txt, 18.txt, 28.txt, 58.txt, 59.txt, 69.txt, 74.txt, 87.txt, 121.txt
 серёжка: 27.txt
 сестра: 17.txt, 21.txt, 124.txt
@@ -6267,7 +6257,7 @@
 сжимать: 1.txt
 сжиматься: 34.txt
 сзади: 62.txt
-сибирский: 14.txt, 27.txt, 44.txt, 47.txt, 52.txt, 100.txt
+сибирский: 14.txt, 27.txt, 44.txt, 47.txt, 52.txt, 98.txt, 100.txt
 сибирь: 8.txt, 42.txt, 52.txt, 100.txt, 113.txt
 сигнал: 39.txt, 55.txt, 62.txt, 86.txt, 114.txt, 117.txt
 сигнализировать: 11.txt, 33.txt, 55.txt
@@ -6288,7 +6278,7 @@
 синайский: 76.txt
 синева: 60.txt
 синеватый: 23.txt
-синий: 5.txt, 23.txt, 29.txt, 37.txt, 49.txt, 55.txt, 101.txt, 111.txt, 114.txt
+синий: 5.txt, 23.txt, 29.txt, 34.txt, 37.txt, 49.txt, 55.txt, 101.txt, 106.txt, 111.txt, 114.txt
 синильный: 103.txt, 113.txt
 синица: 55.txt, 86.txt
 синтезироваться: 51.txt
@@ -6407,7 +6397,7 @@
 слышаться: 123.txt
 слышный: 2.txt, 8.txt, 92.txt
 слюна: 43.txt, 62.txt
-слёзный: 17.txt
+слёзный: 17.txt, 53.txt
 слёток: 26.txt
 смазывать: 95.txt, 101.txt
 смело: 1.txt, 8.txt, 38.txt, 52.txt, 56.txt, 66.txt, 84.txt, 87.txt, 109.txt, 113.txt
@@ -6473,13 +6463,7 @@
 сносить: 33.txt, 92.txt, 117.txt
 снять: 81.txt
 собака: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
-собакавсеядныехищникспячка: 43.txt
-собакакит: 73.txt
-собакахищник: 16.txt
-собакбоксёр: 19.txt
-собакзенненхунд: 87.txt
 собаководство: 66.txt
-собакспаниель: 107.txt
 собачий: 12.txt
 собирать: 1.txt, 26.txt, 55.txt, 58.txt, 60.txt, 61.txt, 84.txt, 106.txt, 113.txt
 собираться: 3.txt, 4.txt, 26.txt, 41.txt, 46.txt, 48.txt, 55.txt, 58.txt, 62.txt, 72.txt, 89.txt, 90.txt, 93.txt, 99.txt, 101.txt, 106.txt, 116.txt, 118.txt, 123.txt
@@ -6487,7 +6471,7 @@
 соблюдаться: 72.txt, 99.txt
 соблюдение: 76.txt, 83.txt, 86.txt
 соблюсти: 23.txt
-соболь: 14.txt, 33.txt, 46.txt
+соболь: 14.txt, 33.txt, 46.txt, 121.txt
 собор: 66.txt
 собранный: 70.txt, 100.txt
 собрат: 39.txt, 62.txt
@@ -6535,6 +6519,7 @@
 сойка: 52.txt
 сок: 40.txt, 60.txt
 соколиный: 3.txt
+соколообразный: 3.txt
 сократить: 9.txt
 сократиться: 6.txt, 19.txt, 24.txt, 34.txt, 46.txt, 52.txt, 58.txt, 62.txt, 78.txt, 92.txt, 94.txt, 97.txt
 сокращать: 2.txt, 33.txt
@@ -6543,7 +6528,7 @@
 сокрушительный: 59.txt
 солдат: 66.txt, 73.txt
 солнечный: 23.txt, 45.txt, 84.txt, 86.txt, 95.txt, 98.txt, 106.txt
-солнце: 62.txt, 78.txt, 92.txt
+солнце: 31.txt, 62.txt, 78.txt, 92.txt
 солнышко: 95.txt, 96.txt
 соловей: 55.txt, 61.txt
 соловьиный: 61.txt
@@ -6602,6 +6587,7 @@
 состоять: 4.txt, 11.txt, 12.txt, 13.txt, 15.txt, 16.txt, 24.txt, 26.txt, 29.txt, 30.txt, 31.txt, 34.txt, 38.txt, 39.txt, 41.txt, 43.txt, 44.txt, 45.txt, 46.txt, 52.txt, 54.txt, 55.txt, 58.txt, 72.txt, 73.txt, 76.txt, 78.txt, 89.txt, 93.txt, 94.txt, 99.txt, 100.txt, 105.txt, 113.txt, 114.txt, 117.txt, 123.txt
 состояться: 116.txt
 сострадание: 112.txt
+сосудистый: 9.txt
 сотня: 4.txt, 12.txt, 55.txt, 58.txt, 66.txt, 84.txt, 90.txt, 93.txt, 97.txt, 106.txt, 116.txt, 117.txt
 сотрудник: 109.txt
 сотрясать: 110.txt
@@ -6625,9 +6611,10 @@
 союз: 3.txt, 11.txt, 12.txt, 37.txt, 38.txt, 39.txt, 43.txt, 50.txt, 71.txt, 95.txt
 спазм: 91.txt
 спальный: 38.txt, 73.txt
+спаниель: 6.txt, 10.txt, 15.txt, 21.txt, 32.txt, 36.txt, 48.txt, 54.txt, 67.txt, 69.txt, 70.txt, 73.txt, 91.txt, 102.txt, 105.txt, 106.txt, 107.txt, 111.txt, 123.txt
 спаривание: 3.txt, 13.txt, 21.txt, 25.txt, 62.txt, 93.txt
 спариваться: 5.txt, 6.txt, 13.txt, 34.txt, 41.txt, 42.txt, 47.txt, 52.txt, 58.txt
-спасательный: 5.txt, 50.txt
+спасательный: 5.txt, 19.txt, 50.txt
 спасать: 28.txt, 50.txt
 спасаться: 26.txt, 46.txt, 52.txt, 53.txt, 54.txt
 спасение: 29.txt, 50.txt, 62.txt
@@ -6690,7 +6677,7 @@
 спускаться: 4.txt, 6.txt, 27.txt, 45.txt, 48.txt, 54.txt, 72.txt, 119.txt
 спуститься: 26.txt
 спустя: 4.txt, 8.txt, 10.txt, 11.txt, 39.txt, 52.txt, 64.txt, 90.txt, 92.txt, 94.txt, 109.txt
-спячка: 3.txt, 4.txt, 24.txt, 27.txt, 29.txt, 36.txt, 43.txt, 47.txt, 56.txt, 63.txt, 68.txt, 72.txt, 85.txt, 86.txt, 90.txt, 97.txt, 98.txt, 103.txt, 113.txt, 117.txt, 122.txt
+спячка: 3.txt, 4.txt, 15.txt, 24.txt, 27.txt, 29.txt, 36.txt, 43.txt, 47.txt, 56.txt, 59.txt, 63.txt, 68.txt, 72.txt, 85.txt, 86.txt, 90.txt, 97.txt, 98.txt, 103.txt, 113.txt, 117.txt, 122.txt
 срабатывать: 50.txt
 сравнение: 2.txt, 13.txt, 23.txt, 54.txt, 95.txt, 96.txt, 102.txt, 114.txt, 118.txt
 сравнивать: 1.txt, 11.txt, 15.txt, 16.txt, 28.txt, 38.txt, 78.txt, 88.txt, 118.txt
@@ -6703,6 +6690,7 @@
 среда: 1.txt, 2.txt, 3.txt, 5.txt, 8.txt, 9.txt, 11.txt, 13.txt, 18.txt, 22.txt, 24.txt, 25.txt, 27.txt, 28.txt, 31.txt, 32.txt, 38.txt, 39.txt, 41.txt, 44.txt, 45.txt, 46.txt, 48.txt, 49.txt, 54.txt, 55.txt, 57.txt, 59.txt, 62.txt, 78.txt, 84.txt, 88.txt, 96.txt, 97.txt, 98.txt, 99.txt, 102.txt, 104.txt, 114.txt, 115.txt, 116.txt, 123.txt
 среди: 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 11.txt, 12.txt, 14.txt, 15.txt, 16.txt, 17.txt, 20.txt, 21.txt, 22.txt, 29.txt, 30.txt, 31.txt, 33.txt, 34.txt, 37.txt, 38.txt, 40.txt, 41.txt, 42.txt, 44.txt, 45.txt, 51.txt, 52.txt, 55.txt, 60.txt, 62.txt, 66.txt, 69.txt, 71.txt, 73.txt, 74.txt, 76.txt, 78.txt, 79.txt, 89.txt, 92.txt, 94.txt, 95.txt, 96.txt, 100.txt, 101.txt, 104.txt, 105.txt, 106.txt, 108.txt, 111.txt, 114.txt, 118.txt, 120.txt
 средиземный: 3.txt, 55.txt, 58.txt, 91.txt
+средне: 24.txt
 среднеазиатский: 79.txt
 среднее: 2.txt, 3.txt, 5.txt, 6.txt, 11.txt, 12.txt, 13.txt, 14.txt, 16.txt, 17.txt, 19.txt, 21.txt, 22.txt, 24.txt, 26.txt, 27.txt, 29.txt, 32.txt, 33.txt, 39.txt, 40.txt, 41.txt, 44.txt, 58.txt, 59.txt, 65.txt, 68.txt, 71.txt, 72.txt, 79.txt, 93.txt, 94.txt, 96.txt, 98.txt, 104.txt, 105.txt, 117.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 среднерусский: 52.txt
@@ -6754,6 +6742,7 @@
 степной: 17.txt, 18.txt, 26.txt, 32.txt, 52.txt, 55.txt, 59.txt, 65.txt, 79.txt, 90.txt, 91.txt, 106.txt, 110.txt
 степь: 23.txt, 28.txt, 65.txt, 79.txt, 86.txt, 100.txt, 110.txt, 123.txt
 стереться: 69.txt
+стерлядь: 51.txt
 стечение: 4.txt, 16.txt
 стилистика: 69.txt
 стиль: 3.txt, 17.txt, 18.txt, 62.txt, 69.txt, 92.txt
@@ -6799,7 +6788,7 @@
 страшный: 55.txt, 69.txt, 101.txt, 112.txt
 стрекоза: 60.txt
 стрекотать: 71.txt
-стрелка: 12.txt, 28.txt, 55.txt, 67.txt, 69.txt, 75.txt, 78.txt, 107.txt
+стрелка: 10.txt, 12.txt, 28.txt, 55.txt, 67.txt, 69.txt, 75.txt, 78.txt, 107.txt
 стрелолист: 26.txt
 стремительно: 19.txt, 33.txt, 73.txt, 79.txt, 84.txt, 107.txt, 108.txt, 121.txt
 стремительный: 1.txt, 25.txt, 35.txt, 41.txt, 66.txt, 89.txt, 121.txt
@@ -6906,7 +6895,7 @@
 сыр: 84.txt, 105.txt
 сырой: 86.txt, 87.txt, 88.txt, 92.txt, 93.txt, 105.txt, 107.txt
 сытый: 16.txt
-сюда: 34.txt
+сюда: 22.txt, 34.txt
 сюрприз: 63.txt
 табби: 20.txt
 таблица: 3.txt, 55.txt
@@ -6925,6 +6914,7 @@
 тайник: 21.txt
 тайный: 74.txt
 также: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 78.txt, 79.txt, 80.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
+таки: 32.txt, 110.txt
 таков: 123.txt
 таковой: 31.txt, 78.txt, 80.txt, 95.txt
 такой: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 14.txt, 16.txt, 17.txt, 18.txt, 20.txt, 21.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 37.txt, 38.txt, 39.txt, 42.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 51.txt, 52.txt, 53.txt, 55.txt, 57.txt, 58.txt, 59.txt, 61.txt, 62.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 72.txt, 73.txt, 74.txt, 76.txt, 78.txt, 80.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 116.txt, 117.txt, 118.txt, 120.txt, 121.txt, 122.txt, 123.txt
@@ -6946,8 +6936,9 @@
 тед: 29.txt
 текущий: 13.txt
 телевизор: 105.txt
+телеграм: 77.txt
 телепередача: 13.txt
-телескоп: 13.txt, 18.txt, 20.txt, 23.txt, 43.txt, 47.txt, 52.txt, 66.txt, 82.txt, 83.txt, 100.txt, 103.txt, 110.txt
+телескоп: 13.txt, 18.txt, 20.txt, 22.txt, 23.txt, 43.txt, 47.txt, 52.txt, 66.txt, 82.txt, 83.txt, 100.txt, 103.txt, 110.txt
 телесный: 114.txt
 телефон: 69.txt
 телефонный: 66.txt
@@ -6957,7 +6948,7 @@
 тельце: 60.txt
 телёнок: 46.txt, 118.txt
 тема: 109.txt
-темно: 120.txt
+темно: 1.txt, 12.txt, 23.txt, 26.txt, 33.txt, 34.txt, 37.txt, 39.txt, 40.txt, 43.txt, 44.txt, 49.txt, 55.txt, 56.txt, 60.txt, 61.txt, 65.txt, 73.txt, 86.txt, 87.txt, 95.txt, 96.txt, 106.txt, 113.txt, 115.txt, 117.txt, 118.txt, 119.txt, 120.txt
 темнопёрый: 58.txt
 темперамент: 107.txt
 температура: 12.txt, 22.txt, 31.txt, 34.txt, 37.txt, 39.txt, 40.txt, 48.txt, 55.txt, 68.txt, 76.txt, 79.txt, 83.txt, 84.txt, 86.txt, 90.txt, 92.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 113.txt, 114.txt, 117.txt, 120.txt
@@ -6989,14 +6980,16 @@
 тесно: 68.txt
 тесный: 67.txt
 тест: 11.txt, 13.txt
+тетеревятник: 52.txt
 техас: 102.txt
 техногенный: 55.txt
 технология: 18.txt, 50.txt
 течение: 12.txt, 14.txt, 19.txt, 23.txt, 31.txt, 39.txt, 42.txt, 55.txt, 62.txt, 66.txt, 89.txt, 91.txt, 92.txt, 101.txt, 102.txt, 104.txt, 106.txt, 113.txt, 116.txt, 117.txt, 118.txt, 120.txt, 123.txt
 течка: 29.txt
+ти: 3.txt
 тибет: 3.txt, 122.txt
 тибетский: 47.txt, 79.txt
-тигр: 3.txt, 15.txt, 18.txt, 22.txt, 35.txt, 36.txt, 41.txt, 44.txt, 59.txt, 72.txt, 78.txt, 88.txt, 96.txt, 99.txt, 100.txt, 108.txt, 109.txt, 111.txt
+тигр: 3.txt, 8.txt, 15.txt, 17.txt, 18.txt, 20.txt, 22.txt, 35.txt, 36.txt, 41.txt, 44.txt, 59.txt, 72.txt, 78.txt, 88.txt, 96.txt, 99.txt, 100.txt, 101.txt, 108.txt, 109.txt, 111.txt
 тигрица: 44.txt
 тигровый: 9.txt, 19.txt, 31.txt, 34.txt, 73.txt, 101.txt
 тигролевый: 41.txt, 44.txt
@@ -7008,13 +7001,14 @@
 типографический: 21.txt
 тирозиназа: 51.txt
 тискать: 105.txt
+титан: 60.txt
 тихий: 5.txt, 6.txt, 12.txt, 38.txt, 55.txt, 58.txt, 71.txt, 72.txt, 114.txt
 тихо: 121.txt
 тихоокеанский: 29.txt
 тихость: 6.txt
 тишина: 122.txt
 ткань: 18.txt, 37.txt, 58.txt, 62.txt, 100.txt, 114.txt, 124.txt
-товар: 22.txt, 29.txt
+товар: 22.txt, 29.txt, 69.txt, 70.txt
 токийский: 81.txt
 токио: 39.txt
 токовать: 26.txt
@@ -7034,6 +7028,7 @@
 тонкий: 1.txt, 4.txt, 14.txt, 16.txt, 53.txt, 58.txt, 65.txt, 71.txt, 72.txt, 88.txt, 90.txt, 94.txt, 95.txt, 102.txt, 105.txt, 113.txt, 116.txt, 119.txt, 120.txt, 122.txt
 тонкость: 102.txt
 тонна: 21.txt, 59.txt, 111.txt, 114.txt, 120.txt
+тонный: 66.txt
 тонуть: 52.txt
 топ: 59.txt, 60.txt, 101.txt
 топать: 74.txt
@@ -7045,6 +7040,7 @@
 торчать: 2.txt, 14.txt, 27.txt, 45.txt, 47.txt, 58.txt, 64.txt
 торчком: 16.txt
 тот: 2.txt, 3.txt, 4.txt, 5.txt, 8.txt, 9.txt, 12.txt, 13.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 22.txt, 25.txt, 26.txt, 27.txt, 28.txt, 32.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 45.txt, 46.txt, 48.txt, 49.txt, 50.txt, 53.txt, 56.txt, 59.txt, 60.txt, 62.txt, 66.txt, 67.txt, 69.txt, 70.txt, 71.txt, 72.txt, 76.txt, 78.txt, 79.txt, 80.txt, 83.txt, 84.txt, 86.txt, 87.txt, 88.txt, 89.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 105.txt, 107.txt, 110.txt, 112.txt, 113.txt, 114.txt, 118.txt, 120.txt, 123.txt
+точечный: 90.txt
 точка: 1.txt, 3.txt, 25.txt, 26.txt, 49.txt, 59.txt, 60.txt, 90.txt, 98.txt, 102.txt, 114.txt
 точнее: 11.txt
 точно: 3.txt, 13.txt, 48.txt, 58.txt
@@ -7064,6 +7060,7 @@
 траектория: 17.txt, 52.txt
 тракт: 34.txt
 транзитный: 5.txt
+трансляция: 109.txt
 транспорт: 101.txt
 транспортировка: 21.txt
 трапеза: 25.txt, 39.txt, 62.txt, 94.txt, 95.txt
@@ -7086,7 +7083,7 @@
 треть: 9.txt, 29.txt, 43.txt, 45.txt, 102.txt
 треугольный: 3.txt, 14.txt, 20.txt, 37.txt, 58.txt, 87.txt, 95.txt, 119.txt, 121.txt
 трехпалый: 48.txt, 100.txt
-три: 30.txt, 47.txt, 73.txt, 84.txt, 97.txt, 116.txt, 119.txt, 121.txt, 122.txt
+три: 30.txt, 47.txt, 73.txt, 84.txt, 97.txt, 116.txt, 119.txt, 121.txt, 122.txt, 124.txt
 тридцать: 124.txt
 трижды: 66.txt
 триметиламин: 37.txt
@@ -7118,9 +7115,10 @@
 трясти: 107.txt
 трёхлетний: 33.txt, 72.txt, 116.txt
 трёхметровый: 46.txt
-туалет: 84.txt, 88.txt, 97.txt
+туалет: 21.txt, 84.txt, 88.txt, 97.txt
 туберкулёз: 97.txt
-туда: 5.txt, 45.txt, 66.txt, 68.txt, 84.txt, 106.txt
+тувино: 79.txt
+туда: 5.txt, 22.txt, 45.txt, 66.txt, 68.txt, 84.txt, 106.txt
 туловище: 8.txt, 12.txt, 48.txt, 64.txt, 74.txt, 79.txt, 121.txt
 тумак: 6.txt
 тундра: 4.txt, 12.txt, 98.txt, 121.txt, 123.txt
@@ -7155,6 +7153,7 @@
 тяжело: 57.txt, 62.txt, 107.txt
 тяжелораненый: 66.txt
 тяжёлый: 2.txt, 24.txt, 31.txt, 33.txt, 34.txt, 41.txt, 42.txt, 44.txt, 60.txt, 62.txt
+тянить: 47.txt
 тянуть: 62.txt
 тянуться: 79.txt, 97.txt, 102.txt
 тёмный: 2.txt, 4.txt, 9.txt, 12.txt, 13.txt, 14.txt, 19.txt, 24.txt, 27.txt, 28.txt, 29.txt, 31.txt, 33.txt, 35.txt, 37.txt, 38.txt, 41.txt, 44.txt, 49.txt, 51.txt, 55.txt, 56.txt, 58.txt, 60.txt, 61.txt, 62.txt, 65.txt, 78.txt, 79.txt, 94.txt, 95.txt, 96.txt, 97.txt, 102.txt, 104.txt, 105.txt, 106.txt, 107.txt, 110.txt, 113.txt, 114.txt, 119.txt, 120.txt, 123.txt, 124.txt
@@ -7455,7 +7454,8 @@
 уэльс: 4.txt
 уэт: 60.txt
 уютный: 68.txt, 102.txt
-уязвимый: 9.txt, 15.txt, 16.txt, 17.txt, 22.txt, 31.txt, 34.txt, 71.txt, 78.txt, 92.txt, 94.txt, 98.txt, 107.txt, 113.txt, 122.txt
+уязвимый: 9.txt, 15.txt, 16.txt, 17.txt, 22.txt, 31.txt, 34.txt, 71.txt, 78.txt, 89.txt, 92.txt, 94.txt, 98.txt, 107.txt, 113.txt, 122.txt
+фавн: 10.txt
 фаза: 33.txt, 49.txt
 фазан: 44.txt
 факт: 2.txt, 3.txt, 5.txt, 8.txt, 9.txt, 11.txt, 12.txt, 13.txt, 16.txt, 17.txt, 23.txt, 24.txt, 25.txt, 26.txt, 28.txt, 29.txt, 31.txt, 32.txt, 33.txt, 34.txt, 37.txt, 39.txt, 40.txt, 41.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 54.txt, 55.txt, 57.txt, 58.txt, 62.txt, 71.txt, 74.txt, 76.txt, 82.txt, 84.txt, 103.txt, 117.txt
@@ -7469,13 +7469,14 @@
 фарфор: 106.txt
 фасад: 3.txt
 фат: 33.txt
+фау: 10.txt
 фашистский: 66.txt
-февраль: 4.txt, 12.txt, 40.txt, 47.txt, 66.txt
+февраль: 2.txt, 3.txt, 4.txt, 6.txt, 11.txt, 12.txt, 27.txt, 28.txt, 29.txt, 30.txt, 40.txt, 47.txt, 56.txt, 66.txt, 79.txt, 107.txt, 108.txt, 109.txt, 110.txt
 федеральный: 110.txt
 федерация: 79.txt
 фекалия: 48.txt
 фен: 105.txt, 107.txt
-фенек: 15.txt, 76.txt
+фенек: 15.txt, 65.txt, 76.txt
 феномен: 62.txt
 феноменальный: 54.txt, 73.txt, 109.txt
 ферма: 38.txt, 81.txt, 93.txt, 110.txt, 123.txt
@@ -7501,7 +7502,7 @@
 финляндия: 27.txt, 38.txt, 56.txt, 97.txt
 фиолетовый: 1.txt, 26.txt, 55.txt, 60.txt, 94.txt, 106.txt
 фишер: 23.txt
-фламинго: 10.txt, 66.txt, 84.txt, 116.txt
+фламинго: 10.txt, 55.txt, 66.txt, 84.txt, 116.txt
 флора: 62.txt
 флорида: 58.txt
 флот: 49.txt
@@ -7518,6 +7519,7 @@
 формировать: 55.txt, 107.txt
 формироваться: 16.txt, 41.txt, 121.txt
 формоса: 102.txt
+форт: 95.txt
 форточка: 86.txt, 106.txt
 фото: 1.txt, 2.txt, 3.txt, 4.txt, 5.txt, 6.txt, 7.txt, 8.txt, 9.txt, 10.txt, 11.txt, 12.txt, 13.txt, 14.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 21.txt, 22.txt, 23.txt, 24.txt, 25.txt, 26.txt, 27.txt, 28.txt, 29.txt, 30.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 36.txt, 37.txt, 38.txt, 39.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 45.txt, 46.txt, 47.txt, 48.txt, 49.txt, 50.txt, 51.txt, 52.txt, 53.txt, 54.txt, 55.txt, 56.txt, 57.txt, 58.txt, 59.txt, 60.txt, 61.txt, 62.txt, 63.txt, 64.txt, 65.txt, 66.txt, 67.txt, 68.txt, 69.txt, 70.txt, 71.txt, 72.txt, 73.txt, 74.txt, 75.txt, 76.txt, 77.txt, 78.txt, 79.txt, 80.txt, 81.txt, 82.txt, 83.txt, 84.txt, 85.txt, 86.txt, 87.txt, 88.txt, 89.txt, 90.txt, 91.txt, 92.txt, 93.txt, 94.txt, 95.txt, 96.txt, 97.txt, 98.txt, 99.txt, 100.txt, 101.txt, 102.txt, 103.txt, 104.txt, 105.txt, 106.txt, 107.txt, 108.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 117.txt, 118.txt, 119.txt, 120.txt, 121.txt, 122.txt, 123.txt, 124.txt
 фотограф: 60.txt
@@ -7526,6 +7528,7 @@
 фрагмент: 100.txt
 фраза: 112.txt
 фразеологизм: 112.txt
+франц: 98.txt
 франция: 117.txt
 французский: 45.txt, 93.txt
 фронт: 66.txt
@@ -7547,7 +7550,7 @@
 характеристика: 34.txt, 69.txt
 характерный: 1.txt, 2.txt, 3.txt, 13.txt, 18.txt, 19.txt, 24.txt, 26.txt, 34.txt, 48.txt, 59.txt, 68.txt, 79.txt, 90.txt, 102.txt, 106.txt, 114.txt, 117.txt, 121.txt
 харацинов: 83.txt
-хатико: 15.txt, 32.txt, 54.txt, 81.txt, 87.txt, 110.txt, 113.txt
+хатико: 15.txt, 32.txt, 54.txt, 73.txt, 81.txt, 87.txt, 110.txt, 113.txt
 хатка: 117.txt
 хвалить: 86.txt, 106.txt
 хват: 5.txt, 11.txt
@@ -7569,12 +7572,13 @@
 хитрость: 19.txt, 65.txt, 92.txt
 хитрунья: 59.txt
 хитрый: 102.txt, 113.txt, 122.txt
-хищник: 2.txt, 3.txt, 4.txt, 5.txt, 8.txt, 9.txt, 11.txt, 12.txt, 14.txt, 16.txt, 17.txt, 18.txt, 24.txt, 29.txt, 30.txt, 32.txt, 37.txt, 38.txt, 40.txt, 41.txt, 42.txt, 44.txt, 47.txt, 58.txt, 59.txt, 62.txt, 76.txt, 78.txt, 91.txt, 92.txt, 93.txt, 94.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 109.txt, 110.txt, 111.txt, 113.txt, 114.txt, 115.txt, 116.txt, 120.txt, 121.txt, 123.txt, 124.txt
+хищник: 2.txt, 3.txt, 4.txt, 5.txt, 8.txt, 9.txt, 11.txt, 12.txt, 14.txt, 16.txt, 17.txt, 18.txt, 24.txt, 25.txt, 28.txt, 29.txt, 30.txt, 32.txt, 35.txt, 37.txt, 38.txt, 40.txt, 41.txt, 42.txt, 43.txt, 44.txt, 47.txt, 58.txt, 59.txt, 62.txt, 65.txt, 71.txt, 72.txt, 76.txt, 78.txt, 79.txt, 91.txt, 92.txt, 93.txt, 94.txt, 97.txt, 98.txt, 99.txt, 101.txt, 102.txt, 109.txt, 110.txt, 111.txt, 112.txt, 113.txt, 114.txt, 115.txt, 116.txt, 120.txt, 121.txt, 123.txt, 124.txt
 хищница: 59.txt
 хищнический: 18.txt
 хищный: 3.txt, 5.txt, 6.txt, 7.txt, 12.txt, 14.txt, 16.txt, 17.txt, 18.txt, 24.txt, 26.txt, 27.txt, 28.txt, 32.txt, 34.txt, 38.txt, 41.txt, 42.txt, 44.txt, 45.txt, 52.txt, 55.txt, 59.txt, 65.txt, 71.txt, 72.txt, 76.txt, 78.txt, 79.txt, 96.txt, 97.txt, 99.txt, 101.txt, 104.txt, 119.txt, 121.txt, 122.txt, 123.txt, 124.txt
 хладнокровный: 48.txt
 хлеб: 26.txt
+хлебный: 26.txt
 хлопать: 117.txt
 хлопок: 117.txt
 хлопья: 22.txt
@@ -7615,6 +7619,7 @@
 хранить: 20.txt
 храниться: 81.txt
 хриплый: 12.txt
+хромис: 22.txt
 хромота: 88.txt
 хрупкий: 6.txt, 115.txt
 хруст: 72.txt
@@ -7673,6 +7678,7 @@
 цихлазома: 17.txt, 22.txt, 58.txt, 60.txt, 93.txt, 108.txt, 118.txt
 цихлазый: 22.txt
 цихлида: 22.txt
+цихловыя: 22.txt, 104.txt
 чад: 76.txt
 чадо: 46.txt, 65.txt
 чайка: 12.txt, 26.txt
@@ -7706,10 +7712,11 @@
 чередовать: 107.txt
 чередоваться: 24.txt
 череп: 18.txt, 30.txt, 33.txt, 43.txt, 44.txt, 58.txt, 62.txt, 94.txt
-черепаха: 11.txt, 21.txt, 25.txt, 30.txt, 34.txt, 40.txt, 53.txt, 70.txt, 76.txt, 112.txt, 115.txt
+черепаха: 11.txt, 21.txt, 25.txt, 30.txt, 31.txt, 34.txt, 40.txt, 53.txt, 70.txt, 76.txt, 112.txt, 115.txt
 черепаховый: 20.txt
 чернеть: 121.txt
 чернильный: 96.txt
+черно: 26.txt, 42.txt, 60.txt, 65.txt, 72.txt, 95.txt
 чернобурка: 51.txt
 черноголовый: 5.txt
 чернокрылый: 23.txt
@@ -7718,6 +7725,7 @@
 чернополосый: 17.txt, 22.txt, 58.txt, 60.txt, 93.txt, 108.txt, 118.txt
 чернохвостый: 52.txt
 чернощёкий: 23.txt
+чернушка: 26.txt
 черта: 3.txt, 12.txt, 13.txt, 16.txt, 19.txt, 26.txt, 64.txt, 73.txt, 83.txt, 87.txt, 99.txt, 102.txt
 черчилла: 98.txt
 черёмуха: 4.txt, 117.txt
@@ -7729,7 +7737,7 @@
 четвертичный: 18.txt
 четверть: 11.txt, 29.txt
 четвёртый: 32.txt, 101.txt
-четыре: 90.txt, 95.txt, 104.txt, 110.txt, 119.txt, 123.txt
+четыре: 40.txt, 90.txt, 95.txt, 104.txt, 110.txt, 119.txt, 123.txt
 чешуекрылый: 49.txt
 чешуйка: 58.txt
 чешуйчатый: 83.txt, 120.txt
@@ -7779,6 +7787,7 @@
 шакал: 24.txt, 116.txt
 шампунь: 73.txt, 74.txt, 87.txt, 107.txt
 шанс: 47.txt, 62.txt, 67.txt, 69.txt, 78.txt, 84.txt, 95.txt, 119.txt, 123.txt
+шанский: 47.txt
 шапка: 14.txt, 29.txt
 шапочка: 119.txt
 шарик: 20.txt
@@ -7801,7 +7810,7 @@
 шесть: 79.txt, 122.txt
 шея: 2.txt, 8.txt, 15.txt, 16.txt, 17.txt, 18.txt, 19.txt, 20.txt, 23.txt, 26.txt, 28.txt, 32.txt, 40.txt, 41.txt, 44.txt, 55.txt, 56.txt, 62.txt, 72.txt, 73.txt, 84.txt, 87.txt, 88.txt, 94.txt, 95.txt, 98.txt, 102.txt, 110.txt, 111.txt, 116.txt, 118.txt, 124.txt
 шикарный: 88.txt, 102.txt
-шимпанзе: 11.txt, 13.txt, 33.txt, 47.txt, 49.txt, 92.txt
+шимпанзе: 5.txt, 10.txt, 11.txt, 13.txt, 33.txt, 47.txt, 49.txt, 92.txt
 шиншилла: 5.txt, 28.txt, 51.txt, 68.txt, 84.txt, 86.txt, 92.txt
 шип: 25.txt, 58.txt, 89.txt
 шипение: 9.txt
@@ -7831,6 +7840,7 @@
 шотландия: 114.txt
 шотландский: 29.txt
 шоу: 95.txt
+шри: 15.txt, 116.txt
 штамм: 12.txt
 штанишки: 73.txt
 штат: 23.txt, 29.txt, 42.txt, 47.txt, 58.txt, 74.txt, 102.txt, 114.txt
@@ -7903,7 +7913,7 @@
 эмбрион: 47.txt, 121.txt
 эмоциональный: 13.txt, 19.txt, 119.txt
 эмоция: 11.txt, 13.txt, 19.txt, 20.txt, 41.txt, 107.txt, 119.txt
-эндемик: 30.txt, 40.txt, 44.txt, 60.txt, 80.txt, 92.txt
+эндемик: 30.txt, 40.txt, 44.txt, 60.txt, 62.txt, 80.txt, 92.txt, 95.txt
 энергетический: 122.txt
 энергично: 107.txt
 энергичность: 20.txt
@@ -7926,6 +7936,7 @@
 эшелон: 66.txt
 юар: 114.txt
 юг: 12.txt, 21.txt, 32.txt, 49.txt, 55.txt, 60.txt, 61.txt, 91.txt, 94.txt, 98.txt, 100.txt, 102.txt, 113.txt, 116.txt
+юго: 9.txt, 45.txt, 54.txt, 55.txt, 57.txt, 60.txt, 64.txt, 90.txt, 94.txt, 99.txt, 100.txt, 101.txt, 116.txt, 118.txt
 южноафриканский: 17.txt, 94.txt, 110.txt
 южный: 1.txt, 2.txt, 4.txt, 6.txt, 8.txt, 9.txt, 12.txt, 13.txt, 17.txt, 26.txt, 32.txt, 34.txt, 38.txt, 41.txt, 42.txt, 46.txt, 47.txt, 48.txt, 49.txt, 52.txt, 55.txt, 59.txt, 60.txt, 64.txt, 65.txt, 68.txt, 79.txt, 84.txt, 91.txt, 92.txt, 93.txt, 94.txt, 96.txt, 98.txt, 101.txt, 102.txt, 104.txt, 105.txt, 109.txt, 110.txt, 114.txt, 115.txt, 116.txt, 118.txt, 119.txt, 121.txt, 123.txt, 124.txt
 юкон: 124.txt
@@ -7943,7 +7954,7 @@
 ягуаровый: 51.txt
 ягулевый: 41.txt
 яд: 1.txt, 9.txt, 28.txt, 43.txt, 59.txt, 60.txt, 62.txt, 91.txt, 96.txt, 99.txt, 101.txt, 113.txt
-ядовитый: 9.txt, 20.txt, 40.txt, 43.txt, 46.txt, 58.txt, 59.txt, 62.txt, 90.txt, 96.txt, 101.txt, 105.txt, 106.txt, 114.txt, 115.txt
+ядовитый: 9.txt, 20.txt, 40.txt, 43.txt, 46.txt, 58.txt, 59.txt, 62.txt, 90.txt, 91.txt, 96.txt, 101.txt, 105.txt, 106.txt, 114.txt, 115.txt
 язвочка: 88.txt
 язык: 5.txt, 9.txt, 11.txt, 13.txt, 15.txt, 32.txt, 33.txt, 44.txt, 62.txt, 74.txt, 94.txt, 96.txt, 111.txt, 112.txt, 114.txt
 яйцевидный: 83.txt
@@ -7959,17 +7970,19 @@
 ямагути: 39.txt
 ямка: 93.txt
 ямный: 9.txt
-январь: 10.txt, 24.txt, 52.txt, 54.txt, 109.txt, 117.txt
+ян: 98.txt
+январь: 4.txt, 5.txt, 6.txt, 7.txt, 10.txt, 13.txt, 24.txt, 31.txt, 32.txt, 33.txt, 34.txt, 35.txt, 52.txt, 54.txt, 57.txt, 58.txt, 59.txt, 60.txt, 76.txt, 80.txt, 81.txt, 109.txt, 111.txt, 112.txt, 113.txt, 114.txt, 117.txt, 123.txt
 янтарный: 45.txt
 япония: 4.txt, 31.txt, 47.txt, 52.txt, 73.txt, 81.txt, 114.txt, 118.txt
 японский: 1.txt, 39.txt, 44.txt, 47.txt, 52.txt, 55.txt, 67.txt, 73.txt
 яркий: 17.txt, 18.txt, 22.txt, 23.txt, 44.txt, 49.txt, 51.txt, 56.txt, 59.txt, 61.txt, 72.txt, 73.txt, 101.txt, 102.txt, 104.txt, 106.txt, 108.txt, 124.txt
-ярко: 1.txt, 3.txt, 4.txt, 12.txt, 19.txt, 21.txt, 55.txt, 60.txt, 78.txt
+ярко: 1.txt, 3.txt, 4.txt, 12.txt, 19.txt, 21.txt, 55.txt, 60.txt, 78.txt, 106.txt, 113.txt
 яркость: 106.txt
 ярок: 79.txt
 яростно: 22.txt, 97.txt
+ястреб: 14.txt, 26.txt, 27.txt, 52.txt
 ящерица: 9.txt, 24.txt, 60.txt, 62.txt, 71.txt, 99.txt, 102.txt
-ёж: 2.txt, 9.txt, 23.txt, 37.txt, 63.txt, 71.txt, 74.txt, 82.txt, 102.txt, 103.txt, 113.txt
+ёж: 2.txt, 9.txt, 23.txt, 32.txt, 37.txt, 43.txt, 63.txt, 68.txt, 71.txt, 74.txt, 82.txt, 102.txt, 103.txt, 113.txt
 ёжик: 103.txt
 ёмкостный: 104.txt
 ёмкость: 2.txt, 23.txt, 84.txt

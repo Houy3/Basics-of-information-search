@@ -23,9 +23,10 @@ def tokenize(text):
 
 def clean_html(text):
     soup = BeautifulSoup(text, 'html.parser')
-    cleaned_text = soup.get_text()
-    cleaned_text = re.sub(r'\s-\s|^-\s|-$', ' ', cleaned_text)
-    return cleaned_text
+    cleaned_text = soup.get_text(separator=' ')
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+    cleaned_text = re.sub(r'(?<!\s)-(?!\s)|^-\s|\s-$', ' ', cleaned_text)
+    return cleaned_text.strip()
 
 def read_file_text(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
