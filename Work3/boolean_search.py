@@ -122,7 +122,7 @@ class BooleanSearchEngine:
             return []
 
 def main():
-    engine = BooleanSearchEngine('inverted_index.txt', '../Work1/result/article_list/')
+    engine = BooleanSearchEngine('./result/inverted_index.txt', '../Work1/result/article_list/')
     print("\033[1;36m" + "=== Булев поиск ===" + "\033[0m")
     print("\033[90mДоступные операторы: AND, OR, NOT, скобки\033[0m")
     print("\033[90mВведите 'help' для справки или 'exit' для выхода\033[0m")
