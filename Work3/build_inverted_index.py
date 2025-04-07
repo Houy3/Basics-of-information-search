@@ -1,73 +1,29 @@
 import os
-import re
-import nltk
-from nltk.corpus import stopwords
-from collections import defaultdict
-import pymorphy2
-from tqdm import tqdm
+import json
 
-from common import read_file_text, contains, clean_html
+lemmas_by_file_list_folder = "../Work2/result"
+output_file = os.path.join(os.path.join(os.path.dirname(__file__), "result"), "inverted_index.txt") # Выходной файл
 
-nltk.download('punkt', quiet=True)
-nltk.download('stopwords', quiet=True)
+# Генерация инвертированного индекса
+def build_inverted_index():
+    index = dict()
 
-morph = pymorphy2.MorphAnalyzer()
-stop_words = set(stopwords.words('russian'))
+    for file_name in os.listdir(lemmas_by_file_list_folder):
+        if not file_name.endswith("-lemmas.txt"):
+            continue
 
-lemmas_path = "../Work2/lemmas.txt"
-tokens_path = "../Work2/tokens.txt"
-output_file = 'inverted_index.txt'
+        file_id = file_name.replace('-lemmas.txt','')
+        with open(os.path.join(lemmas_by_file_list_folder, file_name), 'r', encoding='utf-8') as f:
+            for line in f.readlines():
+                lemma = line.split(' ')[0]
+                if lemma in index:
+                    index[lemma].append(file_id)
+                else:
+                    index[lemma] = [file_id]
+    return index
 
-def extract_file_number(filename: str) -> int:
-    match = re.search(r'\d+', filename)
-    return int(match.group()) if match else 0
 
-def build_inverted_index(path) -> tuple[defaultdict, dict]:
-    index = defaultdict(set)
-    doc_mapping = {}
+inverted_index = build_inverted_index()
 
-    lemmas = read_file_text(lemmas_path).split("\n")
-
-    file_names = sorted(
-        [f for f in os.listdir(path) if f.endswith('.txt')],
-        key=lambda x: int(''.join(filter(str.isdigit, x.split('.')[0])))
-    )
-
-    for doc_id, file_name in tqdm(enumerate(file_names), total=len(file_names), desc="Индексация"):
-        file_path = os.path.join(path, file_name)
-
-        file_text = clean_html(read_file_text(file_path)).lower()
-        file_tokens = set(file_text.split())
-
-        for lemma_info in lemmas:
-            words = lemma_info.split(" ")
-            if not lemma_info:
-                continue
-            lemma = words[0]
-            tokens = words[1:]
-
-            for token in tokens:
-                if token in file_tokens:
-                    index[lemma].add(doc_id)
-                    break
-
-        doc_mapping[doc_id] = file_name
-
-    return index, doc_mapping
-
-def save_index(index: defaultdict, doc_mapping: dict) -> None:
-    with open(output_file, 'w', encoding='utf-8') as f:
-        for lemma in sorted(index.keys()):
-            doc_ids = sorted(index[lemma])
-            files = [doc_mapping[doc_id] for doc_id in doc_ids]
-            files_str = ', '.join(files)
-            f.write(f"{lemma}: {files_str}\n")
-
-if __name__ == "__main__":
-    folder_path = '../Work1/result/article_list/'
-    try:
-        index, doc_mapping = build_inverted_index(folder_path)
-        save_index(index, doc_mapping)
-        print(f"\nИндекс успешно создан. Обработано документов: {len(doc_mapping)}")
-    except Exception as e:
-        print(f"Ошибка: {str(e)}")
+with open(output_file, 'w', encoding='utf-8') as f:
+    f.write(json.dumps(inverted_index, indent=1, ensure_ascii=False))

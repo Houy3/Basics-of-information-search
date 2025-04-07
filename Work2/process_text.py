@@ -3,7 +3,7 @@ from nltk.corpus import stopwords
 import nltk
 from common import lemmatize_tokens, tokenize, clean_html
 
-nltk.download('stopwords')
+nltk.download('stopwords', quiet=True)
 russian_stopwords = set(stopwords.words('russian'))
 
 article_list_folder = "../Work1/result/article_list"
