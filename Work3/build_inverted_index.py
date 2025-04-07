@@ -12,7 +12,7 @@ def build_inverted_index():
         if not file_name.endswith("-lemmas.txt"):
             continue
 
-        file_id = file_name.replace('-lemmas.txt','')
+        file_id = int(file_name.replace('-lemmas.txt',''))
         with open(os.path.join(lemmas_by_file_list_folder, file_name), 'r', encoding='utf-8') as f:
             for line in f.readlines():
                 lemma = line.split(' ')[0]
@@ -21,7 +21,6 @@ def build_inverted_index():
                 else:
                     index[lemma] = [file_id]
     return index
-
 
 inverted_index = build_inverted_index()
 
