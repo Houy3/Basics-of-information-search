@@ -1,4 +1,3 @@
-# app.py
 from flask import Flask, render_template, request, jsonify, send_from_directory
 import math
 import os
@@ -10,18 +9,14 @@ from time import perf_counter
 app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
 
-# Кэш для автодополнений (можно заменить на Redis для продакшена)
 autocomplete_cache = set()
 
-
 def load_data():
-    """Оптимизированная загрузка данных с параллельным чтением файлов"""
     morph = MorphAnalyzer()
     tfidf = defaultdict(dict)
     index = defaultdict(list)
     global autocomplete_cache
 
-    # Загрузка TF-IDF с использованием пула потоков
     def process_tfidf_file(file):
         doc_id = file.replace("_terms.txt", "")
         with open(os.path.join(terms_dir, file), "r", encoding="utf-8") as f:
@@ -32,7 +27,7 @@ def load_data():
                 term, _, tfidf_val = parts
                 lemma = morph.parse(term)[0].normal_form
                 tfidf[doc_id][lemma] = float(tfidf_val)
-                autocomplete_cache.add(lemma)  # Собираем термины для автодополнения
+                autocomplete_cache.add(lemma)
 
     terms_dir = "../Work4/result/terms"
     try:
@@ -42,7 +37,6 @@ def load_data():
     except Exception as e:
         print(f"Ошибка загрузки TF-IDF: {str(e)}")
 
-    # Загрузка инвертированного индекса
     index_file = "../Work3/result/inverted_index.txt"
     try:
         with open(index_file, "r", encoding="utf-8") as f:
@@ -61,7 +55,6 @@ tfidf, index = load_data()
 print(f"✅ Данные загружены за {perf_counter() - start_time:.2f} сек")
 
 def vector_search(query):
-    """Корректный расчет сходства"""
     morph = MorphAnalyzer()
     query_terms = [
         morph.parse(word.lower())[0].normal_form
@@ -99,7 +92,6 @@ def vector_search(query):
     return sorted(results, key=lambda x: -x[1])[:10]
 
 def calculate_score(doc, query_terms, query_vec):
-    """Вспомогательная функция для параллельных вычислений"""
     doc_vec = tfidf.get(doc, {})
     dot = sum(query_vec.get(t, 0) * doc_vec.get(t, 0) for t in query_terms)
     norm_q = math.sqrt(sum(v ** 2 for v in query_vec.values()))
@@ -112,7 +104,6 @@ def calculate_score(doc, query_terms, query_vec):
 @app.route("/")
 def index_page():
     return render_template("index.html")
-
 
 @app.route("/search", methods=["POST"])
 def search_api():

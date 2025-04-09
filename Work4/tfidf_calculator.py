@@ -4,7 +4,6 @@ from collections import defaultdict
 from tqdm import tqdm
 
 def load_lemmas(lemmas_file):
-    """Загрузка лемм из файла с обработкой ошибок"""
     lemmas_dict = {}
     try:
         with open(lemmas_file, 'r', encoding='utf-8') as f:
@@ -20,7 +19,6 @@ def load_lemmas(lemmas_file):
     return lemmas_dict
 
 def calculate_tf(tokens):
-    """Расчёт TF с проверкой на пустые данные"""
     tf = defaultdict(float)
     total = len(tokens)
     if total == 0:
@@ -30,7 +28,6 @@ def calculate_tf(tokens):
     return {k: v / total for k, v in tf.items()}
 
 def calculate_idf(docs_items):
-    """Расчёт IDF с защитой от отрицательных значений"""
     idf = defaultdict(float)
     total_docs = len(docs_items)
     if total_docs == 0:
@@ -48,26 +45,22 @@ def calculate_idf(docs_items):
     }
 
 def process_tfidf():
-    """Основной процесс с улучшенным управлением"""
     input_dir = "../Work2/result"
     output_dir = "result"
     os.makedirs(f"{output_dir}/terms", exist_ok=True)
     os.makedirs(f"{output_dir}/lemmas", exist_ok=True)
 
-    # Сбор данных с проверкой соответствия
     files = [
         f.split("-lemmas.txt")[0]
         for f in os.listdir(input_dir)
         if f.endswith("-lemmas.txt")
     ]
 
-    # Параллельная загрузка данных
     all_data = []
     for name in tqdm(files, desc="📂 Загрузка"):
         lemma_file = os.path.join(input_dir, f"{name}-lemmas.txt")
         token_file = os.path.join(input_dir, f"{name}-tokens.txt")
 
-        # Проверка существования файлов
         if not os.path.exists(lemma_file):
             tqdm.write(f"🚨 Файл {lemma_file} не найден")
             continue
@@ -85,16 +78,12 @@ def process_tfidf():
 
         all_data.append((name, lemmas, tokens))
 
-    # Расчёт IDF для терминов и лемм
     idf_terms = calculate_idf([d[2] for d in all_data])
     idf_lemmas = calculate_idf([list(d[1].keys()) for d in all_data])
 
-    # Обработка документов
     for name, lemmas, tokens in tqdm(all_data, desc="🔧 Обработка"):
-        # TF для терминов
         tf_terms = calculate_tf(tokens)
 
-        # Запись терминов
         try:
             with open(f"{output_dir}/terms/{name}_terms.txt", "w", encoding="utf-8") as f:
                 for term, tf in tf_terms.items():
@@ -104,20 +93,16 @@ def process_tfidf():
         except Exception as e:
             tqdm.write(f"🚨 Ошибка записи terms {name}: {e}")
 
-        # TF и TF-IDF для лемм
         total_terms = len(tokens)
         if total_terms == 0:
             continue
 
         lemma_scores = {}
         for lemma, words in lemmas.items():
-            # TF леммы: сумма вхождений терминов / общее число терминов
             count = sum(1 for token in tokens if token in words)
             tf_lemma = count / total_terms
-            # TF-IDF леммы
             lemma_scores[lemma] = tf_lemma * idf_lemmas.get(lemma, 0.0)
 
-        # Запись лемм
         try:
             with open(f"{output_dir}/lemmas/{name}_lemmas.txt", "w", encoding="utf-8") as f:
                 for lemma, score in lemma_scores.items():
