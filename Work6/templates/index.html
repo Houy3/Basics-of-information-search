@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔍 Умный поиск документов</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        body {
+            background: #f8f9fa;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .search-box {
+            background: white;
+            padding: 2rem;
+            border-radius: 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            color: #1a1a1a;
+            font-size: 2.2rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            font-weight: 500;
+        }
+
+        .search-group {
+            position: relative;
+            flex: 1;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            outline: none;
+            transition: all 0.3s;
+            padding-right: 120px;
+        }
+
+        .search-input:focus {
+            border-color: #4dabf7;
+            box-shadow: 0 0 0 3px rgba(77, 171, 247, 0.2);
+        }
+
+        .search-button {
+            position: absolute;
+            right: 5px;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 0.7rem 1.5rem;
+            background: #4dabf7;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .search-button:hover {
+            background: #339af0;
+        }
+
+        .results {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            padding: 2rem;
+            margin-top: 1rem;
+        }
+
+        .results-header {
+            margin-bottom: 1.5rem;
+        }
+
+        .query-info {
+            color: #495057;
+            font-size: 1rem;
+            margin-bottom: 1.5rem;
+            padding: 8px 12px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            display: inline-block;
+        }
+
+        .results-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .table-header {
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .table-header th {
+            padding: 1rem;
+            text-align: left;
+            color: #868e96;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .table-header th:first-child {
+            width: 80%;
+        }
+
+        .result-row {
+            border-bottom: 1px solid #f1f3f5;
+            transition: background 0.2s;
+            cursor: pointer;
+        }
+
+        .result-row:hover {
+            background: #f8f9fa;
+        }
+
+        .result-row td {
+            padding: 1.2rem;
+            vertical-align: middle;
+        }
+
+        .document-name {
+            font-weight: 500;
+            color: #212529;
+        }
+
+        .similarity-score {
+            color: #868e96;
+            background: #f1f3f5;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            display: inline-block;
+        }
+
+        .loader {
+            display: none;
+            text-align: center;
+            padding: 1.5rem;
+            color: #4dabf7;
+            font-size: 1.1rem;
+        }
+
+        .suggestions {
+            position: absolute;
+            width: 100%;
+            max-height: 300px;
+            overflow-y: auto;
+            background: white;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            margin-top: 8px;
+            z-index: 1000;
+            display: none;
+        }
+
+        .suggestion-item {
+            padding: 12px 1.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: #495057;
+        }
+
+        .suggestion-item:hover {
+            background: #f8f9fa;
+            color: #339af0;
+        }
+
+        .preview-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .preview-container {
+            background: white;
+            border-radius: 8px;
+            padding: 2rem;
+            max-width: 800px;
+            max-height: 90vh;
+            width: 90%;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .preview-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            cursor: pointer;
+            font-size: 1.5rem;
+            color: #666;
+        }
+
+        .preview-content {
+            margin-top: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+
+            .search-box {
+                padding: 1.5rem;
+            }
+
+            .search-button {
+                padding: 0.5rem 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="search-box">
+            <h1>Поиск по документам</h1>
+            <div class="search-group">
+                <input
+                    type="text"
+                    class="search-input"
+                    placeholder="Введите запрос и нажмите «Найти»..."
+                    id="searchInput"
+                    autocomplete="off"
+                >
+                <div id="suggestions" class="suggestions"></div>
+                <button class="search-button" id="searchButton">Найти</button>
+            </div>
+            <div class="loader" id="loader">Поиск документов...</div>
+        </div>
+
+        <div class="results" id="results">
+            <div class="results-header" id="resultsHeader" style="display: none;">
+                <div class="query-info" id="queryInfo">
+                    <span>🔍 Поисковый запрос: </span>
+                    <span id="queryText"></span>
+                </div>
+                <table class="results-table">
+                    <thead class="table-header">
+                        <tr>
+                            <th>Название документа</th>
+                            <th>Сходство</th>
+                        </tr>
+                    </thead>
+                    <tbody id="resultsList"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="preview-overlay" id="previewOverlay">
+        <div class="preview-container">
+            <span class="preview-close" id="previewClose">&times;</span>
+            <div class="preview-content" id="previewContent"></div>
+        </div>
+    </div>
+
+    <script>
+        const MIN_QUERY_LENGTH = 2;
+        const suggestions = document.getElementById('suggestions');
+
+        const performSearch = async (query) => {
+            const loader = document.getElementById('loader');
+            const resultsList = document.getElementById('resultsList');
+            const resultsHeader = document.getElementById('resultsHeader');
+            const queryText = document.getElementById('queryText');
+
+            if (query.trim().length < MIN_QUERY_LENGTH) return;
+
+            loader.style.display = 'block';
+            resultsList.innerHTML = '';
+            resultsHeader.style.display = 'none';
+            suggestions.style.display = 'none';
+
+            try {
+                const response = await fetch('/search', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ query })
+                });
+
+                const data = await response.json();
+
+                resultsHeader.style.display = 'block';
+                queryText.textContent = `«${query}»`;
+
+                if (data.results.length === 0) {
+                    resultsList.innerHTML = `
+                        <tr class="result-row">
+                            <td colspan="2" style="text-align: center; color: #868e96">
+                                Совпадений не найдено
+                            </td>
+                        </tr>
+                    `;
+                } else {
+                    resultsList.innerHTML = data.results.map(([doc, score]) => `
+                        <tr class="result-row" data-doc-id="${doc}">
+                            <td class="document-name">📄 Документ ${doc}</td>
+                            <td><span class="similarity-score">${score.toFixed(4)}</span></td>
+                        </tr>
+                    `).join('');
+
+                    document.querySelectorAll('.result-row').forEach(row => {
+                        row.addEventListener('click', async () => {
+                            const docId = row.dataset.docId;
+                            showPreview(docId);
+                        });
+                    });
+                }
+            } catch (error) {
+                resultsList.innerHTML = `
+                    <tr class="result-row">
+                        <td colspan="2" style="color: #ff6b6b">
+                            ⚠️ Ошибка поиска: ${error.message}
+                        </td>
+                    </tr>
+                `;
+            } finally {
+                loader.style.display = 'none';
+            }
+        };
+
+        async function showPreview(docId) {
+            try {
+                const response = await fetch(`/preview/${docId}`);
+                const content = await response.text();
+
+                document.getElementById('previewOverlay').style.display = 'flex';
+                document.getElementById('previewContent').innerHTML = content;
+            } catch (error) {
+                alert('Ошибка загрузки документа: ' + error.message);
+            }
+        }
+
+        function closePreview() {
+            document.getElementById('previewOverlay').style.display = 'none';
+            document.getElementById('previewContent').innerHTML = '';
+        }
+
+        document.getElementById('previewClose').addEventListener('click', closePreview);
+        document.getElementById('previewOverlay').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('previewOverlay')) {
+                closePreview();
+            }
+        });
+
+        document.getElementById('searchInput').addEventListener('input', async (e) => {
+            const query = e.target.value.trim();
+            suggestions.innerHTML = '';
+
+            if (query.length >= MIN_QUERY_LENGTH) {
+                suggestions.style.display = 'block';
+                try {
+                    const response = await fetch(`/autocomplete?term=${encodeURIComponent(query)}`);
+                    const data = await response.json();
+
+                    if (data.length > 0) {
+                        suggestions.innerHTML = data.map(word => `
+                            <div class="suggestion-item" data-query="${word}">
+                                ${word}
+                            </div>
+                        `).join('');
+                    }
+                } catch (error) {
+                    console.error('Ошибка автодополнения:', error);
+                }
+            } else {
+                suggestions.style.display = 'none';
+            }
+        });
+
+        suggestions.addEventListener('click', (e) => {
+            if (e.target.closest('.suggestion-item')) {
+                const query = e.target.closest('.suggestion-item').dataset.query;
+                document.getElementById('searchInput').value = query;
+                suggestions.style.display = 'none';
+                performSearch(query);
+            }
+        });
+
+        document.getElementById('searchButton').addEventListener('click', (e) => {
+            e.preventDefault();
+            const query = document.getElementById('searchInput').value.trim();
+            suggestions.style.display = 'none';
+            performSearch(query);
+        });
+
+        document.getElementById('searchInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                suggestions.style.display = 'none';
+                performSearch(document.getElementById('searchInput').value.trim());
+            }
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-group')) {
+                suggestions.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>

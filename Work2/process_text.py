@@ -1,25 +1,9 @@
 import os
-from nltk.corpus import stopwords
-import nltk
-from common import lemmatize_tokens, tokenize, clean_html
-
-nltk.download('stopwords', quiet=True)
-russian_stopwords = set(stopwords.words('russian'))
 
 article_list_folder = "../Work1/result/article_list"
-OUTPUT_DIRECTORY = os.path.join(os.path.dirname(__file__), "result") # Выходная папка
+OUTPUT_DIRECTORY = os.path.join(os.path.dirname(__file__), "result")
 
-# читаем файл, чистим html теги и разбиваем на токены
-def process_files(file_name):
-    tokens = set()
-    with open(file_name, 'r', encoding='utf-8') as f:
-        for token in tokenize(clean_html(f.read())):
-            token = token.lower()
-            if token not in russian_stopwords:
-                tokens.add(token)
-    return list(tokens)
-
-# main
+from common import process_files, lemmatize_tokens
 
 for file_name in os.listdir(article_list_folder):
 
