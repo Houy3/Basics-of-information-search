@@ -17,21 +17,21 @@
 
 ### 2. **Токенизация**  
 **Файлы:**  
-- [process_text.py](/Work2/result/process_text.py) | [tokens.txt](/Work2/result/tokens.txt)  
+- [process_text.py](/Work2/process_text.py) | [tokens.txt](/Work2/result)  
 **Задача:** Очистить текст от мусора и выделить уникальные токены.
 
 ---
 
 ### 3. **Инвертированный индекс**  
 **Файлы:**  
-- [boolean_search.py](/Work3/result/boolean_search.py) | [Индекс](/Work3/result/inverted_index.txt)  
+- [boolean_search.py](/Work3/boolean_search.py) | [Генерация индекса](/Work3/build_inverted_index.py) | [Индекс](/Work3/result/inverted_index.txt)  
 **Функционал:** Поиск с операторами `AND`, `OR`, `NOT`.
 
 ---
 
 ### 4. **Расчет TF-IDF**  
 **Файлы:**  
-- [tfidf_calculator.py](/Work4/result/tfidf_calculator.py)  
+- [tfidf_calculator.py](/Work4/tfidf_calculator.py)  
 **Формат:** `<термин> <idf> <tf-idf>`.
 
 ---
