@@ -320,8 +320,8 @@
                         </tr>
                     `;
                 } else {
-                    resultsList.innerHTML = data.results.map(([doc, score]) => `
-                        <tr class="result-row" data-doc-id="${doc}">
+                    resultsList.innerHTML = data.results.map(([doc, score, link]) => `
+                        <tr class="result-row" data-doc-id="${doc}" data-link="${link}">
                             <td class="document-name">📄 Документ ${doc}</td>
                             <td><span class="similarity-score">${score.toFixed(4)}</span></td>
                         </tr>
@@ -329,8 +329,8 @@
 
                     document.querySelectorAll('.result-row').forEach(row => {
                         row.addEventListener('click', async () => {
-                            const docId = row.dataset.docId;
-                            showPreview(docId);
+                            const link = row.dataset.link;
+                            window.open(link, '_blank').focus();
                         });
                     });
                 }

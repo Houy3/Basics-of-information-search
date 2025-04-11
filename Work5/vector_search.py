@@ -45,6 +45,23 @@ def load_inverted_index(index_file):
         print(f"[ERROR] Файл {index_file}: {str(e)}")
     return index
 
+def load_links(index_file):
+    if not os.path.exists(index_file):
+        print(f"[ERROR] Файл {index_file} не найден!")
+        return
+
+    links = defaultdict()
+    try:
+        with open(index_file, "r", encoding="utf-8") as f:
+            for line in f:
+                if " - " not in line:
+                    continue
+                file_name, link = line.strip().split(" - ", 2)
+                links[file_name.replace(".txt", "")] = link
+    except Exception as e:
+        print(f"[ERROR] Файл {index_file}: {str(e)}")
+    return links
+
 def lemmatize_query(query):
     morph = MorphAnalyzer()
     lemmas = []
@@ -56,7 +73,7 @@ def lemmatize_query(query):
         lemmas.append(lemma)
     return lemmas
 
-def vector_search(query, tfidf, index, top_n=10):
+def vector_search(query, tfidf, index, links, top_n=10):
     query_terms = lemmatize_query(query)
     if not query_terms:
         return []
@@ -85,7 +102,9 @@ def vector_search(query, tfidf, index, top_n=10):
         norm_doc = math.sqrt(sum(v ** 2 for v in doc_vec.values()))
 
         score = dot / (norm_query * norm_doc) if (norm_query * norm_doc) != 0 else 0.0
-        results.append((doc, score))
+
+        link = links[doc]
+        results.append((doc, score, link))
 
     return sorted(results, key=lambda x: -x[1])[:top_n]
 
@@ -93,6 +112,7 @@ def main():
     print("🔍 Загрузка данных...")
     tfidf = load_tfidf("../Work4/result/terms")
     index = load_inverted_index("../Work3/result/inverted_index.txt")
+    links = load_links("../Work1/result/index.txt")
     print(f"✅ Загружено документов: {len(tfidf)}")
 
     while True:
@@ -102,7 +122,7 @@ def main():
                 print("\n🛑 Работа завершена")
                 break
 
-            results = vector_search(query, tfidf, index)
+            results = vector_search(query, tfidf,links, index)
 
             if not results:
                 print("\n❌ Совпадений не найдено")
