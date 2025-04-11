@@ -122,7 +122,7 @@ def main():
                 print("\n🛑 Работа завершена")
                 break
 
-            results = vector_search(query, tfidf,links, index)
+            results = vector_search(query, tfidf, index, links)
 
             if not results:
                 print("\n❌ Совпадений не найдено")
