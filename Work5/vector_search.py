@@ -5,6 +5,10 @@ from tqdm import tqdm
 from pymorphy3 import MorphAnalyzer
 
 def load_tfidf(terms_dir):
+    if not os.path.exists(terms_dir):
+        print(f"[ERROR] Директория {terms_dir} не существует!")
+        return
+
     morph = MorphAnalyzer()
     tfidf = defaultdict(dict)
     files = [f for f in os.listdir(terms_dir) if f.endswith("_terms.txt")]
@@ -25,6 +29,10 @@ def load_tfidf(terms_dir):
     return tfidf
 
 def load_inverted_index(index_file):
+    if not os.path.exists(index_file):
+        print(f"[ERROR] Файл {index_file} не найден!")
+        return
+
     index = defaultdict(list)
     try:
         with open(index_file, "r", encoding="utf-8") as f:
@@ -82,19 +90,9 @@ def vector_search(query, tfidf, index, top_n=10):
     return sorted(results, key=lambda x: -x[1])[:top_n]
 
 def main():
-    terms_dir = "../Work4/result/terms"
-    index_file = "../Work3/result/inverted_index.txt"
-
-    if not os.path.exists(terms_dir):
-        print(f"[ERROR] Директория {terms_dir} не существует!")
-        return
-    if not os.path.exists(index_file):
-        print(f"[ERROR] Файл {index_file} не найден!")
-        return
-
     print("🔍 Загрузка данных...")
-    tfidf = load_tfidf(terms_dir)
-    index = load_inverted_index(index_file)
+    tfidf = load_tfidf("../Work4/result/terms")
+    index = load_inverted_index("../Work3/result/inverted_index.txt")
     print(f"✅ Загружено документов: {len(tfidf)}")
 
     while True:
